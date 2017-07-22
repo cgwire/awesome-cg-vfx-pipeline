@@ -1,21 +1,21 @@
-# Awesome CG Pipeline
+# Awesome CG Pipeline
 
 List of open-source technologies that will help in the process of building a
-pipeline for CG productions.
+pipeline for CG productions.
 
 ## Image software
 
 * [Blender](https://blender.org) - Modelisation and animation
 * [Natron](https://natron.fr) - Compositing 
-* [The Gimp](https://www.gimp.org) - Image edition 
+* [The Gimp](https://www.gimp.org) - Image edition 
 
-## Libraries
+## Libraries
 
 * [Lucidity](http://lucidity.readthedocs.io/en/latest/) - File path template 
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
 * [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph.
 
-## Dockers
+## Dockers
 
 * [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
 * [Maya](https://github.com/mottosso/docker-maya)
