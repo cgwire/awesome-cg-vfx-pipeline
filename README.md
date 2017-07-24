@@ -8,6 +8,7 @@ pipeline for CG productions.
 * [Blender](https://blender.org) - Modelisation and animation
 * [Natron](https://natron.fr) - Compositing 
 * [The Gimp](https://www.gimp.org) - Image edition 
+* [Krita](https://krita.org) - Image edition 
 
 ## Libraries
 
