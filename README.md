@@ -12,21 +12,21 @@ pipeline for CG productions.
 
 ## Libraries
 
-### File path
+### File path
 
 * [Lucidity](http://lucidity.readthedocs.io/en/latest/) - File path template 
-### UI
+### UI
 
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph.
 
-### CG Software API
+### CG Software API
 
 * [Cross3D](https://github.com/blurstudio/cross3d) - Scene and node management
   abstraction
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
-* [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
+* [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
 
 ### Geometry
 
@@ -52,7 +52,7 @@ pipeline for CG productions.
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
 
-## Graph database
+## Graph database
 
 * [ArangoDB](https://github.com/arangodb/arangodb)
 * [Cayley](https://github.com/cayleygraph/cayley)
@@ -64,4 +64,4 @@ pipeline for CG productions.
 * [Beginning Python For Maya](http://zurbrigg.com/training/beginning-python-for-maya)
 * [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
 * [Example of Python scripts for 3D Studio Max, Maya and Blender](https://github.com/p4vv37/3D_Software_and_Python/)
-* [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
+* [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
