@@ -61,6 +61,19 @@ Any contribution is welcome!
 * [Neo4j](https://github.com/neo4j)
 * [OrientDB](https://orientdb.com)
 
+## Relational databases
+
+* [MySQL](http://www.mysql.com)
+
+## Document-based datastores
+
+* [MongoDB](http://www.mongodb.org)
+* [Cassandra](http://cassandra.apache.org/)
+
+## Monitoring Web Services
+
+* [ELK Stack](https://www.elastic.co/webinars/introduction-elk-stack)
+
 ## Resources / Tutorials
 
 * [Beginning Python For Maya](http://zurbrigg.com/training/beginning-python-for-maya)
