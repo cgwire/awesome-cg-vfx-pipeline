@@ -12,12 +12,32 @@ pipeline for CG productions.
 
 ## Libraries
 
+### File path
+
 * [Lucidity](http://lucidity.readthedocs.io/en/latest/) - File path template 
+### UI
+
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
+* [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph.
+
+### CG Software API
+
+* [Cross3D](https://github.com/blurstudio/cross3d) - Scene and node management
+  abstraction
+* [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
+* [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
+
+### Geometry
+
+* [Simplex](https://github.com/blurstudio/Simplex) - Blendshape Solver
+* [CvWrap](https://github.com/chadmv/cvwrap) - Fast Maya wrap deformer
+* [Blender Addons](https://github.com/Antonioya/blender) - Helpers for Blender
+* [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Geo data importer
 
 ## Dockers
 
+* [Deadline](https://github.com/mottosso/docker-deadline)
 * [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
 * [Maya](https://github.com/mottosso/docker-maya)
 
@@ -31,3 +51,17 @@ pipeline for CG productions.
 ## Production Managers
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
+
+## Graph database
+
+* [ArangoDB](https://github.com/arangodb/arangodb)
+* [Cayley](https://github.com/cayleygraph/cayley)
+* [Neo4j](https://github.com/neo4j)
+* [OrientDB](https://orientdb.com)
+
+## Resources / Tutorials
+
+* [Beginning Python For Maya](http://zurbrigg.com/training/beginning-python-for-maya)
+* [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
+* [Example of Python scripts for 3D Studio Max, Maya and Blender](https://github.com/p4vv37/3D_Software_and_Python/)
+* [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
