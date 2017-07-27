@@ -3,6 +3,8 @@
 List of open-source technologies that will help in the process of building a
 pipeline for CG productions.
 
+Any contribution is welcome!
+
 ## Image software
 
 * [Blender](https://blender.org) - Modelisation and animation
@@ -52,7 +54,7 @@ pipeline for CG productions.
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
 
-## Graph database
+## Graph databases
 
 * [ArangoDB](https://github.com/arangodb/arangodb)
 * [Cayley](https://github.com/cayleygraph/cayley)
