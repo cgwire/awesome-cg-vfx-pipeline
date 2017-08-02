@@ -54,18 +54,20 @@ Any contribution is welcome!
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
 
-## Graph databases
+## Databases
+
+### Graph
 
 * [ArangoDB](https://github.com/arangodb/arangodb)
 * [Cayley](https://github.com/cayleygraph/cayley)
 * [Neo4j](https://github.com/neo4j)
 * [OrientDB](https://orientdb.com)
 
-## Relational databases
+### Relational
 
 * [MySQL](http://www.mysql.com)
 
-## Document-based datastores
+### Document-based
 
 * [MongoDB](http://www.mongodb.org)
 * [Cassandra](http://cassandra.apache.org/)
