@@ -56,7 +56,7 @@ Any contribution is welcome!
 
 ## Databases
 
-### Graph
+### Graph
 
 * [ArangoDB](https://github.com/arangodb/arangodb)
 * [Cayley](https://github.com/cayleygraph/cayley)
