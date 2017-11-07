@@ -11,6 +11,7 @@ Any contribution is welcome!
 * [Natron](https://natron.fr) - Compositing 
 * [The Gimp](https://www.gimp.org) - Image edition 
 * [Krita](https://krita.org) - Image edition 
+* [CasparCG](https://github.com/CasparCG) - Video broadcast
 
 ## Libraries
 
@@ -37,6 +38,12 @@ Any contribution is welcome!
 * [Blender Addons](https://github.com/Antonioya/blender) - Helpers for Blender
 * [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Geo data importer
 
+## File formats
+
+* [Alembic](http://www.alembic.io/) - Animations
+* [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
+* [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
+
 ## Dockers
 
 * [Deadline](https://github.com/mottosso/docker-deadline)
@@ -47,12 +54,18 @@ Any contribution is welcome!
 
 * [Avalon](https://getavalon.github.io)
 * [Damas](http://damas-software.org/)
+* [Gaffer](https://github.com/GafferHQ/gaffer)
 * [Kabaret](https://pythonhosted.org/kabaret/)
 * [Plex](https://github.com/richteralexander/plex)
 
 ## Production Managers
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
+
+## Plugins
+
+* [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke.
+
 
 ## Databases
 
