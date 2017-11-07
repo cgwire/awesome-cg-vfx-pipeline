@@ -18,6 +18,9 @@ Any contribution is welcome!
 ### File path
 
 * [Lucidity](http://lucidity.readthedocs.io/en/latest/) - File path template 
+* [Fileseq](https://github.com/sqlboy/fileseq) -  Frame ranges and file sequences parsing 
+
+
 ### UI
 
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
