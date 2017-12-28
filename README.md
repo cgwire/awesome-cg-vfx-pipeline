@@ -40,6 +40,7 @@ Any contribution is welcome!
 * [CvWrap](https://github.com/chadmv/cvwrap) - Fast Maya wrap deformer
 * [Blender Addons](https://github.com/Antonioya/blender) - Helpers for Blender
 * [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Geo data importer
+* [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 
 ## File formats
 
@@ -52,6 +53,7 @@ Any contribution is welcome!
 * [Deadline](https://github.com/mottosso/docker-deadline)
 * [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
 * [Maya](https://github.com/mottosso/docker-maya)
+* [Foundry RLM](https://github.com/tokejepsen/docker-foundry-rlm)
 
 ## Asset managers
 
@@ -69,6 +71,9 @@ Any contribution is welcome!
 
 * [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke.
 
+## IDE
+
+* [MayaCharm](https://github.com/cmcpasserby/MayaCharm) - Run and edit Maya scripts directly from PyCharm
 
 ## Databases
 
@@ -99,3 +104,4 @@ Any contribution is welcome!
 * [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
 * [Example of Python scripts for 3D Studio Max, Maya and Blender](https://github.com/p4vv37/3D_Software_and_Python/)
 * [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
+* [Les Fées Spéciales Studio Tech Blog](http://lacuisine.tech/)
