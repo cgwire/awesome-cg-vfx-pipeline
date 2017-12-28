@@ -104,3 +104,4 @@ Any contribution is welcome!
 * [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
 * [Example of Python scripts for 3D Studio Max, Maya and Blender](https://github.com/p4vv37/3D_Software_and_Python/)
 * [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
+* [Les Fées Spéciales Studio Tech Blog](http://lacuisine.tech/)
