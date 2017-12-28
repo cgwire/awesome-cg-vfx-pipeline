@@ -71,6 +71,9 @@ Any contribution is welcome!
 
 * [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke.
 
+## IDE
+
+* [MayaCharm](https://github.com/cmcpasserby/MayaCharm) - Run and edit Maya scripts directly from PyCharm
 
 ## Databases
 
