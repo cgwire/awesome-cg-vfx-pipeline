@@ -40,6 +40,7 @@ Any contribution is welcome!
 * [CvWrap](https://github.com/chadmv/cvwrap) - Fast Maya wrap deformer
 * [Blender Addons](https://github.com/Antonioya/blender) - Helpers for Blender
 * [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Geo data importer
+* [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 
 ## File formats
 
