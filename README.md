@@ -26,6 +26,7 @@ Any contribution is welcome!
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph.
+* [mGui](https://github.com/theodox/mGui) - Maya UI library.
 
 ### CG Software API
 
@@ -33,6 +34,7 @@ Any contribution is welcome!
   abstraction
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
 * [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
+* [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
 
 ### Geometry
 
@@ -74,6 +76,7 @@ Any contribution is welcome!
 ## IDE
 
 * [MayaCharm](https://github.com/cmcpasserby/MayaCharm) - Run and edit Maya scripts directly from PyCharm
+* [MayaSublime](https://github.com/justinfx/MayaSublime) - Run and edit Maya scripts directly from SublimeText
 
 ## Databases
 
@@ -87,6 +90,7 @@ Any contribution is welcome!
 ### Relational
 
 * [MySQL](http://www.mysql.com)
+* [PostgreSQL](https://www.postgresql.org/)
 
 ### Document-based
 
