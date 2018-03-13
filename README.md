@@ -30,8 +30,7 @@ Any contribution is welcome!
 
 ### CG Software API
 
-* [Cross3D](https://github.com/blurstudio/cross3d) - Scene and node management
-  abstraction
+* [Cross3D](https://github.com/blurstudio/cross3d) - Scene and node management abstraction
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
 * [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
@@ -68,6 +67,10 @@ Any contribution is welcome!
 ## Production Managers
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
+
+## Content validation
+
+* [Pyblish](http://pyblish.com/) - Test-driven content creation
 
 ## Plugins
 
