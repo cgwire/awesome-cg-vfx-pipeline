@@ -7,10 +7,24 @@ Any contribution is welcome!
 
 ## Image software
 
-* [Blender](https://blender.org) - Modelisation and animation
-* [Natron](https://natron.fr) - Compositing 
+### 2D
+
 * [The Gimp](https://www.gimp.org) - Image edition 
 * [Krita](https://krita.org) - Image edition 
+
+### 3D Softwares
+
+* [Blender](https://blender.org) - Modelisation and animation
+
+### 3D realtime engines
+
+* [Babylon.js](http://www.babylonjs.com/) - webGL engine
+* [Three.js](https://threejs.org/) - webGL engine
+* [Unreal Engine](https://www.unrealengine.com/) - 2D/3D realtime engine multi-platforms
+
+### Video
+
+* [Natron](https://natron.fr) - Compositing 
 * [CasparCG](https://github.com/CasparCG) - Video broadcast
 
 ## Libraries
