@@ -27,6 +27,11 @@ Any contribution is welcome!
 * [Natron](https://natron.fr) - Compositing 
 * [CasparCG](https://github.com/CasparCG) - Video broadcast
 
+### Job scheduler
+
+* [Coalition](http://coalition.readthedocs.io/en/latest/)
+* [Flamenco](https://www.flamenco.io/)
+
 ## Libraries
 
 ### File path
@@ -62,6 +67,7 @@ Any contribution is welcome!
 * [Alembic](http://www.alembic.io/) - Animations
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
+* [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 
 ## Dockers
 
@@ -119,6 +125,16 @@ Any contribution is welcome!
 
 * [ELK Stack](https://www.elastic.co/webinars/introduction-elk-stack)
 * [Prometheus](https://prometheus.io/)
+
+## Communities
+
+* [Tech-artists.org](http://tech-artists.org)
+* [StudioSysAdmins](http://studiosysadmins.com)
+* [Tech-artists.org](http://tech-artists.org)
+* [3DVF](http://3dvf.com)
+* [Houdini Discord](https://discordapp.com/channels/230123485668573184/360768996980555776)
+* [Blender Discord (French)](https://discordapp.com/channels/168826665307209728/168826665307209728)
+* [CGWire Slack](http://slack.cg-wire.com)
 
 ## Resources / Tutorials
 
