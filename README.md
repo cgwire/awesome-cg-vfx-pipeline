@@ -120,6 +120,16 @@ Any contribution is welcome!
 * [ELK Stack](https://www.elastic.co/webinars/introduction-elk-stack)
 * [Prometheus](https://prometheus.io/)
 
+## Communities
+
+* [Tech-artists.org](http://tech-artists.org)
+* [StudioSysAdmins](http://studiosysadmins.com)
+* [Tech-artists.org](http://tech-artists.org)
+* [3DVF](http://3dvf.com)
+* [Houdini Discord](https://discordapp.com/channels/230123485668573184/360768996980555776)
+* [Blender Discord (French)](https://discordapp.com/channels/168826665307209728/168826665307209728)
+* [CGWire Slack](http://slack.cg-wire.com)
+
 ## Resources / Tutorials
 
 * [Beginning Python For Maya](http://zurbrigg.com/training/beginning-python-for-maya)
