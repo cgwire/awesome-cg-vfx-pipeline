@@ -67,6 +67,7 @@ Any contribution is welcome!
 * [Alembic](http://www.alembic.io/) - Animations
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
+* [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 
 ## Dockers
 
