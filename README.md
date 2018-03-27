@@ -27,6 +27,11 @@ Any contribution is welcome!
 * [Natron](https://natron.fr) - Compositing 
 * [CasparCG](https://github.com/CasparCG) - Video broadcast
 
+### Job scheduler
+
+* [Coalition](http://coalition.readthedocs.io/en/latest/)
+* [Flamenco](https://www.flamenco.io/)
+
 ## Libraries
 
 ### File path
