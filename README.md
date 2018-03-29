@@ -53,6 +53,7 @@ Any contribution is welcome!
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
 * [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
+* [mGui](https://github.com/theodox/minq) - Maya query language for speeding up common scene queries
 
 ### Geometry
 
