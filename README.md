@@ -16,11 +16,13 @@ Any contribution is welcome!
 
 * [Blender](https://blender.org) - Modelisation and animation
 
+
 ### 3D realtime engines
 
 * [Babylon.js](http://www.babylonjs.com/) - webGL engine
 * [Three.js](https://threejs.org/) - webGL engine
-* [Unreal Engine](https://www.unrealengine.com/) - 2D/3D realtime engine multi-platforms
+* [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
+* [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC) 
 
 ### Video
 
@@ -39,13 +41,11 @@ Any contribution is welcome!
 * [Lucidity](http://lucidity.readthedocs.io/en/latest/) - File path template 
 * [Fileseq](https://github.com/sqlboy/fileseq) -  Frame ranges and file sequences parsing 
 
-
 ### UI
 
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph.
-* [mGui](https://github.com/theodox/mGui) - Maya UI library.
 
 ### CG Software API
 
@@ -53,7 +53,8 @@ Any contribution is welcome!
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
 * [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
-* [mGui](https://github.com/theodox/minq) - Maya query language for speeding up common scene queries
+* [mGui](https://github.com/theodox/mGui) - Portable pure-python GUI library for Maya
+* [minq](https://github.com/theodox/minq) - Maya query language for speeding up common scene operations
 
 ### Geometry
 
@@ -62,6 +63,8 @@ Any contribution is welcome!
 * [Blender Addons](https://github.com/Antonioya/blender) - Helpers for Blender
 * [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Geo data importer
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
+* [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator
+* [MakeHuman](http://www.makehuman.org/) - Parametric human character modeling
 
 ## File formats
 
