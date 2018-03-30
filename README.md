@@ -9,12 +9,12 @@ Any contribution is welcome!
 
 ### 2D
 
-* [The Gimp](https://www.gimp.org) - Image edition 
-* [Krita](https://krita.org) - Image edition 
+* [The Gimp](https://www.gimp.org) - Image editor 
+* [Krita](https://krita.org) - Image editor 
 
 ### 3D Softwares
 
-* [Blender](https://blender.org) - Modelisation and animation
+* [Blender](https://blender.org) - Modeling and animation
 
 
 ### 3D realtime engines
@@ -26,7 +26,7 @@ Any contribution is welcome!
 
 ### Video
 
-* [Natron](https://natron.fr) - Compositing 
+* [Natron](https://natron.fr) - Compositing
 * [CasparCG](https://github.com/CasparCG) - Video broadcast
 
 ### Job scheduler
