@@ -31,16 +31,6 @@ Any contribution is welcome!
 * [Natron](https://natron.fr) - Compositing
 * [CasparCG](https://github.com/CasparCG) - Video broadcast
 
-### Job scheduler
-
-* [Coalition](http://coalition.readthedocs.io/en/latest/)
-* [Flamenco](https://www.flamenco.io/)
-
-### Package manager
-
-* [Ecosystem](https://github.com/PeregrineLabs/Ecosystem)
-* [Rez](https://github.com/nerdvegas/rez)
-
 ## Libraries
 
 ### File path
@@ -82,12 +72,16 @@ Any contribution is welcome!
 * [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 
-## Dockers
+## Job schedulers
 
-* [Deadline](https://github.com/mottosso/docker-deadline)
-* [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
-* [Maya](https://github.com/mottosso/docker-maya)
-* [Foundry RLM](https://github.com/tokejepsen/docker-foundry-rlm)
+* [Coalition](http://coalition.readthedocs.io/en/latest/)
+* [Flamenco](https://www.flamenco.io/)
+
+## Package managers
+
+* [Ecosystem](https://github.com/PeregrineLabs/Ecosystem)
+* [Rez](https://github.com/nerdvegas/rez)
+
 
 ## Asset managers
 
@@ -104,6 +98,14 @@ Any contribution is welcome!
 ## Content validation
 
 * [Pyblish](http://pyblish.com/) - Test-driven content creation
+
+## Dockers
+
+* [Deadline](https://github.com/mottosso/docker-deadline)
+* [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
+* [Maya](https://github.com/mottosso/docker-maya)
+* [Foundry RLM](https://github.com/tokejepsen/docker-foundry-rlm)
+
 
 ## Plugins
 
