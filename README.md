@@ -36,6 +36,11 @@ Any contribution is welcome!
 * [Coalition](http://coalition.readthedocs.io/en/latest/)
 * [Flamenco](https://www.flamenco.io/)
 
+### Package manager
+
+* [Ecosystem](https://github.com/PeregrineLabs/Ecosystem)
+* [Rez](https://github.com/nerdvegas/rez)
+
 ## Libraries
 
 ### File path
@@ -71,9 +76,11 @@ Any contribution is welcome!
 ## File formats
 
 * [Alembic](http://www.alembic.io/) - Animations
+* [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
-* [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
+* [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
+* [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 
 ## Dockers
 
