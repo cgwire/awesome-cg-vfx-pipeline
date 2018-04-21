@@ -11,6 +11,8 @@ Any contribution is welcome!
 
 * [The Gimp](https://www.gimp.org) - Image editor 
 * [Krita](https://krita.org) - Image editor 
+* [Opentoonz](https://opentoonz.github.io/) - Animation production
+* [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
 
 ### 3D Softwares
 
