@@ -11,6 +11,8 @@ Any contribution is welcome!
 
 * [The Gimp](https://www.gimp.org) - Image editor 
 * [Krita](https://krita.org) - Image editor 
+* [Opentoonz](https://opentoonz.github.io/) - Animation production
+* [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
 
 ### 3D Softwares
 
@@ -33,6 +35,11 @@ Any contribution is welcome!
 
 * [Coalition](http://coalition.readthedocs.io/en/latest/)
 * [Flamenco](https://www.flamenco.io/)
+
+### Package manager
+
+* [Ecosystem](https://github.com/PeregrineLabs/Ecosystem)
+* [Rez](https://github.com/nerdvegas/rez)
 
 ## Libraries
 
@@ -69,9 +76,11 @@ Any contribution is welcome!
 ## File formats
 
 * [Alembic](http://www.alembic.io/) - Animations
+* [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
-* [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
+* [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
+* [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 
 ## Dockers
 
