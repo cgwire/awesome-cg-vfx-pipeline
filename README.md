@@ -75,12 +75,14 @@ Any contribution is welcome!
 ## Job schedulers
 
 * [Coalition](http://coalition.readthedocs.io/en/latest/)
+* [Cue3](https://github.com/imageworks/cue3)
 * [Flamenco](https://www.flamenco.io/)
 
 ## Package managers
 
 * [Ecosystem](https://github.com/PeregrineLabs/Ecosystem)
 * [Rez](https://github.com/nerdvegas/rez)
+* [Rez Packages](https://github.com/predat/rez-packages)
 
 
 ## Asset managers
@@ -110,6 +112,7 @@ Any contribution is welcome!
 ## Plugins
 
 * [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke.
+* [Wiretap](https://github.com/predat/wiretap) - Manage Flame Wiretap database
 
 ## IDE
 
