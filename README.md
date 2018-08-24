@@ -42,7 +42,8 @@ Any contribution is welcome!
 
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
-* [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph.
+* [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph
+* [Thonside](https://github.com/col-one/thonside) - Python console for Qt apps
 
 ### CG Software API
 
@@ -52,6 +53,9 @@ Any contribution is welcome!
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
 * [mGui](https://github.com/theodox/mGui) - Portable pure-python GUI library for Maya
 * [minq](https://github.com/theodox/minq) - Maya query language for speeding up common scene operations
+* [OpenWalter](https://github.com/rodeofx/OpenWalter) - USD Plugins Arnold, Houdini, Katana, Maya and USD 
+* [Cortex](https://github.com/ImageEngine/cortex) - Libraries for VFX software development
+* [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018
 
 ### Geometry
 
@@ -62,6 +66,14 @@ Any contribution is welcome!
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 * [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator
 * [MakeHuman](http://www.makehuman.org/) - Parametric human character modeling
+
+### Colors
+
+* [OpenColorIO](http://opensource.imageworks.com/?p=opencolorio) - Unified color environment
+
+### Shaders
+
+* [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 
 ## File formats
 
@@ -84,7 +96,6 @@ Any contribution is welcome!
 * [Rez](https://github.com/nerdvegas/rez)
 * [Rez Packages](https://github.com/predat/rez-packages)
 
-
 ## Asset managers
 
 * [Avalon](https://getavalon.github.io)
@@ -96,6 +107,10 @@ Any contribution is welcome!
 ## Production Managers
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
+    
+## Photogrammetry
+
+* [AliceVision](https://alicevision.github.io/)
 
 ## Content validation
 
@@ -107,6 +122,10 @@ Any contribution is welcome!
 * [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
 * [Maya](https://github.com/mottosso/docker-maya)
 * [Foundry RLM](https://github.com/tokejepsen/docker-foundry-rlm)
+
+### Misc
+
+* [WSL Distribution Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Change the distro behind Windows Subsystem
 
 
 ## Plugins
