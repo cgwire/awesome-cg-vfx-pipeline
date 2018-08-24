@@ -44,6 +44,7 @@ Any contribution is welcome!
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph
 * [Thonside](https://github.com/col-one/thonside) - Python console for Qt apps
+* [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph for Qt
 
 ### CG Software API
 
