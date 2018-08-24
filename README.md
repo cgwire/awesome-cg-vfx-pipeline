@@ -184,7 +184,9 @@ Any contribution is welcome!
 ## Resources / Tutorials
 
 * [Beginning Python For Maya](http://zurbrigg.com/training/beginning-python-for-maya)
+* [Blue Sky Studios Tech Blog](https://medium.com/blue-sky-tech-blog)
 * [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
 * [Example of Python scripts for 3D Studio Max, Maya and Blender](https://github.com/p4vv37/3D_Software_and_Python/)
-* [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
+* [Pipeline Patterns](http://www.pipelinepatterns.com/)
 * [Les Fées Spéciales Studio Tech Blog](http://lacuisine.tech/)
+* [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
