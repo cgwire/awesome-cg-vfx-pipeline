@@ -22,9 +22,14 @@ Any contribution is welcome!
 ### 3D realtime engines
 
 * [Babylon.js](http://www.babylonjs.com/) - webGL engine
+* [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
+* [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC) 
 * [Three.js](https://threejs.org/) - webGL engine
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
-* [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC) 
+
+### Photography
+
+* [Darktable](https://www.darktable.org/) - photography workflow application and raw developer
 
 ### Video
 
@@ -63,6 +68,7 @@ Any contribution is welcome!
 * [CvWrap](https://github.com/chadmv/cvwrap) - Fast Maya wrap deformer
 * [Blender Addons](https://github.com/Antonioya/blender) - Helpers for Blender
 * [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Geo data importer
+* [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remesher
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 * [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator
 * [MakeHuman](http://www.makehuman.org/) - Parametric human character modeling
