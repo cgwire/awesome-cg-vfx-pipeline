@@ -133,6 +133,7 @@ Any contribution is welcome!
 ### Misc
 
 * [WSL Distribution Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Change the distro behind Windows Subsystem
+* [Jean-Paul Start](https://github.com/cube-creative/jeanpaulstart) - Small (with Ansible-like syntax) laucher with GUI
 
 
 ## Plugins
