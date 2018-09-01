@@ -143,10 +143,27 @@ Any contribution is welcome!
 
 ## IDE
 
+### PyCharm
+
 * [MayaCharm](https://github.com/cmcpasserby/MayaCharm) - Run and edit Maya scripts directly from PyCharm
+
+### SublimeText
+
 * [MayaSublime](https://github.com/justinfx/MayaSublime) - Run and edit Maya scripts directly from SublimeText
 * [MariSublime](https://github.com/cg-cnu/marisublime) - Run and edit Mari scripts directly from SublimeText
+
+### vim
+
 * [nuke.vim](https://github.com/heavyimage/nuke.vim) - Run and edit Nuke scripts directly from vim
+
+### VSCode
+
+* [MayaPort](https://marketplace.visualstudio.com/items?itemName=JonMacey.mayaport) ([repo](https://github.com/NCCA/mayaport)) - Run Maya code from VSCode.
+* [SendtoMaya](https://marketplace.visualstudio.com/items?itemName=ivancheung7.sendtomaya) - Alternative to MayaPort, serving the same purpose.
+* [MEL Language Syntax](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git) ([repo](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git)) - for syntax highlighting support.
+* [VEX Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.vex) ([repo](https://github.com/melMass/vscode-vex.git)) - for syntax highlighting support.
+* [Blink Script (Nuke) Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.blink) ([repo](https://github.com/melMass/vscode-blink.git)) - for syntax highlighting support.
+* [Pixar USD ASCII Language Syntax](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) ([repo](https://github.com/AnimalLogic/AL_usd_vscode_extension)) - for syntax highlighting support, courtesy of the folks at Animal Logic.
 
 ## Databases
 
