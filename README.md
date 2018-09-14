@@ -86,6 +86,7 @@ Any contribution is welcome!
 
 * [Alembic](http://www.alembic.io/) - Animations
 * [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management
+* [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Accurate object ID mattes
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 * [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
