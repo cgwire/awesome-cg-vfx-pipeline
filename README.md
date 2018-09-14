@@ -87,6 +87,7 @@ Any contribution is welcome!
 * [Alembic](http://www.alembic.io/) - Animations
 * [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
+* [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/openexr/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM.
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 * [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
