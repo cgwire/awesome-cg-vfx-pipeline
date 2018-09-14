@@ -90,6 +90,8 @@ Any contribution is welcome!
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 * [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
+* [OpenVDB])(http://www.openvdb.org/) ([repo](https://github.com/dreamworksanimation/openvdb)) - Volumetric data
+* [OpenVDB AX](https://github.com/dneg/openvdb_ax) - fast expression language for manipulating OpenVDB files.
 
 ## Job schedulers
 
