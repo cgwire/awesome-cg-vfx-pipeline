@@ -89,6 +89,7 @@ Any contribution is welcome!
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
 * [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/openexr/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM.
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
+* [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format.
 * [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 
