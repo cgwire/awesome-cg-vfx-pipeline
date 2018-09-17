@@ -107,6 +107,7 @@ Any contribution is welcome!
 * [Ecosystem](https://github.com/PeregrineLabs/Ecosystem)
 * [Rez](https://github.com/nerdvegas/rez)
 * [Rez Packages](https://github.com/predat/rez-packages)
+* [conda](https://github.com/conda/conda)
 
 ## Asset managers
 
