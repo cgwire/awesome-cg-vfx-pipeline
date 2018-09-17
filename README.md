@@ -91,6 +91,7 @@ Any contribution is welcome!
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 * [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
+* [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage. (Works between Maya and Nuke, with more DCCs to come.)
 
 ## Job schedulers
 
