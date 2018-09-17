@@ -98,6 +98,7 @@ Any contribution is welcome!
 * [Coalition](http://coalition.readthedocs.io/en/latest/)
 * [Cue3](https://github.com/imageworks/cue3)
 * [Flamenco](https://www.flamenco.io/)
+* [Plow](https://github.com/chadmv/plow)
 
 ## Package managers
 
