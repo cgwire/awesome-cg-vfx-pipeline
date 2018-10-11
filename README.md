@@ -1,7 +1,7 @@
-# Awesome CG Pipeline
+# Awesome CG / VFX Pipeline
 
 List of open-source technologies that will help in the process of building a
-pipeline for CG productions.
+pipeline for CG or VFX productions.
 
 Any contribution is welcome!
 
