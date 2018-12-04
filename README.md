@@ -103,6 +103,7 @@ Any contribution is welcome!
 * [Cue3](https://github.com/imageworks/cue3)
 * [Flamenco](https://www.flamenco.io/)
 * [Plow](https://github.com/chadmv/plow)
+* [CGRU](http://cgru.info/) - CGRU is a CG tools pack includes AFANASY - Free Open Source Render Farm Manager.
 
 ## Package managers
 
@@ -159,6 +160,7 @@ Any contribution is welcome!
 
 * [MayaSublime](https://github.com/justinfx/MayaSublime) - Run and edit Maya scripts directly from SublimeText
 * [MariSublime](https://github.com/cg-cnu/marisublime) - Run and edit Mari scripts directly from SublimeText
+* [VEX](https://github.com/teared/VEX) - Houdini add-on for Sublime Text
 
 ### vim
 
@@ -216,3 +218,4 @@ Any contribution is welcome!
 * [Pipeline Patterns](http://www.pipelinepatterns.com/)
 * [Les Fées Spéciales Studio Tech Blog](http://lacuisine.tech/)
 * [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
+* [cgwiki](http://www.tokeru.com/cgwiki/)
