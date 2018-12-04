@@ -218,3 +218,4 @@ Any contribution is welcome!
 * [Pipeline Patterns](http://www.pipelinepatterns.com/)
 * [Les Fées Spéciales Studio Tech Blog](http://lacuisine.tech/)
 * [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
+* [cgwiki](http://www.tokeru.com/cgwiki/)
