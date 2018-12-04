@@ -160,6 +160,7 @@ Any contribution is welcome!
 
 * [MayaSublime](https://github.com/justinfx/MayaSublime) - Run and edit Maya scripts directly from SublimeText
 * [MariSublime](https://github.com/cg-cnu/marisublime) - Run and edit Mari scripts directly from SublimeText
+* [VEX](https://github.com/teared/VEX) - Houdini add-on for Sublime Text
 
 ### vim
 
