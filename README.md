@@ -208,6 +208,7 @@ Any contribution is welcome!
 * [Houdini Discord](https://discordapp.com/channels/230123485668573184/360768996980555776)
 * [Blender Discord (French)](https://discordapp.com/channels/168826665307209728/168826665307209728)
 * [CGWire Slack](http://slack.cg-wire.com)
+* [od|force](https://forums.odforce.net/)
 
 ## Resources / Tutorials
 
