@@ -72,7 +72,7 @@ Any contribution is welcome!
 * [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remesher
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 * [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator
-* [MakeHuman](http://www.makehuman.org/) - Parametric human character modeling
+* [MakeHuman](http://www.makehumancommunity.org/) - Parametric human character modeling
 
 ### Colors
 
