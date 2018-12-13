@@ -72,7 +72,7 @@ Any contribution is welcome!
 * [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remesher
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 * [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator
-* [MakeHuman](http://www.makehuman.org/) - Parametric human character modeling
+* [MakeHuman](http://www.makehumancommunity.org/) - Parametric human character modeling
 
 ### Colors
 
@@ -93,7 +93,7 @@ Any contribution is welcome!
 * [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format.
 * [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
-* [OpenVDB])(http://www.openvdb.org/) ([repo](https://github.com/dreamworksanimation/openvdb)) - Volumetric data
+* [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/dreamworksanimation/openvdb)) - Volumetric data
 * [OpenVDB AX](https://github.com/dneg/openvdb_ax) - fast expression language for manipulating OpenVDB files.
 * [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage. (Works between Maya and Nuke, with more DCCs to come.)
 
@@ -208,6 +208,7 @@ Any contribution is welcome!
 * [Houdini Discord](https://discordapp.com/channels/230123485668573184/360768996980555776)
 * [Blender Discord (French)](https://discordapp.com/channels/168826665307209728/168826665307209728)
 * [CGWire Slack](http://slack.cg-wire.com)
+* [od|force](https://forums.odforce.net/)
 
 ## Resources / Tutorials
 
