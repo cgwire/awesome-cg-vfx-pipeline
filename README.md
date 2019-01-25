@@ -100,7 +100,7 @@ Any contribution is welcome!
 ## Job schedulers
 
 * [Coalition](http://coalition.readthedocs.io/en/latest/)
-* [Cue3](https://github.com/imageworks/cue3)
+* [OpenCue](https://github.com/imageworks/OpenCue)
 * [Flamenco](https://www.flamenco.io/)
 * [Plow](https://github.com/chadmv/plow)
 * [CGRU](http://cgru.info/) - CGRU is a CG tools pack includes AFANASY - Free Open Source Render Farm Manager.
