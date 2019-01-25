@@ -134,6 +134,7 @@ Any contribution is welcome!
 
 ## Dockers
 
+* [Animal Logic's USD Docker](https://github.com/AnimalLogic/docker-usd)
 * [Deadline](https://github.com/mottosso/docker-deadline)
 * [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
 * [Maya](https://github.com/mottosso/docker-maya)
