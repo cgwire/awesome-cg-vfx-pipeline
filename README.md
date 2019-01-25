@@ -99,11 +99,11 @@ Any contribution is welcome!
 
 ## Job schedulers
 
-* [Coalition](http://coalition.readthedocs.io/en/latest/)
-* [OpenCue](https://github.com/imageworks/OpenCue)
-* [Flamenco](https://www.flamenco.io/)
-* [Plow](https://github.com/chadmv/plow)
-* [CGRU](http://cgru.info/) - CGRU is a CG tools pack includes AFANASY - Free Open Source Render Farm Manager.
+* [Coalition](http://coalition.readthedocs.io/en/latest/) from Mercenaries Engineering (developers of Guerilla Render.)
+* [OpenCue](https://github.com/imageworks/OpenCue) from Sony Imageworks.
+* [Flamenco](https://www.flamenco.io/) from the Blender Foundation.
+* [Plow](https://github.com/chadmv/plow) by Chad Vernon.
+* [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager.
 
 ## Package managers
 
