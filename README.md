@@ -183,6 +183,7 @@ Any contribution is welcome!
 * [Cayley](https://github.com/cayleygraph/cayley)
 * [Neo4j](https://github.com/neo4j)
 * [OrientDB](https://orientdb.com)
+* [JanusGraph](https://github.com/JanusGraph/janusgraph)
 
 ### Relational
 
