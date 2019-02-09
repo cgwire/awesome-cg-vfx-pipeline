@@ -222,3 +222,8 @@ Any contribution is welcome!
 * [Les Fées Spéciales Studio Tech Blog](http://lacuisine.tech/)
 * [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
 * [cgwiki](http://www.tokeru.com/cgwiki/)
+
+## Free music for showreel
+
+* [Wowa](https://www.wowa.me/)
+* [Music For Vlogs](https://soundcloud.com/freemusicforvlogs)
