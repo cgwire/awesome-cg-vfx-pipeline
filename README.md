@@ -117,7 +117,7 @@ Any contribution is welcome!
 * [Avalon](https://getavalon.github.io)
 * [Damas](http://damas-software.org/)
 * [Gaffer](https://github.com/GafferHQ/gaffer)
-* [Kabaret](https://pythonhosted.org/kabaret/)
+* [Kabaret](https://www.kabaretstudio.com/)
 * [Plex](https://github.com/richteralexander/plex)
 
 ## Production Managers
@@ -150,6 +150,7 @@ Any contribution is welcome!
 
 * [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke.
 * [Wiretap](https://github.com/predat/wiretap) - Manage Flame Wiretap database
+* [OnionSkinRenderer](https://github.com/Viele/onionSkinRenderer) - Onion Skin Renderer for Maya 
 
 ## IDE
 
