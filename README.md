@@ -117,7 +117,7 @@ Any contribution is welcome!
 * [Avalon](https://getavalon.github.io)
 * [Damas](http://damas-software.org/)
 * [Gaffer](https://github.com/GafferHQ/gaffer)
-* [Kabaret](https://pythonhosted.org/kabaret/)
+* [Kabaret](https://www.kabaretstudio.com/)
 * [Plex](https://github.com/richteralexander/plex)
 
 ## Production Managers
@@ -150,6 +150,7 @@ Any contribution is welcome!
 
 * [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke.
 * [Wiretap](https://github.com/predat/wiretap) - Manage Flame Wiretap database
+* [OnionSkinRenderer](https://github.com/Viele/onionSkinRenderer) - Onion Skin Renderer for Maya 
 
 ## IDE
 
@@ -169,6 +170,7 @@ Any contribution is welcome!
 
 ### VSCode
 
+* [MayaCode](https://marketplace.visualstudio.com/items?itemName=saviof.mayacode) ([repo](https://github.com/artbycrunk/vscode-maya)) - Maya syntax highlighting support, along with autocomplete commands and send code to maya via command port.
 * [MayaPort](https://marketplace.visualstudio.com/items?itemName=JonMacey.mayaport) ([repo](https://github.com/NCCA/mayaport)) - Run Maya code from VSCode.
 * [SendtoMaya](https://marketplace.visualstudio.com/items?itemName=ivancheung7.sendtomaya) - Alternative to MayaPort, serving the same purpose.
 * [MEL Language Syntax](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git) ([repo](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git)) - for syntax highlighting support.
