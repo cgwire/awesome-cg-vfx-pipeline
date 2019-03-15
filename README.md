@@ -93,6 +93,7 @@ Any contribution is welcome!
 * [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format.
 * [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
+* [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD
 * [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/dreamworksanimation/openvdb)) - Volumetric data
 * [OpenVDB AX](https://github.com/dneg/openvdb_ax) - fast expression language for manipulating OpenVDB files.
 * [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage. (Works between Maya and Nuke, with more DCCs to come.)
