@@ -40,9 +40,10 @@ Any contribution is welcome!
 
 ### File path
 
-* [Lucidity](http://lucidity.readthedocs.io/en/latest/) - File path template 
-* [Fileseq](https://github.com/sqlboy/fileseq) -  Frame ranges and file sequences parsing 
-* [gofileseq](https://github.com/justinfx/gofileseq) - A port of the python fileseq library, for Go
+* [Lucidity](http://lucidity.readthedocs.io/en/latest/) - String/filepath templates system inspired by SGTK's template mechanisms
+* [Fileseq](https://github.com/sqlboy/fileseq) - Frame ranges and file sequences parsing
+* [gofileseq](https://github.com/justinfx/gofileseq) - A Golang port of the library above
+* [pyseq](https://github.com/rsgalloway/pyseq) - Another Python module for file sequence parsing and serialization
 
 ### UI
 
