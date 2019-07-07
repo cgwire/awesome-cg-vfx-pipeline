@@ -11,17 +11,23 @@ Any contribution is welcome!
 
 * [The Gimp](https://www.gimp.org) - Image editor 
 * [Krita](https://krita.org) - Image editor 
-* [Opentoonz](https://opentoonz.github.io/) - Animation production
+* [Opentoonz](https://opentoonz.github.io/) - Animation
+* [Synfig](https://www.synfig.org/) - Animation 
+* [Pencyl2D](https://www.pencil2d.org/) - Hand-drawn animation
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
 
 ### 3D Softwares
 
 * [Blender](https://blender.org) - Modeling and animation
+* [Dust3D](https://dust3D.org) - Modeling
 
 
 ### 3D realtime engines
 
+* [Armory](https://armory3d.org) - 3D Game Engine For Blender
 * [Babylon.js](http://www.babylonjs.com/) - webGL engine
+* [Filament](https://github.com/google/filament) - PBR engine
+* [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - C# based engine
 * [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
 * [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC) 
 * [Three.js](https://threejs.org/) - webGL engine
@@ -33,8 +39,9 @@ Any contribution is welcome!
 
 ### Video
 
-* [Natron](https://natron.fr) - Compositing
 * [CasparCG](https://github.com/CasparCG) - Video broadcast
+* [Natron](https://natron.fr) - Compositing
+* [Shotcut](https://www.shotcutapp.com/) - Video edition
 
 ## Libraries
 
@@ -48,10 +55,11 @@ Any contribution is welcome!
 ### UI
 
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
+* [QtWebengine](https://github.com/qt/qtwebengine) - Render web conent in Qt
+* [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph for Qt
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph
 * [Thonside](https://github.com/col-one/thonside) - Python console for Qt apps
-* [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph for Qt
 
 ### CG Software API
 
@@ -122,6 +130,7 @@ Any contribution is welcome!
 * [Gaffer](https://github.com/GafferHQ/gaffer)
 * [Kabaret](https://www.kabaretstudio.com/)
 * [Plex](https://github.com/richteralexander/plex)
+* [Prism](https://prism-pipeline.com/)
 
 ## Production Managers
 
@@ -152,8 +161,11 @@ Any contribution is welcome!
 ## Plugins
 
 * [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke.
-* [Wiretap](https://github.com/predat/wiretap) - Manage Flame Wiretap database
+* [Cmt](https://github.com/chadmv/cmt) - Various Maya tools
+* [FTrack Hooks](https://github.com/tokejepsen/ftrack-hooks) Set of plugins for FTrack
 * [OnionSkinRenderer](https://github.com/Viele/onionSkinRenderer) - Onion Skin Renderer for Maya 
+* [Palladio](https://github.com/Esri/palladio) - CityEngine Plugin for Houdini
+* [Wiretap](https://github.com/predat/wiretap) - Manage Flame Wiretap database
 
 ## IDE
 
