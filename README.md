@@ -13,10 +13,10 @@ Any contribution is welcome!
 * [Krita](https://krita.org) - Image editor 
 * [Opentoonz](https://opentoonz.github.io/) - Animation
 * [Synfig](https://www.synfig.org/) - Animation 
-* [Pencyl2D](https://www.pencil2d.org/) - Hand-drawn animation
+* [Pencil2D](https://www.pencil2d.org/) - Hand-drawn animation
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
 
-### 3D Softwares
+### 3D
 
 * [Blender](https://blender.org) - Modeling and animation
 * [Dust3D](https://dust3D.org) - Modeling
