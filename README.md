@@ -200,6 +200,7 @@ Any contribution is welcome!
 
 * [ArangoDB](https://github.com/arangodb/arangodb)
 * [Cayley](https://github.com/cayleygraph/cayley)
+* [DGraph](https://dgraph.io/)
 * [Neo4j](https://github.com/neo4j)
 * [OrientDB](https://orientdb.com)
 * [JanusGraph](https://github.com/JanusGraph/janusgraph)
