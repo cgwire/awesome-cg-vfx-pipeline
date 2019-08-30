@@ -51,6 +51,7 @@ Any contribution is welcome!
 * [Fileseq](https://github.com/sqlboy/fileseq) - Frame ranges and file sequences parsing
 * [gofileseq](https://github.com/justinfx/gofileseq) - A Golang port of the library above
 * [pyseq](https://github.com/rsgalloway/pyseq) - Another Python module for file sequence parsing and serialization
+* [Clique](https://gitlab.com/4degrees/clique) - Another Python module for file sequence parsing and formatting
 
 ### UI
 
@@ -60,6 +61,7 @@ Any contribution is welcome!
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph
 * [Thonside](https://github.com/col-one/thonside) - Python console for Qt apps
+* [Riffle](https://gitlab.com/4degrees/riffle) - A filesystem browser for PySide supporting sequences grouping
 
 ### CG Software API
 
@@ -92,6 +94,10 @@ Any contribution is welcome!
 
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 
+### Validation and publishing
+
+* [Pyblish](https://github.com/pyblish/pyblish) - A Python framework that brings test-driven development to visual effects and triple-A game creation
+
 ## File formats
 
 * [Alembic](http://www.alembic.io/) - Animations
@@ -100,6 +106,7 @@ Any contribution is welcome!
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
 * [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/openexr/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM.
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
+* [OpenImageIO](https://github.com/OpenImageIO/oiio) - A library for reading and writing images in many common and VFX related formats
 * [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format.
 * [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
