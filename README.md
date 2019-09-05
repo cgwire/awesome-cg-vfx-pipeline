@@ -10,7 +10,7 @@ Any contribution is welcome!
 ### 2D
 
 * [The Gimp](https://www.gimp.org) - Image editor 
-* [Krita](https://krita.org) - Image editor 
+* [Krita](https://krita.org) - Digital Painting
 * [Opentoonz](https://opentoonz.github.io/) - Animation
 * [Synfig](https://www.synfig.org/) - Animation 
 * [Pencil2D](https://www.pencil2d.org/) - Hand-drawn animation
@@ -41,7 +41,8 @@ Any contribution is welcome!
 
 * [CasparCG](https://github.com/CasparCG) - Video broadcast
 * [Natron](https://natron.fr) - Compositing
-* [Shotcut](https://www.shotcutapp.com/) - Video edition
+* [Shotcut](https://www.shotcutapp.com/) - Video editing
+* [Kdenlive](https://www.kdenlive.org) - Video editing
 
 ## Libraries
 
