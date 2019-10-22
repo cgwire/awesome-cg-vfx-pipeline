@@ -57,7 +57,7 @@ Any contribution is welcome!
 ### UI
 
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
-* [QtWebengine](https://github.com/qt/qtwebengine) - Render web conent in Qt
+* [QtWebengine](https://github.com/qt/qtwebengine) - Render web content in Qt
 * [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph for Qt
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph
