@@ -21,7 +21,8 @@ Any contribution is welcome!
 
 * [Blender](https://blender.org) - Modeling and animation
 * [Dust3D](https://dust3D.org) - Modeling
-* [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine 
+* [ArmorPaint](https://armorpaint.org/) - Painting
+* [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
 
 
 ### 3D realtime engines
