@@ -15,6 +15,7 @@ Any contribution is welcome!
 * [Synfig](https://www.synfig.org/) - Animation 
 * [Pencil2D](https://www.pencil2d.org/) - Hand-drawn animation
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
+* [MyPaint](https://github.com/mypaint/mypaint) - Painting app for artists
 
 ### 3D
 
