@@ -139,6 +139,7 @@ Any contribution is welcome!
 * [Kabaret](https://www.kabaretstudio.com/)
 * [Plex](https://github.com/richteralexander/plex)
 * [Prism](https://prism-pipeline.com/)
+* [TACTIC-Handler](https://github.com/listyque/TACTIC-Handler)
 
 ## Production Managers
 
