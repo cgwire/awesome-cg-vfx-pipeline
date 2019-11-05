@@ -45,6 +45,7 @@ Any contribution is welcome!
 * [Natron](https://natron.fr) - Compositing
 * [Shotcut](https://www.shotcutapp.com/) - Video editing
 * [Kdenlive](https://www.kdenlive.org) - Video editing
+* [Olive](https://www.olivevideoeditor.org/) - Video editing
 
 ## Libraries
 
