@@ -20,6 +20,7 @@ Any contribution is welcome!
 
 * [Blender](https://blender.org) - Modeling and animation
 * [Dust3D](https://dust3D.org) - Modeling
+* [ArmorPaint](https://attract.studio/) - Painting
 
 
 ### 3D realtime engines
