@@ -146,6 +146,7 @@ Any contribution is welcome!
 ## Production Managers
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
+* [Attract](https://attract.studio/) - Production tracking for film makers (Blender Foundation)
     
 ## Photogrammetry
 
