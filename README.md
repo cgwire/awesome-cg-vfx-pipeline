@@ -123,6 +123,7 @@ Any contribution is welcome!
 * [Flamenco](https://www.flamenco.io/) from the Blender Foundation.
 * [Plow](https://github.com/chadmv/plow) by Chad Vernon.
 * [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager.
+* [Pandora](https://prism-pipeline.com/pandora/) Open-Source Renderfarm-Manager
 
 ## Package managers
 
