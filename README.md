@@ -15,11 +15,13 @@ Any contribution is welcome!
 * [Synfig](https://www.synfig.org/) - Animation 
 * [Pencil2D](https://www.pencil2d.org/) - Hand-drawn animation
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
+* [MyPaint](https://github.com/mypaint/mypaint) - Painting app for artists
 
 ### 3D
 
 * [Blender](https://blender.org) - Modeling and animation
 * [Dust3D](https://dust3D.org) - Modeling
+* [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine 
 
 
 ### 3D realtime engines
@@ -43,6 +45,7 @@ Any contribution is welcome!
 * [Natron](https://natron.fr) - Compositing
 * [Shotcut](https://www.shotcutapp.com/) - Video editing
 * [Kdenlive](https://www.kdenlive.org) - Video editing
+* [Olive](https://www.olivevideoeditor.org/) - Video editing
 
 ## Libraries
 
@@ -123,6 +126,7 @@ Any contribution is welcome!
 * [Flamenco](https://www.flamenco.io/) from the Blender Foundation.
 * [Plow](https://github.com/chadmv/plow) by Chad Vernon.
 * [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager.
+* [Pandora](https://prism-pipeline.com/pandora/) Open-Source Renderfarm-Manager
 
 ## Package managers
 
@@ -143,6 +147,7 @@ Any contribution is welcome!
 ## Production Managers
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
+* [Attract](https://attract.studio/) - Production tracking for film makers (Blender Foundation)
     
 ## Photogrammetry
 
