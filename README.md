@@ -93,7 +93,7 @@ Any contribution is welcome!
 
 ### Colors
 
-* [OpenColorIO](http://opensource.imageworks.com/?p=opencolorio) - Unified color environment
+* [OpenColorIO](https://opencolorio.org/) ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment
 
 ### Shaders
 
@@ -109,21 +109,21 @@ Any contribution is welcome!
 * [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management
 * [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Accurate object ID mattes
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
-* [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/openexr/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM.
+* [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/AcademySoftwareFoundation/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM.
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - A library for reading and writing images in many common and VFX related formats
 * [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format.
-* [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) - Editorial timeline
+* [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 * [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD
-* [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/dreamworksanimation/openvdb)) - Volumetric data
+* [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb)) - Volumetric data
 * [OpenVDB AX](https://github.com/dneg/openvdb_ax) - fast expression language for manipulating OpenVDB files.
 * [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage. (Works between Maya and Nuke, with more DCCs to come.)
 
 ## Job schedulers
 
 * [Coalition](http://coalition.readthedocs.io/en/latest/) from Mercenaries Engineering (developers of Guerilla Render.)
-* [OpenCue](https://github.com/imageworks/OpenCue) from Sony Imageworks.
+* [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) from Sony Imageworks.
 * [Flamenco](https://www.flamenco.io/) from the Blender Foundation.
 * [Plow](https://github.com/chadmv/plow) by Chad Vernon.
 * [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager.
