@@ -239,7 +239,6 @@ Any contribution is welcome!
 
 * [Tech-artists.org](http://tech-artists.org)
 * [StudioSysAdmins](http://studiosysadmins.com)
-* [Tech-artists.org](http://tech-artists.org)
 * [3DVF](http://3dvf.com)
 * [Houdini Discord](https://discordapp.com/channels/230123485668573184/360768996980555776)
 * [Blender Discord (French)](https://discordapp.com/channels/168826665307209728/168826665307209728)
