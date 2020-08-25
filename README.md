@@ -9,13 +9,14 @@ Any contribution is welcome!
 
 ### 2D
 
-* [The Gimp](https://www.gimp.org) - Image editor 
+* [The Gimp](https://www.gimp.org) - Image editor
 * [Krita](https://krita.org) - Digital Painting
 * [Opentoonz](https://opentoonz.github.io/) - Animation
-* [Synfig](https://www.synfig.org/) - Animation 
+* [Synfig](https://www.synfig.org/) - Animation
 * [Pencil2D](https://www.pencil2d.org/) - Hand-drawn animation
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
 * [MyPaint](https://github.com/mypaint/mypaint) - Painting app for artists
+* [Inkscape](https://inkscape.org/) - Vector graphics editor
 
 ### 3D
 
@@ -23,22 +24,23 @@ Any contribution is welcome!
 * [Dust3D](https://dust3D.org) - Modeling
 * [ArmorPaint](https://armorpaint.org/) - Painting
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
-
+* [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
 
 ### 3D realtime engines
 
 * [Armory](https://armory3d.org) - 3D Game Engine For Blender
-* [Babylon.js](http://www.babylonjs.com/) - webGL engine
+* [Babylon.js](http://www.babylonjs.com/) - WebGL engine
 * [Filament](https://github.com/google/filament) - PBR engine
 * [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - C# based engine
 * [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
-* [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC) 
-* [Three.js](https://threejs.org/) - webGL engine
+* [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC)
+* [Three.js](https://threejs.org/) - WebGL engine
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
 
 ### Photography
 
-* [Darktable](https://www.darktable.org/) - photography workflow application and raw developer
+* [Darktable](https://www.darktable.org/) - Photography workflow application and raw developer
+* [dcraw](https://www.dechifro.org/dcraw/) - A tool that decodes any raw image from any digital camera on any computer running any operating system
 
 ### Video
 
@@ -47,6 +49,9 @@ Any contribution is welcome!
 * [Shotcut](https://www.shotcutapp.com/) - Video editing
 * [Kdenlive](https://www.kdenlive.org) - Video editing
 * [Olive](https://www.olivevideoeditor.org/) - Video editing
+* [GStreamer](https://gstreamer.freedesktop.org/) - Multimedia framework
+* [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
+* [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
 
 ## Libraries
 
@@ -76,7 +81,7 @@ Any contribution is welcome!
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
 * [mGui](https://github.com/theodox/mGui) - Portable pure-python GUI library for Maya
 * [minq](https://github.com/theodox/minq) - Maya query language for speeding up common scene operations
-* [OpenWalter](https://github.com/rodeofx/OpenWalter) - USD Plugins Arnold, Houdini, Katana, Maya and USD 
+* [OpenWalter](https://github.com/rodeofx/OpenWalter) - USD Plugins Arnold, Houdini, Katana, Maya and USD
 * [Cortex](https://github.com/ImageEngine/cortex) - Libraries for VFX software development
 * [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018
 
@@ -90,14 +95,21 @@ Any contribution is welcome!
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 * [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator
 * [MakeHuman](http://www.makehumancommunity.org/) - Parametric human character modeling
+* [Open3D](http://www.open3d.org/) - A Modern Library for 3D Data Processing
+* [PCL](https://pointclouds.org/) - A standalone, large scale, open project for 2D/3D image and point cloud processing
+* [Partio](https://www.disneyanimation.com/technology/partio.html) - A unified interface that makes it easier to load, save, and manipulate particle files
+* [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) - A set of open source libraries that implement high performance subdivision surface evaluation on massively parallel CPU and GPU architectures
+* [Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones) - A library for skinning decomposition
 
 ### Colors
 
 * [OpenColorIO](https://opencolorio.org/) ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment
+* [Colour](https://www.colour-science.org/) - An open-source Python package providing a comprehensive number of algorithms and datasets for colour science
 
 ### Shaders
 
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
+* [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
 
 ### Validation and publishing
 
@@ -112,12 +124,18 @@ Any contribution is welcome!
 * [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/AcademySoftwareFoundation/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - A library for reading and writing images in many common and VFX related formats
+* [ImageMagick](https://imagemagick.org/index.php) - Use ImageMagick to create, edit, compose, or convert bitmap images
+* [OpenCV](https://opencv.org/) - An open source computer vision and machine learning software library
+* [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - Example-based texture synthesis written in Rust
+* [pfstools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating high-dynamic range (HDR) images and video frames
 * [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format
 * [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 * [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD
+* [USD Manager](http://www.usdmanager.org/) - Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files
 * [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb)) - Volumetric data
-* [OpenVDB AX](https://github.com/dneg/openvdb_ax) - fast expression language for manipulating OpenVDB files
+* [OpenVDB AX](https://github.com/dneg/openvdb_ax) - Fast expression language for manipulating OpenVDB files
+* [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data
 * [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come)
 
 ## Job schedulers
@@ -135,6 +153,7 @@ Any contribution is welcome!
 * [Rez](https://github.com/nerdvegas/rez)
 * [Rez Packages](https://github.com/predat/rez-packages)
 * [conda](https://github.com/conda/conda)
+* [wiz](https://github.com/themill/wiz)
 
 ## Asset managers
 
@@ -150,16 +169,18 @@ Any contribution is welcome!
 
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
 * [Attract](https://attract.studio/) - Production tracking for film makers (Blender Foundation)
-    
+
 ## Photogrammetry
 
-* [AliceVision](https://alicevision.github.io/)
+* [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework
+* [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface
+* [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists and targeted for the Multiple View Geometry community
 
 ## Content validation
 
 * [Pyblish](http://pyblish.com/) - Test-driven content creation
 
-## Dockers
+## Docker images
 
 * [Animal Logic's USD Docker](https://github.com/AnimalLogic/docker-usd)
 * [Deadline](https://github.com/mottosso/docker-deadline)
@@ -172,13 +193,12 @@ Any contribution is welcome!
 * [WSL Distribution Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Change the distro behind Windows Subsystem
 * [Jean-Paul Start](https://github.com/cube-creative/jeanpaulstart) - Small (with Ansible-like syntax) launcher with GUI
 
-
 ## Plugins
 
 * [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke
 * [Cmt](https://github.com/chadmv/cmt) - Various Maya tools
 * [FTrack Hooks](https://github.com/tokejepsen/ftrack-hooks) Set of plugins for FTrack
-* [OnionSkinRenderer](https://github.com/Viele/onionSkinRenderer) - Onion Skin Renderer for Maya 
+* [OnionSkinRenderer](https://github.com/Viele/onionSkinRenderer) - Onion Skin Renderer for Maya
 * [Palladio](https://github.com/Esri/palladio) - CityEngine Plugin for Houdini
 * [Wiretap](https://github.com/predat/wiretap) - Manage Flame Wiretap database
 
