@@ -109,24 +109,24 @@ Any contribution is welcome!
 * [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management
 * [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Accurate object ID mattes
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
-* [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/AcademySoftwareFoundation/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM.
+* [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/AcademySoftwareFoundation/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - A library for reading and writing images in many common and VFX related formats
-* [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format.
+* [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format
 * [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 * [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD
 * [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb)) - Volumetric data
-* [OpenVDB AX](https://github.com/dneg/openvdb_ax) - fast expression language for manipulating OpenVDB files.
-* [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage. (Works between Maya and Nuke, with more DCCs to come.)
+* [OpenVDB AX](https://github.com/dneg/openvdb_ax) - fast expression language for manipulating OpenVDB files
+* [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come)
 
 ## Job schedulers
 
-* [Coalition](http://coalition.readthedocs.io/en/latest/) from Mercenaries Engineering (developers of Guerilla Render.)
-* [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) from Sony Imageworks.
-* [Flamenco](https://www.flamenco.io/) from the Blender Foundation.
-* [Plow](https://github.com/chadmv/plow) by Chad Vernon.
-* [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager.
+* [Coalition](http://coalition.readthedocs.io/en/latest/) from Mercenaries Engineering (developers of Guerilla Render)
+* [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) from Sony Imageworks
+* [Flamenco](https://www.flamenco.io/) from the Blender Foundation
+* [Plow](https://github.com/chadmv/plow) by Chad Vernon
+* [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager
 * [Pandora](https://prism-pipeline.com/pandora/) Open-Source Renderfarm-Manager
 
 ## Package managers
@@ -175,7 +175,7 @@ Any contribution is welcome!
 
 ## Plugins
 
-* [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke.
+* [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke
 * [Cmt](https://github.com/chadmv/cmt) - Various Maya tools
 * [FTrack Hooks](https://github.com/tokejepsen/ftrack-hooks) Set of plugins for FTrack
 * [OnionSkinRenderer](https://github.com/Viele/onionSkinRenderer) - Onion Skin Renderer for Maya 
@@ -201,13 +201,13 @@ Any contribution is welcome!
 
 ### VSCode
 
-* [MayaCode](https://marketplace.visualstudio.com/items?itemName=saviof.mayacode) ([repo](https://github.com/artbycrunk/vscode-maya)) - Maya syntax highlighting support, along with autocomplete commands and send code to maya via command port.
-* [MayaPort](https://marketplace.visualstudio.com/items?itemName=JonMacey.mayaport) ([repo](https://github.com/NCCA/mayaport)) - Run Maya code from VSCode.
-* [SendtoMaya](https://marketplace.visualstudio.com/items?itemName=ivancheung7.sendtomaya) - Alternative to MayaPort, serving the same purpose.
-* [MEL Language Syntax](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git) ([repo](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git)) - for syntax highlighting support.
-* [VEX Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.vex) ([repo](https://github.com/melMass/vscode-vex.git)) - for syntax highlighting support.
-* [Blink Script (Nuke) Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.blink) ([repo](https://github.com/melMass/vscode-blink.git)) - for syntax highlighting support.
-* [Pixar USD ASCII Language Syntax](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) ([repo](https://github.com/AnimalLogic/AL_usd_vscode_extension)) - for syntax highlighting support, courtesy of the folks at Animal Logic.
+* [MayaCode](https://marketplace.visualstudio.com/items?itemName=saviof.mayacode) ([repo](https://github.com/artbycrunk/vscode-maya)) - Maya syntax highlighting support, along with autocomplete commands and send code to maya via command port
+* [MayaPort](https://marketplace.visualstudio.com/items?itemName=JonMacey.mayaport) ([repo](https://github.com/NCCA/mayaport)) - Run Maya code from VSCode
+* [SendtoMaya](https://marketplace.visualstudio.com/items?itemName=ivancheung7.sendtomaya) - Alternative to MayaPort, serving the same purpose
+* [MEL Language Syntax](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git) ([repo](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git)) - for syntax highlighting support
+* [VEX Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.vex) ([repo](https://github.com/melMass/vscode-vex.git)) - for syntax highlighting support
+* [Blink Script (Nuke) Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.blink) ([repo](https://github.com/melMass/vscode-blink.git)) - for syntax highlighting support
+* [Pixar USD ASCII Language Syntax](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) ([repo](https://github.com/AnimalLogic/AL_usd_vscode_extension)) - for syntax highlighting support, courtesy of the folks at Animal Logic
 
 ## Databases
 
