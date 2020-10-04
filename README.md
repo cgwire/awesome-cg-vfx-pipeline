@@ -36,6 +36,7 @@ Any contribution is welcome!
 * [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC)
 * [Three.js](https://threejs.org/) - WebGL engine
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
+* [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine
 
 ### Photography
 
