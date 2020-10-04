@@ -5,7 +5,7 @@ pipeline for CG or VFX productions.
 
 Any contribution is welcome!
 
-## Image software
+## Main softwares DCC
 
 ### 2D
 
