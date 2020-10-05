@@ -8,7 +8,7 @@ pipeline for CG or VFX productions.
 
 Any contribution is welcome!
 
-## Main softwares DCC
+## Digital Content Creation Software (DCCs)
 
 ### 2D
 
