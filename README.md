@@ -1,6 +1,6 @@
 # Awesome CG / VFX Pipeline
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that will help in the process of building a
@@ -303,6 +303,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://sreenivas.dev"><img src="https://avatars0.githubusercontent.com/u/2767425?v=4" width="100px;" alt=""/><br /><sub><b>sreenivas alapati</b></sub></a><br /><a href="#content-cg-cnu" title="Content">🖋</a></td>
     <td align="center"><a href="https://artstation.com/artist/stilobique"><img src="https://avatars0.githubusercontent.com/u/3066684?v=4" width="100px;" alt=""/><br /><sub><b>Stilobique</b></sub></a><br /><a href="#content-stilobique" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/bob-white"><img src="https://avatars0.githubusercontent.com/u/7028615?v=4" width="100px;" alt=""/><br /><sub><b>bob-white</b></sub></a><br /><a href="#content-bob-white" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.nothing-is-3d.com/"><img src="https://avatars0.githubusercontent.com/u/3873421?v=4" width="100px;" alt=""/><br /><sub><b>Vincent Lamy</b></sub></a><br /><a href="#content-Vinc3r" title="Content">🖋</a></td>
   </tr>
 </table>
 
