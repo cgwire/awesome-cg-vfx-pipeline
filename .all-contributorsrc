@@ -5,6 +5,15 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
+      {
+      "login": "frankrousseau",
+      "name": "Frank Rousseau",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1336623?v=4",
+      "profile": "https://github.com/frankrousseau",
+      "contributions": [
+        "content"
+      ]
+    },
     {
       "login": "loonghao",
       "name": "Hal",
@@ -40,7 +49,16 @@
       "contributions": [
         "content"
       ]
-    }
+    },
+    {
+      "login": "stilobique",
+      "name": "Stilobique",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3066684?v=4",
+      "profile": "https://artstation.com/artist/stilobique",
+      "contributions": [
+        "content"
+      ]
+    },
   ],
   "contributorsPerLine": 7,
   "projectName": "awesome-cg-vfx-pipeline",
