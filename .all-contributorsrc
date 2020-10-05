@@ -76,6 +76,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "theodox",
+      "name": "Steve Theodore",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4056600?v=4",
+      "profile": "http://blog.theodox.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
