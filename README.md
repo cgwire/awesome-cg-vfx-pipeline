@@ -1,6 +1,6 @@
 # Awesome CG / VFX Pipeline
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that will help in the process of building a
@@ -298,6 +298,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/loonghao"><img src="https://avatars1.githubusercontent.com/u/13111745?v=4" width="100px;" alt=""/><br /><sub><b>Hal</b></sub></a><br /><a href="#content-loonghao" title="Content">🖋</a></td>
     <td align="center"><a href="http://darkvertex.com"><img src="https://avatars0.githubusercontent.com/u/941331?v=4" width="100px;" alt=""/><br /><sub><b>Alan Fregtman</b></sub></a><br /><a href="#content-darkvertex" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/notawhalevfx"><img src="https://avatars2.githubusercontent.com/u/45572972?v=4" width="100px;" alt=""/><br /><sub><b>Nikita Musatov</b></sub></a><br /><a href="#content-notawhalevfx" title="Content">🖋</a></td>
   </tr>
 </table>
 
