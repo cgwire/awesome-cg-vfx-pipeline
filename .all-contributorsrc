@@ -5,7 +5,7 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
-      {
+    {
       "login": "frankrousseau",
       "name": "Frank Rousseau",
       "avatar_url": "https://avatars1.githubusercontent.com/u/1336623?v=4",
@@ -55,6 +55,15 @@
       "name": "Stilobique",
       "avatar_url": "https://avatars0.githubusercontent.com/u/3066684?v=4",
       "profile": "https://artstation.com/artist/stilobique",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "bob-white",
+      "name": "bob-white",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7028615?v=4",
+      "profile": "https://github.com/bob-white",
       "contributions": [
         "content"
       ]
