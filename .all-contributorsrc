@@ -166,6 +166,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "corentincharron",
+      "name": "Corentin",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4436347?v=4",
+      "profile": "http://www.corentin-charron.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
