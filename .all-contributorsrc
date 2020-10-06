@@ -103,6 +103,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "santosh",
+      "name": "Santosh Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1515991?v=4",
+      "profile": "http://santoshk.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
