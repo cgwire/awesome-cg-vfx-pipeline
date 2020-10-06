@@ -1,6 +1,6 @@
 # Awesome CG / VFX Pipeline
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that will help in the process of building a
@@ -321,6 +321,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.corentin-charron.com"><img src="https://avatars2.githubusercontent.com/u/4436347?v=4" width="100px;" alt=""/><br /><sub><b>Corentin</b></sub></a><br /><a href="#content-corentincharron" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.saviof.com"><img src="https://avatars0.githubusercontent.com/u/1092099?v=4" width="100px;" alt=""/><br /><sub><b>Savio Fernandes</b></sub></a><br /><a href="#content-artbycrunk" title="Content">🖋</a></td>
     <td align="center"><a href="https://in.linkedin.com/in/anvith-shivakumara"><img src="https://avatars3.githubusercontent.com/u/5442547?v=4" width="100px;" alt=""/><br /><sub><b>Anvith Shivakumara</b></sub></a><br /><a href="#content-anvth" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/aboellinger"><img src="https://avatars0.githubusercontent.com/u/5718135?v=4" width="100px;" alt=""/><br /><sub><b>Antoine Boellinger</b></sub></a><br /><a href="#content-aboellinger" title="Content">🖋</a></td>
   </tr>
 </table>
 
