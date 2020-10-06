@@ -310,6 +310,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.cube-creative.com/"><img src="https://avatars2.githubusercontent.com/u/26791257?v=4" width="100px;" alt=""/><br /><sub><b>Cube Creative</b></sub></a><br /><a href="#content-developer-cube-creative" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.bumpybox.com"><img src="https://avatars0.githubusercontent.com/u/1860085?v=4" width="100px;" alt=""/><br /><sub><b>Toke Jepsen</b></sub></a><br /><a href="#content-tokejepsen" title="Content">🖋</a></td>
     <td align="center"><a href="http://santoshk.dev"><img src="https://avatars3.githubusercontent.com/u/1515991?v=4" width="100px;" alt=""/><br /><sub><b>Santosh Kumar</b></sub></a><br /><a href="#content-santosh" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/listyque"><img src="https://avatars2.githubusercontent.com/u/13370598?v=4" width="100px;" alt=""/><br /><sub><b>Alex Miarsky</b></sub></a><br /><a href="#content-listyque" title="Content">🖋</a></td>
   </tr>
 </table>
 
