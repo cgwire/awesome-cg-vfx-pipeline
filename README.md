@@ -59,6 +59,11 @@ Any contribution is welcome!
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
 
+### Tools
+* [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry
+ across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
+* [Capsule](https://github.com/Takanu/Capsule) - Blender addon to export, manage and automate to shared between
+ blender and Unreal/Unity or other realtime engine. 
 ## Libraries
 
 ### File path
