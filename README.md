@@ -1,6 +1,6 @@
 # Awesome CG / VFX Pipeline
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that will help in the process of building a
@@ -311,6 +311,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.bumpybox.com"><img src="https://avatars0.githubusercontent.com/u/1860085?v=4" width="100px;" alt=""/><br /><sub><b>Toke Jepsen</b></sub></a><br /><a href="#content-tokejepsen" title="Content">🖋</a></td>
     <td align="center"><a href="http://santoshk.dev"><img src="https://avatars3.githubusercontent.com/u/1515991?v=4" width="100px;" alt=""/><br /><sub><b>Santosh Kumar</b></sub></a><br /><a href="#content-santosh" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/listyque"><img src="https://avatars2.githubusercontent.com/u/13370598?v=4" width="100px;" alt=""/><br /><sub><b>Alex Miarsky</b></sub></a><br /><a href="#content-listyque" title="Content">🖋</a></td>
+    <td align="center"><a href="http://justintennant.me"><img src="https://avatars2.githubusercontent.com/u/7485210?v=4" width="100px;" alt=""/><br /><sub><b>Justin Tennant</b></sub></a><br /><a href="#content-justint" title="Content">🖋</a></td>
   </tr>
 </table>
 
