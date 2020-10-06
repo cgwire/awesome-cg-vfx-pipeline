@@ -113,6 +113,10 @@ Any contribution is welcome!
 * [Partio](https://www.disneyanimation.com/technology/partio.html) - A unified interface that makes it easier to load, save, and manipulate particle files
 * [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) - A set of open source libraries that implement high performance subdivision surface evaluation on massively parallel CPU and GPU architectures
 * [Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones) - A library for skinning decomposition
+* [Quadriflow](https://github.com/hjwdzh/QuadriFlow) - Convert a mesh to a quadrangulation
+* [Optimesh](https://github.com/nschloe/optimesh) - Python library to optimise a triangular mesh, remesh with various 
+algorithms 
+* [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing
 
 ### Colors
 
