@@ -24,7 +24,8 @@ Any contribution is welcome!
 ### 3D
 
 * [Blender](https://blender.org) - Modeling and animation
-* [Dust3D](https://dust3D.org) - Modeling
+* [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
+ seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d).
 * [ArmorPaint](https://armorpaint.org/) - Painting
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
 * [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
