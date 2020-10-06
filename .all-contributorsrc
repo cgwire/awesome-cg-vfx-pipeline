@@ -121,6 +121,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "justint",
+      "name": "Justin Tennant",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7485210?v=4",
+      "profile": "http://justintennant.me",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
