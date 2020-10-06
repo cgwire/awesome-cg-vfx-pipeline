@@ -1,6 +1,6 @@
 # Awesome CG / VFX Pipeline
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that will help in the process of building a
@@ -319,6 +319,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jfpanisset"><img src="https://avatars0.githubusercontent.com/u/32653482?v=4" width="100px;" alt=""/><br /><sub><b>Jean-Francois Panisset</b></sub></a><br /><a href="#content-jfpanisset" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.heavyimage.com"><img src="https://avatars0.githubusercontent.com/u/7820487?v=4" width="100px;" alt=""/><br /><sub><b>Jesse Spielman</b></sub></a><br /><a href="#content-heavyimage" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.corentin-charron.com"><img src="https://avatars2.githubusercontent.com/u/4436347?v=4" width="100px;" alt=""/><br /><sub><b>Corentin</b></sub></a><br /><a href="#content-corentincharron" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.saviof.com"><img src="https://avatars0.githubusercontent.com/u/1092099?v=4" width="100px;" alt=""/><br /><sub><b>Savio Fernandes</b></sub></a><br /><a href="#content-artbycrunk" title="Content">🖋</a></td>
   </tr>
 </table>
 
