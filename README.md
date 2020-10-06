@@ -119,10 +119,6 @@ Any contribution is welcome!
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 * [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
 
-### Validation and publishing
-
-* [Pyblish](https://github.com/pyblish/pyblish) - A Python framework that brings test-driven development to visual effects and triple-A game creation
-
 ## File formats
 
 * [Alembic](http://www.alembic.io/) - Animations
@@ -186,7 +182,9 @@ Any contribution is welcome!
 
 ## Content validation
 
-* [Pyblish](http://pyblish.com/) - Test-driven content creation
+* [Pyblish](http://pyblish.com/) - A Python framework that brings test-driven development to visual effects and
+ triple-A game creation
+  * [Blender Pyblish](https://github.com/jasperges/pyblish-blender) - Blender Addon to integrate the Pyblish framework 
 
 ## Docker images
 
