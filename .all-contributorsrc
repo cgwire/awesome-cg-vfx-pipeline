@@ -85,6 +85,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "developer-cube-creative",
+      "name": "Cube Creative",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26791257?v=4",
+      "profile": "http://www.cube-creative.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
