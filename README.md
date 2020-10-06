@@ -1,6 +1,6 @@
 # Awesome CG / VFX Pipeline
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that will help in the process of building a
@@ -308,6 +308,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.nothing-is-3d.com/"><img src="https://avatars0.githubusercontent.com/u/3873421?v=4" width="100px;" alt=""/><br /><sub><b>Vincent Lamy</b></sub></a><br /><a href="#content-Vinc3r" title="Content">🖋</a></td>
     <td align="center"><a href="http://blog.theodox.com"><img src="https://avatars3.githubusercontent.com/u/4056600?v=4" width="100px;" alt=""/><br /><sub><b>Steve Theodore</b></sub></a><br /><a href="#content-theodox" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.cube-creative.com/"><img src="https://avatars2.githubusercontent.com/u/26791257?v=4" width="100px;" alt=""/><br /><sub><b>Cube Creative</b></sub></a><br /><a href="#content-developer-cube-creative" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.bumpybox.com"><img src="https://avatars0.githubusercontent.com/u/1860085?v=4" width="100px;" alt=""/><br /><sub><b>Toke Jepsen</b></sub></a><br /><a href="#content-tokejepsen" title="Content">🖋</a></td>
   </tr>
 </table>
 
