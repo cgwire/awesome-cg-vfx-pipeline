@@ -103,6 +103,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "listyque",
+      "name": "Alex Miarsky",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13370598?v=4",
+      "profile": "https://github.com/listyque",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
