@@ -139,6 +139,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "hellozee",
+      "name": "Kuntal Majumder",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12135951?v=4",
+      "profile": "http://hellozee.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
