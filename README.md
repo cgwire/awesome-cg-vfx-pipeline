@@ -64,6 +64,13 @@ Any contribution is welcome!
  across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [Capsule](https://github.com/Takanu/Capsule) - Blender addon to export, manage and automate to shared between
  blender and Unreal/Unity or other realtime engine. 
+* [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) - Create textures from Glsl fragment shaders on
+ Blender (2.8)
+* [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for
+ Unreal Engine 4.
+* [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Python library to generate a stylised rendering
+ from an image 
+ 
 ## Libraries
 
 ### File path
