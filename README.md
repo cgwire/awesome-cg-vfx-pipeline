@@ -1,6 +1,6 @@
 # Awesome CG / VFX Pipeline
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that will help in the process of building a
@@ -315,6 +315,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://jtomori.github.io"><img src="https://avatars0.githubusercontent.com/u/22801191?v=4" width="100px;" alt=""/><br /><sub><b>Juraj Tomori</b></sub></a><br /><a href="#content-jtomori" title="Content">🖋</a></td>
+    <td align="center"><a href="http://hellozee.dev"><img src="https://avatars1.githubusercontent.com/u/12135951?v=4" width="100px;" alt=""/><br /><sub><b>Kuntal Majumder</b></sub></a><br /><a href="#content-hellozee" title="Content">🖋</a></td>
   </tr>
 </table>
 
