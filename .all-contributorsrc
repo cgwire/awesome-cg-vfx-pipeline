@@ -94,6 +94,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "tokejepsen",
+      "name": "Toke Jepsen",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1860085?v=4",
+      "profile": "http://www.bumpybox.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
