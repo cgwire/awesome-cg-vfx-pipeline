@@ -24,7 +24,8 @@ Any contribution is welcome!
 ### 3D
 
 * [Blender](https://blender.org) - Modeling and animation
-* [Dust3D](https://dust3D.org) - Modeling
+* [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
+ seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d).
 * [ArmorPaint](https://armorpaint.org/) - Painting
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
 * [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
@@ -36,10 +37,11 @@ Any contribution is welcome!
 * [Filament](https://github.com/google/filament) - PBR engine
 * [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - C# based engine
 * [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
+* [Neo Axis Engine](https://github.com/NeoAxis/NeoAxisEngine) - NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
+* [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine
 * [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC)
 * [Three.js](https://threejs.org/) - WebGL engine
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
-* [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine
 
 ### Photography
 
@@ -57,6 +59,18 @@ Any contribution is welcome!
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
 
+### Tools
+* [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry
+ across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
+* [Capsule](https://github.com/Takanu/Capsule) - Blender addon to export, manage and automate to shared between
+ blender and Unreal/Unity or other realtime engine. 
+* [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) - Create textures from Glsl fragment shaders on
+ Blender (2.8)
+* [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for
+ Unreal Engine 4.
+* [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Python library to generate a stylised rendering
+ from an image 
+ 
 ## Libraries
 
 ### File path
@@ -106,6 +120,10 @@ Any contribution is welcome!
 * [Partio](https://www.disneyanimation.com/technology/partio.html) - A unified interface that makes it easier to load, save, and manipulate particle files
 * [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) - A set of open source libraries that implement high performance subdivision surface evaluation on massively parallel CPU and GPU architectures
 * [Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones) - A library for skinning decomposition
+* [Quadriflow](https://github.com/hjwdzh/QuadriFlow) - Convert a mesh to a quadrangulation
+* [Optimesh](https://github.com/nschloe/optimesh) - Python library to optimise a triangular mesh, remesh with various 
+algorithms 
+* [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing
 
 ### Colors
 
@@ -116,10 +134,6 @@ Any contribution is welcome!
 
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 * [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
-
-### Validation and publishing
-
-* [Pyblish](https://github.com/pyblish/pyblish) - A Python framework that brings test-driven development to visual effects and triple-A game creation
 
 ## File formats
 
@@ -184,7 +198,9 @@ Any contribution is welcome!
 
 ## Content validation
 
-* [Pyblish](http://pyblish.com/) - Test-driven content creation
+* [Pyblish](http://pyblish.com/) - A Python framework that brings test-driven development to visual effects and
+ triple-A game creation
+  * [Blender Pyblish](https://github.com/jasperges/pyblish-blender) - Blender Addon to integrate the Pyblish framework 
 
 ## Docker images
 
