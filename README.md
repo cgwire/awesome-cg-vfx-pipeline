@@ -103,6 +103,7 @@ Any contribution is welcome!
 * [Cortex](https://github.com/ImageEngine/cortex) - Libraries for VFX software development
 * [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018
 * [Photoshop Python API](https://github.com/loonghao/photoshop-python-api) - Python API for Photoshop.
+* [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
 
 
 ### Geometry
