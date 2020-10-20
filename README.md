@@ -175,6 +175,10 @@ algorithms
 * [conda](https://github.com/conda/conda)
 * [wiz](https://github.com/themill/wiz)
 
+### Environment Manager
+* [Allzpark](https://github.com/mottosso/allzpark) Based on Rez manager, [Allzpark](https://allzpark.com/) can manage
+ your software to give an specific software, really usefull with old project. 
+
 ## Asset managers
 
 * [Avalon](https://getavalon.github.io)
@@ -184,6 +188,8 @@ algorithms
 * [Plex](https://github.com/richteralexander/plex)
 * [Prism](https://prism-pipeline.com/)
 * [TACTIC-Handler](https://github.com/listyque/TACTIC-Handler)
+
+
 
 ## Production Managers
 
