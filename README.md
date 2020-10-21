@@ -57,7 +57,13 @@ Any contribution is welcome!
 * [Olive](https://www.olivevideoeditor.org/) - Video editing
 * [GStreamer](https://gstreamer.freedesktop.org/) - Multimedia framework
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
-* [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
+* [DJV](https://darbyjohnston.github.io/DJV/) | Professional review software for VFX, animation, and film production
+
+### UV/Unwrap library
+* [Thekla atlas](https://github.com/Thekla/thekla_atlas) | This tool performs mesh segmentation, surface
+ parameterization, and chart packing.
+* [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's
+ a library to generate an UV for -example- lightmap uv.
 
 ### Tools
 * [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry
@@ -176,6 +182,10 @@ algorithms
 * [conda](https://github.com/conda/conda)
 * [wiz](https://github.com/themill/wiz)
 
+### Environment Manager
+* [Allzpark](https://github.com/mottosso/allzpark) Based on Rez manager, [Allzpark](https://allzpark.com/) can manage
+ your software to give an specific software, really usefull with old project. 
+
 ## Asset managers
 
 * [Avalon](https://getavalon.github.io)
@@ -185,6 +195,8 @@ algorithms
 * [Plex](https://github.com/richteralexander/plex)
 * [Prism](https://prism-pipeline.com/)
 * [TACTIC-Handler](https://github.com/listyque/TACTIC-Handler)
+
+
 
 ## Production Managers
 
