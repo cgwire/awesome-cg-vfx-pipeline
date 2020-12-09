@@ -12,14 +12,14 @@ Any contribution is welcome!
 
 ### 2D
 
-* [The Gimp](https://www.gimp.org) - Image editor
-* [Krita](https://krita.org) - Digital Painting
-* [Opentoonz](https://opentoonz.github.io/) - Animation
-* [Synfig](https://www.synfig.org/) - Animation
-* [Pencil2D](https://www.pencil2d.org/) - Hand-drawn animation
+* [The Gimp](https://www.gimp.org) - A cross-platform image editor
+* [Krita](https://krita.org) - A professional painting program
+* [Opentoonz](https://opentoonz.github.io/) - Animation production software
+* [Synfig](https://www.synfig.org/) - 2D animation software
+* [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
-* [MyPaint](https://github.com/mypaint/mypaint) - Painting app for artists
-* [Inkscape](https://inkscape.org/) - Vector graphics editor
+* [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
+* [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
 * [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
 * [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
 * [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration
@@ -29,7 +29,7 @@ Any contribution is welcome!
 * [Blender](https://blender.org) - Modeling and animation
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
  seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d).
-* [ArmorPaint](https://armorpaint.org/) - Painting
+* [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
 * [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
 * [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface
@@ -46,10 +46,10 @@ Any contribution is welcome!
 
 ### 3D realtime engines
 
-* [Armory](https://armory3d.org) - 3D Game Engine For Blender
+* [Armory](https://armory3d.org) - 3D engine with Blender integration focused on portability, minimal footprint and performance
 * [Babylon.js](http://www.babylonjs.com/) - WebGL engine
 * [Filament](https://github.com/google/filament) - PBR engine
-* [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - C# based engine
+* [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - A multiplatform 3D C# realtime engine with a strong emphasis on content transformation and manipulation
 * [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
 * [Neo Axis Engine](https://github.com/NeoAxis/NeoAxisEngine) - NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
 * [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine
@@ -70,14 +70,14 @@ Any contribution is welcome!
 
 ### Video
 
-* [CasparCG](https://github.com/CasparCG) - Video broadcast
-* [Natron](https://natron.fr) - Compositing
-* [Shotcut](https://www.shotcutapp.com/) - Video editing
-* [Kdenlive](https://www.kdenlive.org) - Video editing
-* [Olive](https://www.olivevideoeditor.org/) - Video editing
-* [GStreamer](https://gstreamer.freedesktop.org/) - Multimedia framework
+* [CasparCG](https://github.com/CasparCG) - A Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor
+* [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics
+* [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
+* [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt
+* [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
+* [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
-* [DJV](https://darbyjohnston.github.io/DJV/) | Professional review software for VFX, animation, and film production
+* [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
 * [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media
 * [qctools](http://bavc.github.io/qctools/) - A free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering
 
@@ -161,7 +161,7 @@ algorithms
 
 ### Colors
 
-* [OpenColorIO](https://opencolorio.org/) ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment
+* [OpenColorIO](https://opencolorio.org/) ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment, a complete color management solution geared towards motion picture production with an emphasis on visual effects and computer animation
 * [Colour](https://www.colour-science.org/) - An open-source Python package providing a comprehensive number of algorithms and datasets for colour science
 
 ### Shaders
@@ -204,7 +204,7 @@ of bidirectional reflectance distribution functions
 ## Job schedulers
 
 * [Coalition](http://coalition.readthedocs.io/en/latest/) from Mercenaries Engineering (developers of Guerilla Render)
-* [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) from Sony Imageworks
+* [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) An open source render management system from Sony Imageworks
 * [Flamenco](https://www.flamenco.io/) from the Blender Foundation
 * [Plow](https://github.com/chadmv/plow) by Chad Vernon
 * [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager
@@ -254,8 +254,8 @@ of bidirectional reflectance distribution functions
 
 ## Docker images
 
-* [Animal Logic's USD Docker](https://github.com/AnimalLogic/docker-usd)
-* [Deadline](https://github.com/mottosso/docker-deadline)
+* [Animal Logic's USD Docker](https://github.com/AnimalLogic/docker-usd) - A set of docker build scripts which will download all the Open Source packages required to build Pixar's Universal Scene Description, as well as USD itself
+* [Deadline](https://github.com/mottosso/docker-deadline) - Docker images for Thinkbox Software Deadline
 * [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
 * [Maya](https://github.com/mottosso/docker-maya)
 * [Foundry RLM](https://github.com/tokejepsen/docker-foundry-rlm)
