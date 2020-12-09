@@ -1,0 +1,222 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "frankrousseau",
+      "name": "Frank Rousseau",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1336623?v=4",
+      "profile": "https://github.com/frankrousseau",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "loonghao",
+      "name": "Hal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13111745?v=4",
+      "profile": "https://github.com/loonghao",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "darkvertex",
+      "name": "Alan Fregtman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/941331?v=4",
+      "profile": "http://darkvertex.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "notawhalevfx",
+      "name": "Nikita Musatov",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45572972?v=4",
+      "profile": "https://github.com/notawhalevfx",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "cg-cnu",
+      "name": "sreenivas alapati",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2767425?v=4",
+      "profile": "https://sreenivas.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "stilobique",
+      "name": "Stilobique",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3066684?v=4",
+      "profile": "https://artstation.com/artist/stilobique",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "bob-white",
+      "name": "bob-white",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7028615?v=4",
+      "profile": "https://github.com/bob-white",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Vinc3r",
+      "name": "Vincent Lamy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3873421?v=4",
+      "profile": "https://www.nothing-is-3d.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "theodox",
+      "name": "Steve Theodore",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4056600?v=4",
+      "profile": "http://blog.theodox.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "developer-cube-creative",
+      "name": "Cube Creative",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26791257?v=4",
+      "profile": "http://www.cube-creative.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "tokejepsen",
+      "name": "Toke Jepsen",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1860085?v=4",
+      "profile": "http://www.bumpybox.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "santosh",
+      "name": "Santosh Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1515991?v=4",
+      "profile": "http://santoshk.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "listyque",
+      "name": "Alex Miarsky",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13370598?v=4",
+      "profile": "https://github.com/listyque",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "justint",
+      "name": "Justin Tennant",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7485210?v=4",
+      "profile": "http://justintennant.me",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jtomori",
+      "name": "Juraj Tomori",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/22801191?v=4",
+      "profile": "https://jtomori.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "hellozee",
+      "name": "Kuntal Majumder",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12135951?v=4",
+      "profile": "http://hellozee.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jfpanisset",
+      "name": "Jean-Francois Panisset",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32653482?v=4",
+      "profile": "https://github.com/jfpanisset",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "heavyimage",
+      "name": "Jesse Spielman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7820487?v=4",
+      "profile": "http://www.heavyimage.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "corentincharron",
+      "name": "Corentin",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4436347?v=4",
+      "profile": "http://www.corentin-charron.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "artbycrunk",
+      "name": "Savio Fernandes",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1092099?v=4",
+      "profile": "https://www.saviof.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "anvth",
+      "name": "Anvith Shivakumara",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5442547?v=4",
+      "profile": "https://in.linkedin.com/in/anvith-shivakumara",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "aboellinger",
+      "name": "Antoine Boellinger",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5718135?v=4",
+      "profile": "https://github.com/aboellinger",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mathbou",
+      "name": "Mathieu Bouzard",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13415583?v=4",
+      "profile": "https://github.com/mathbou",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-cg-vfx-pipeline",
+  "projectOwner": "cgwire",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

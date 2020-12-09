@@ -1,11 +1,14 @@
 # Awesome CG / VFX Pipeline
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that will help in the process of building a
 pipeline for CG or VFX productions.
 
 Any contribution is welcome!
 
-## Image software
+## Digital Content Creation Software (DCCs)
 
 ### 2D
 
@@ -21,7 +24,8 @@ Any contribution is welcome!
 ### 3D
 
 * [Blender](https://blender.org) - Modeling and animation
-* [Dust3D](https://dust3D.org) - Modeling
+* [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
+ seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d).
 * [ArmorPaint](https://armorpaint.org/) - Painting
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
 * [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
@@ -33,8 +37,13 @@ Any contribution is welcome!
 * [Filament](https://github.com/google/filament) - PBR engine
 * [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - C# based engine
 * [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
+* [Neo Axis Engine](https://github.com/NeoAxis/NeoAxisEngine) - NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
+* [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine
 * [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC)
 * [Three.js](https://threejs.org/) - WebGL engine
+  * [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Based on Three.js, this framework is
+   dedicated to generate a 3D Map experience on a web
+   service.
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
 
 ### Photography
@@ -51,8 +60,26 @@ Any contribution is welcome!
 * [Olive](https://www.olivevideoeditor.org/) - Video editing
 * [GStreamer](https://gstreamer.freedesktop.org/) - Multimedia framework
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
-* [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
+* [DJV](https://darbyjohnston.github.io/DJV/) | Professional review software for VFX, animation, and film production
 
+### UV/Unwrap library
+* [Thekla atlas](https://github.com/Thekla/thekla_atlas) | This tool performs mesh segmentation, surface
+ parameterization, and chart packing.
+* [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's
+ a library to generate an UV for -example- lightmap uv.
+
+### Tools
+* [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry
+ across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
+* [Capsule](https://github.com/Takanu/Capsule) - Blender addon to export, manage and automate to shared between
+ blender and Unreal/Unity or other realtime engine. 
+* [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) - Create textures from Glsl fragment shaders on
+ Blender (2.8)
+* [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for
+ Unreal Engine 4.
+* [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Python library to generate a stylised rendering
+ from an image 
+ 
 ## Libraries
 
 ### File path
@@ -84,6 +111,9 @@ Any contribution is welcome!
 * [OpenWalter](https://github.com/rodeofx/OpenWalter) - USD Plugins Arnold, Houdini, Katana, Maya and USD
 * [Cortex](https://github.com/ImageEngine/cortex) - Libraries for VFX software development
 * [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018
+* [Photoshop Python API](https://github.com/loonghao/photoshop-python-api) - Python API for Photoshop.
+* [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
+
 
 ### Geometry
 
@@ -100,6 +130,10 @@ Any contribution is welcome!
 * [Partio](https://www.disneyanimation.com/technology/partio.html) - A unified interface that makes it easier to load, save, and manipulate particle files
 * [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) - A set of open source libraries that implement high performance subdivision surface evaluation on massively parallel CPU and GPU architectures
 * [Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones) - A library for skinning decomposition
+* [Quadriflow](https://github.com/hjwdzh/QuadriFlow) - Convert a mesh to a quadrangulation
+* [Optimesh](https://github.com/nschloe/optimesh) - Python library to optimise a triangular mesh, remesh with various 
+algorithms 
+* [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing
 
 ### Colors
 
@@ -110,10 +144,6 @@ Any contribution is welcome!
 
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 * [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
-
-### Validation and publishing
-
-* [Pyblish](https://github.com/pyblish/pyblish) - A Python framework that brings test-driven development to visual effects and triple-A game creation
 
 ## File formats
 
@@ -155,6 +185,10 @@ Any contribution is welcome!
 * [conda](https://github.com/conda/conda)
 * [wiz](https://github.com/themill/wiz)
 
+### Environment Manager
+* [Allzpark](https://github.com/mottosso/allzpark) Based on Rez manager, [Allzpark](https://allzpark.com/) can manage
+ your software to give an specific software, really usefull with old project. 
+
 ## Asset managers
 
 * [Avalon](https://getavalon.github.io)
@@ -164,6 +198,8 @@ Any contribution is welcome!
 * [Plex](https://github.com/richteralexander/plex)
 * [Prism](https://prism-pipeline.com/)
 * [TACTIC-Handler](https://github.com/listyque/TACTIC-Handler)
+
+
 
 ## Production Managers
 
@@ -178,7 +214,9 @@ Any contribution is welcome!
 
 ## Content validation
 
-* [Pyblish](http://pyblish.com/) - Test-driven content creation
+* [Pyblish](http://pyblish.com/) - A Python framework that brings test-driven development to visual effects and
+ triple-A game creation
+  * [Blender Pyblish](https://github.com/jasperges/pyblish-blender) - Blender Addon to integrate the Pyblish framework 
 
 ## Docker images
 
@@ -280,3 +318,50 @@ Any contribution is welcome!
 
 * [Wowa](https://www.wowa.me/)
 * [Music For Vlogs](https://soundcloud.com/freemusicforvlogs)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/frankrousseau"><img src="https://avatars1.githubusercontent.com/u/1336623?v=4" width="100px;" alt=""/><br /><sub><b>Frank Rousseau</b></sub></a><br /><a href="#content-frankrousseau" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/loonghao"><img src="https://avatars1.githubusercontent.com/u/13111745?v=4" width="100px;" alt=""/><br /><sub><b>Hal</b></sub></a><br /><a href="#content-loonghao" title="Content">🖋</a></td>
+    <td align="center"><a href="http://darkvertex.com"><img src="https://avatars0.githubusercontent.com/u/941331?v=4" width="100px;" alt=""/><br /><sub><b>Alan Fregtman</b></sub></a><br /><a href="#content-darkvertex" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/notawhalevfx"><img src="https://avatars2.githubusercontent.com/u/45572972?v=4" width="100px;" alt=""/><br /><sub><b>Nikita Musatov</b></sub></a><br /><a href="#content-notawhalevfx" title="Content">🖋</a></td>
+    <td align="center"><a href="https://sreenivas.dev"><img src="https://avatars0.githubusercontent.com/u/2767425?v=4" width="100px;" alt=""/><br /><sub><b>sreenivas alapati</b></sub></a><br /><a href="#content-cg-cnu" title="Content">🖋</a></td>
+    <td align="center"><a href="https://artstation.com/artist/stilobique"><img src="https://avatars0.githubusercontent.com/u/3066684?v=4" width="100px;" alt=""/><br /><sub><b>Stilobique</b></sub></a><br /><a href="#content-stilobique" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/bob-white"><img src="https://avatars0.githubusercontent.com/u/7028615?v=4" width="100px;" alt=""/><br /><sub><b>bob-white</b></sub></a><br /><a href="#content-bob-white" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.nothing-is-3d.com/"><img src="https://avatars0.githubusercontent.com/u/3873421?v=4" width="100px;" alt=""/><br /><sub><b>Vincent Lamy</b></sub></a><br /><a href="#content-Vinc3r" title="Content">🖋</a></td>
+    <td align="center"><a href="http://blog.theodox.com"><img src="https://avatars3.githubusercontent.com/u/4056600?v=4" width="100px;" alt=""/><br /><sub><b>Steve Theodore</b></sub></a><br /><a href="#content-theodox" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.cube-creative.com/"><img src="https://avatars2.githubusercontent.com/u/26791257?v=4" width="100px;" alt=""/><br /><sub><b>Cube Creative</b></sub></a><br /><a href="#content-developer-cube-creative" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.bumpybox.com"><img src="https://avatars0.githubusercontent.com/u/1860085?v=4" width="100px;" alt=""/><br /><sub><b>Toke Jepsen</b></sub></a><br /><a href="#content-tokejepsen" title="Content">🖋</a></td>
+    <td align="center"><a href="http://santoshk.dev"><img src="https://avatars3.githubusercontent.com/u/1515991?v=4" width="100px;" alt=""/><br /><sub><b>Santosh Kumar</b></sub></a><br /><a href="#content-santosh" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/listyque"><img src="https://avatars2.githubusercontent.com/u/13370598?v=4" width="100px;" alt=""/><br /><sub><b>Alex Miarsky</b></sub></a><br /><a href="#content-listyque" title="Content">🖋</a></td>
+    <td align="center"><a href="http://justintennant.me"><img src="https://avatars2.githubusercontent.com/u/7485210?v=4" width="100px;" alt=""/><br /><sub><b>Justin Tennant</b></sub></a><br /><a href="#content-justint" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://jtomori.github.io"><img src="https://avatars0.githubusercontent.com/u/22801191?v=4" width="100px;" alt=""/><br /><sub><b>Juraj Tomori</b></sub></a><br /><a href="#content-jtomori" title="Content">🖋</a></td>
+    <td align="center"><a href="http://hellozee.dev"><img src="https://avatars1.githubusercontent.com/u/12135951?v=4" width="100px;" alt=""/><br /><sub><b>Kuntal Majumder</b></sub></a><br /><a href="#content-hellozee" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/jfpanisset"><img src="https://avatars0.githubusercontent.com/u/32653482?v=4" width="100px;" alt=""/><br /><sub><b>Jean-Francois Panisset</b></sub></a><br /><a href="#content-jfpanisset" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.heavyimage.com"><img src="https://avatars0.githubusercontent.com/u/7820487?v=4" width="100px;" alt=""/><br /><sub><b>Jesse Spielman</b></sub></a><br /><a href="#content-heavyimage" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.corentin-charron.com"><img src="https://avatars2.githubusercontent.com/u/4436347?v=4" width="100px;" alt=""/><br /><sub><b>Corentin</b></sub></a><br /><a href="#content-corentincharron" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.saviof.com"><img src="https://avatars0.githubusercontent.com/u/1092099?v=4" width="100px;" alt=""/><br /><sub><b>Savio Fernandes</b></sub></a><br /><a href="#content-artbycrunk" title="Content">🖋</a></td>
+    <td align="center"><a href="https://in.linkedin.com/in/anvith-shivakumara"><img src="https://avatars3.githubusercontent.com/u/5442547?v=4" width="100px;" alt=""/><br /><sub><b>Anvith Shivakumara</b></sub></a><br /><a href="#content-anvth" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/aboellinger"><img src="https://avatars0.githubusercontent.com/u/5718135?v=4" width="100px;" alt=""/><br /><sub><b>Antoine Boellinger</b></sub></a><br /><a href="#content-aboellinger" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/mathbou"><img src="https://avatars1.githubusercontent.com/u/13415583?v=4" width="100px;" alt=""/><br /><sub><b>Mathieu Bouzard</b></sub></a><br /><a href="#content-mathbou" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
