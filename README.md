@@ -22,6 +22,7 @@ Any contribution is welcome!
 * [Inkscape](https://inkscape.org/) - Vector graphics editor
 * [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
 * [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
+* [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration
 
 ### 3D
 
@@ -131,6 +132,7 @@ Any contribution is welcome!
 * [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018
 * [Photoshop Python API](https://github.com/loonghao/photoshop-python-api) - Python API for Photoshop.
 * [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
+* [NXT](https://nxt-dev.github.io/) - A layered code compositing application
 
 
 ### Geometry
@@ -155,6 +157,7 @@ algorithms
 * [libigl](https://libigl.github.io/) - A simple C++ geometry processing library
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
 * [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library
+* [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations
 
 ### Colors
 
@@ -193,6 +196,10 @@ of bidirectional reflectance distribution functions
 * [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come)
 * [Assimp](https://www.assimp.org/) - A portable Open-Source library to import various well-known 3D model formats in a uniform manner
 * [usd-noodle](https://github.com/chris-gardner/usd-noodle) - Pretty node graph showing dependencies of a USD file
+* [luma_usd](https://github.com/LumaPictures/luma_usd) -  Plugins for USD
+* [usd-arnold](https://github.com/LumaPictures/usd-arnold) - USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages
+* [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
+* [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
 
 ## Job schedulers
 
@@ -210,6 +217,7 @@ of bidirectional reflectance distribution functions
 * [Rez Packages](https://github.com/predat/rez-packages)
 * [conda](https://github.com/conda/conda)
 * [wiz](https://github.com/themill/wiz)
+* [qip](https://github.com/themill/qip) - Quarantined Installer for Python
 
 ### Environment Manager
 * [Allzpark](https://github.com/mottosso/allzpark) Based on Rez manager, [Allzpark](https://allzpark.com/) can manage
@@ -292,6 +300,7 @@ of bidirectional reflectance distribution functions
 * [VEX Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.vex) ([repo](https://github.com/melMass/vscode-vex.git)) - for syntax highlighting support
 * [Blink Script (Nuke) Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.blink) ([repo](https://github.com/melMass/vscode-blink.git)) - for syntax highlighting support
 * [Pixar USD ASCII Language Syntax](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) ([repo](https://github.com/AnimalLogic/AL_usd_vscode_extension)) - for syntax highlighting support, courtesy of the folks at Animal Logic
+* [blender_vscode](https://github.com/JacquesLucke/blender_vscode) - Visual Studio Code extension for Blender development
 
 ## Databases
 
