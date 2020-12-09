@@ -20,6 +20,8 @@ Any contribution is welcome!
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
 * [MyPaint](https://github.com/mypaint/mypaint) - Painting app for artists
 * [Inkscape](https://inkscape.org/) - Vector graphics editor
+* [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
+* [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
 
 ### 3D
 
@@ -29,6 +31,17 @@ Any contribution is welcome!
 * [ArmorPaint](https://armorpaint.org/) - Painting
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
 * [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
+* [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface
+* [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers
+* [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks
+* [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
+* [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - RealTime 3D Strange Attractors scout on GPU
+* [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art
+* [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) - Mandelbulber creatively generates three-dimensional fractals
+* [Mandelbulb3D](https://github.com/thargor6/mb3d) - A program designed for the Windows platform, for generating 3D views of different fractals
+* [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes
+* [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design
+* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
 
 ### 3D realtime engines
 
@@ -45,6 +58,9 @@ Any contribution is welcome!
    dedicated to generate a 3D Map experience on a web
    service.
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
+* [Material Maker](https://rodzilla.itch.io/material-maker) - A procedural materials authoring tool, based on the Godot Engine
+* [vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine
+* [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
 
 ### Photography
 
@@ -61,6 +77,8 @@ Any contribution is welcome!
 * [GStreamer](https://gstreamer.freedesktop.org/) - Multimedia framework
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
 * [DJV](https://darbyjohnston.github.io/DJV/) | Professional review software for VFX, animation, and film production
+* [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media
+* [qctools](http://bavc.github.io/qctools/) - A free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering
 
 ### UV/Unwrap library
 * [Thekla atlas](https://github.com/Thekla/thekla_atlas) | This tool performs mesh segmentation, surface
@@ -134,6 +152,9 @@ Any contribution is welcome!
 * [Optimesh](https://github.com/nschloe/optimesh) - Python library to optimise a triangular mesh, remesh with various 
 algorithms 
 * [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing
+* [libigl](https://libigl.github.io/) - A simple C++ geometry processing library
+* [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
+* [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library
 
 ### Colors
 
@@ -144,6 +165,9 @@ algorithms
 
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 * [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
+* [BRDF Explorer](https://github.com/wdas/brdf) - The Disney BRDF Explorer is an application that allows the development and analysis
+of bidirectional reflectance distribution functions
+* [SeExpr](https://github.com/wdas/SeExpr) - An embeddable, arithmetic expression language that enables flexible artistic control and customization in creating computer graphics images
 
 ## File formats
 
@@ -167,6 +191,8 @@ algorithms
 * [OpenVDB AX](https://github.com/dneg/openvdb_ax) - Fast expression language for manipulating OpenVDB files
 * [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data
 * [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come)
+* [Assimp](https://www.assimp.org/) - A portable Open-Source library to import various well-known 3D model formats in a uniform manner
+* [usd-noodle](https://github.com/chris-gardner/usd-noodle) - Pretty node graph showing dependencies of a USD file
 
 ## Job schedulers
 
@@ -313,6 +339,7 @@ algorithms
 * [Les Fées Spéciales Studio Tech Blog](http://lacuisine.tech/)
 * [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
 * [cgwiki](http://www.tokeru.com/cgwiki/)
+* [vfx_good_night_reading](https://github.com/jtomori/vfx_good_night_reading/) - Curated collection of good reading about VFX and CG
 
 ## Free music for showreel
 
