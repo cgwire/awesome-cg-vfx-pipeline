@@ -12,30 +12,44 @@ Any contribution is welcome!
 
 ### 2D
 
-* [The Gimp](https://www.gimp.org) - Image editor
-* [Krita](https://krita.org) - Digital Painting
-* [Opentoonz](https://opentoonz.github.io/) - Animation
-* [Synfig](https://www.synfig.org/) - Animation
-* [Pencil2D](https://www.pencil2d.org/) - Hand-drawn animation
+* [The Gimp](https://www.gimp.org) - A cross-platform image editor
+* [Krita](https://krita.org) - A professional painting program
+* [Opentoonz](https://opentoonz.github.io/) - Animation production software
+* [Synfig](https://www.synfig.org/) - 2D animation software
+* [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
-* [MyPaint](https://github.com/mypaint/mypaint) - Painting app for artists
-* [Inkscape](https://inkscape.org/) - Vector graphics editor
+* [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
+* [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
+* [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
+* [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
+* [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration
 
 ### 3D
 
 * [Blender](https://blender.org) - Modeling and animation
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in
  seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on Github](https://github.com/huxingyi/dust3d).
-* [ArmorPaint](https://armorpaint.org/) - Painting
+* [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
 * [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
+* [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface
+* [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers
+* [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks
+* [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
+* [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - RealTime 3D Strange Attractors scout on GPU
+* [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art
+* [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) - Mandelbulber creatively generates three-dimensional fractals
+* [Mandelbulb3D](https://github.com/thargor6/mb3d) - A program designed for the Windows platform, for generating 3D views of different fractals
+* [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes
+* [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design
+* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
 
 ### 3D realtime engines
 
-* [Armory](https://armory3d.org) - 3D Game Engine For Blender
+* [Armory](https://armory3d.org) - 3D engine with Blender integration focused on portability, minimal footprint and performance
 * [Babylon.js](http://www.babylonjs.com/) - WebGL engine
 * [Filament](https://github.com/google/filament) - PBR engine
-* [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - C# based engine
+* [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - A multiplatform 3D C# realtime engine with a strong emphasis on content transformation and manipulation
 * [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
 * [Neo Axis Engine](https://github.com/NeoAxis/NeoAxisEngine) - NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
 * [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine
@@ -45,6 +59,9 @@ Any contribution is welcome!
    dedicated to generate a 3D Map experience on a web
    service.
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
+* [Material Maker](https://rodzilla.itch.io/material-maker) - A procedural materials authoring tool, based on the Godot Engine
+* [vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine
+* [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
 
 ### Photography
 
@@ -53,14 +70,16 @@ Any contribution is welcome!
 
 ### Video
 
-* [CasparCG](https://github.com/CasparCG) - Video broadcast
-* [Natron](https://natron.fr) - Compositing
-* [Shotcut](https://www.shotcutapp.com/) - Video editing
-* [Kdenlive](https://www.kdenlive.org) - Video editing
-* [Olive](https://www.olivevideoeditor.org/) - Video editing
-* [GStreamer](https://gstreamer.freedesktop.org/) - Multimedia framework
+* [CasparCG](https://github.com/CasparCG) - A Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor
+* [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics
+* [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
+* [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt
+* [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
+* [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
-* [DJV](https://darbyjohnston.github.io/DJV/) | Professional review software for VFX, animation, and film production
+* [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
+* [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media
+* [qctools](http://bavc.github.io/qctools/) - A free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering
 
 ### UV/Unwrap library
 * [Thekla atlas](https://github.com/Thekla/thekla_atlas) | This tool performs mesh segmentation, surface
@@ -113,6 +132,7 @@ Any contribution is welcome!
 * [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018
 * [Photoshop Python API](https://github.com/loonghao/photoshop-python-api) - Python API for Photoshop.
 * [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
+* [NXT](https://nxt-dev.github.io/) - A layered code compositing application
 
 
 ### Geometry
@@ -134,16 +154,23 @@ Any contribution is welcome!
 * [Optimesh](https://github.com/nschloe/optimesh) - Python library to optimise a triangular mesh, remesh with various 
 algorithms 
 * [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing
+* [libigl](https://libigl.github.io/) - A simple C++ geometry processing library
+* [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
+* [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library
+* [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations
 
 ### Colors
 
-* [OpenColorIO](https://opencolorio.org/) ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment
+* [OpenColorIO](https://opencolorio.org/) ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment, a complete color management solution geared towards motion picture production with an emphasis on visual effects and computer animation
 * [Colour](https://www.colour-science.org/) - An open-source Python package providing a comprehensive number of algorithms and datasets for colour science
 
 ### Shaders
 
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 * [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
+* [BRDF Explorer](https://github.com/wdas/brdf) - The Disney BRDF Explorer is an application that allows the development and analysis
+of bidirectional reflectance distribution functions
+* [SeExpr](https://github.com/wdas/SeExpr) - An embeddable, arithmetic expression language that enables flexible artistic control and customization in creating computer graphics images
 
 ## File formats
 
@@ -167,11 +194,17 @@ algorithms
 * [OpenVDB AX](https://github.com/dneg/openvdb_ax) - Fast expression language for manipulating OpenVDB files
 * [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data
 * [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come)
+* [Assimp](https://www.assimp.org/) - A portable Open-Source library to import various well-known 3D model formats in a uniform manner
+* [usd-noodle](https://github.com/chris-gardner/usd-noodle) - Pretty node graph showing dependencies of a USD file
+* [luma_usd](https://github.com/LumaPictures/luma_usd) -  Plugins for USD
+* [usd-arnold](https://github.com/LumaPictures/usd-arnold) - USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages
+* [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
+* [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
 
 ## Job schedulers
 
 * [Coalition](http://coalition.readthedocs.io/en/latest/) from Mercenaries Engineering (developers of Guerilla Render)
-* [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) from Sony Imageworks
+* [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) An open source render management system from Sony Imageworks
 * [Flamenco](https://www.flamenco.io/) from the Blender Foundation
 * [Plow](https://github.com/chadmv/plow) by Chad Vernon
 * [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager
@@ -184,6 +217,7 @@ algorithms
 * [Rez Packages](https://github.com/predat/rez-packages)
 * [conda](https://github.com/conda/conda)
 * [wiz](https://github.com/themill/wiz)
+* [qip](https://github.com/themill/qip) - Quarantined Installer for Python
 
 ### Environment Manager
 * [Allzpark](https://github.com/mottosso/allzpark) Based on Rez manager, [Allzpark](https://allzpark.com/) can manage
@@ -220,8 +254,8 @@ algorithms
 
 ## Docker images
 
-* [Animal Logic's USD Docker](https://github.com/AnimalLogic/docker-usd)
-* [Deadline](https://github.com/mottosso/docker-deadline)
+* [Animal Logic's USD Docker](https://github.com/AnimalLogic/docker-usd) - A set of docker build scripts which will download all the Open Source packages required to build Pixar's Universal Scene Description, as well as USD itself
+* [Deadline](https://github.com/mottosso/docker-deadline) - Docker images for Thinkbox Software Deadline
 * [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
 * [Maya](https://github.com/mottosso/docker-maya)
 * [Foundry RLM](https://github.com/tokejepsen/docker-foundry-rlm)
@@ -266,6 +300,7 @@ algorithms
 * [VEX Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.vex) ([repo](https://github.com/melMass/vscode-vex.git)) - for syntax highlighting support
 * [Blink Script (Nuke) Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.blink) ([repo](https://github.com/melMass/vscode-blink.git)) - for syntax highlighting support
 * [Pixar USD ASCII Language Syntax](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) ([repo](https://github.com/AnimalLogic/AL_usd_vscode_extension)) - for syntax highlighting support, courtesy of the folks at Animal Logic
+* [blender_vscode](https://github.com/JacquesLucke/blender_vscode) - Visual Studio Code extension for Blender development
 
 ## Databases
 
@@ -313,6 +348,7 @@ algorithms
 * [Les Fées Spéciales Studio Tech Blog](http://lacuisine.tech/)
 * [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
 * [cgwiki](http://www.tokeru.com/cgwiki/)
+* [vfx_good_night_reading](https://github.com/jtomori/vfx_good_night_reading/) - Curated collection of good reading about VFX and CG
 
 ## Free music for showreel
 
