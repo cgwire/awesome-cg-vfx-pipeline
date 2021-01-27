@@ -30,7 +30,6 @@ Any contribution is welcome!
 - [Package managers](#package-managers)
 - [Asset managers](#asset-managers)
 - [Production managers](#production-managers)
-- [Photogrammetry](#photogrammetry)
 - [Content validation](#content-validation)
 - [Docker images](#docker-images)
   - [Misc](#misc)
