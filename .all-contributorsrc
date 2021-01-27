@@ -202,6 +202,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "mathbou",
+      "name": "Mathieu Bouzard",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13415583?v=4",
+      "profile": "https://github.com/mathbou",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
