@@ -8,6 +8,48 @@ pipeline for CG or VFX productions.
 
 Any contribution is welcome!
 
+# Summary
+- [Digital Content Creation Software (DCCs)](#digital-content-creation-software-dccs)
+  - [2D](#2d)
+  - [3D](#3d)
+  - [3D realtime engines](#3d-realtime-engines)
+  - [Photogrammetry](#photogrammetry)
+  - [Photography](#photography)
+  - [Video](#video)
+  - [UV/Unwrap Library](#uvunwrap-library)
+  - [Tools](#tools)
+- [Libraries](#libraries)
+  - [File path](#file-path)
+  - [Ui](#ui)
+  - [CG Software API](#cg-software-api)
+  - [Geometry](#geometry)
+  - [Colors](#colors)
+  - [Shaders](#shaders)
+- [File formats](#file-formats)
+- [Job schedulers](#job-schedulers)
+- [Package managers](#package-managers)
+- [Asset managers](#asset-managers)
+- [Production managers](#production-managers)
+- [Photogrammetry](#photogrammetry)
+- [Content validation](#content-validation)
+- [Docker images](#docker-images)
+  - [Misc](#misc)
+- [Plugins](#plugins)
+- [IDE](#ide)
+  - [Pycharm](#pycharm)
+  - [SublimeText](#sublimetext)
+  - [Vim](#vim)
+  - [VSCode](#vscode)
+- [Databases](#databases)
+  - [Graph](#graph)
+  - [Relational](#relational)
+  - [Document-based](#document-based)
+- [Monitoring Web Services](#monitoring-web-services)
+- [Communities](#communities)
+- [Resources / Tutorials](#resources--tutorials)
+- [Free music for showreel](#free-music-for-showreel)
+- [Contributors ✨](#contributors-)
+
 ## Digital Content Creation Software (DCCs)
 
 ### 2D
@@ -63,6 +105,11 @@ Any contribution is welcome!
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
 * [Vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine
 
+### Photogrammetry
+* [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework
+* [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface
+* [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists and targeted for the Multiple View Geometry community
+
 ### Photography
 
 * [Darktable](https://www.darktable.org/) - Photography workflow application and raw developer
@@ -89,6 +136,7 @@ Any contribution is welcome!
  a library to generate an UV for -example- lightmap uv.
 
 ### Tools
+A set of small tools, DCC addons, python library... to complete or add feature on DCC softwares.
 * [Capsule](https://github.com/Takanu/Capsule) - Blender addon to export, manage and automate to shared between
  blender and Unreal/Unity or other realtime engine. 
 * [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Python library to generate a stylised rendering
@@ -134,7 +182,6 @@ Any contribution is welcome!
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
 * [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
-
 
 ### Geometry
 
@@ -235,16 +282,10 @@ of bidirectional reflectance distribution functions
 * [Prism](https://prism-pipeline.com/)
 * [TACTIC-Handler](https://github.com/listyque/TACTIC-Handler)
 
-## Production Managers
+## Production managers
 
 * [Attract](https://attract.studio/) - Production tracking for film makers (Blender Foundation)
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
-
-## Photogrammetry
-
-* [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework
-* [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface
-* [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists and targeted for the Multiple View Geometry community
 
 ## Content validation
 
@@ -324,9 +365,10 @@ of bidirectional reflectance distribution functions
 * [MongoDB](http://www.mongodb.org)
 
 ## Monitoring Web Services
-
+This section are really 
 * [ELK Stack](https://www.elastic.co/webinars/introduction-elk-stack)
 * [Prometheus](https://prometheus.io/)
+
 
 ## Communities
 
