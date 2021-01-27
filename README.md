@@ -30,7 +30,6 @@ Any contribution is welcome!
 - [Package managers](#package-managers)
 - [Asset managers](#asset-managers)
 - [Production managers](#production-managers)
-- [Photogrammetry](#photogrammetry)
 - [Content validation](#content-validation)
 - [Docker images](#docker-images)
   - [Misc](#misc)
@@ -365,10 +364,7 @@ of bidirectional reflectance distribution functions
 * [MongoDB](http://www.mongodb.org)
 
 ## Monitoring Web Services
-This section are really 
-* [ELK Stack](https://www.elastic.co/webinars/introduction-elk-stack)
-* [Prometheus](https://prometheus.io/)
-
+Not really efficient, you can find more links on the sys admin awesome list ; [on monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) or [metric collection](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection)
 
 ## Communities
 
