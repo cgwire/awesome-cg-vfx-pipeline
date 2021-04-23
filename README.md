@@ -19,6 +19,7 @@ Any contribution is welcome!
   - [UV/Unwrap Library](#uvunwrap-library)
   - [Tools](#tools)
   - [Board Ref](#board-ref)
+  - [LookDev](#lookdev)
 - [Libraries](#libraries)
   - [File path](#file-path)
   - [Ui](#ui)
@@ -153,6 +154,10 @@ A set of small tools, DCC addons, python library... to complete or add feature o
   a complementary tool to PureRef or another [Board tool](#board-ref).
 * [PureRef](https://www.pureref.com/) - A simple software to generate a board with your local pictures, or from your 
   browser.
+  
+### Look Dev
+* [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look 
+  developers, lighters, and compositors to easily build, tweak, iterate, and render scenes. 
  
 ## Libraries
 
@@ -282,7 +287,6 @@ of bidirectional reflectance distribution functions
 
 * [Avalon](https://getavalon.github.io)
 * [Damas](http://damas-software.org/)
-* [Gaffer](https://github.com/GafferHQ/gaffer)
 * [Kabaret](https://www.kabaretstudio.com/)
 * [Plex](https://github.com/richteralexander/plex)
 * [Prism](https://prism-pipeline.com/)
