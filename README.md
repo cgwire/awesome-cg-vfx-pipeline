@@ -18,6 +18,7 @@ Any contribution is welcome!
   - [Video](#video)
   - [UV/Unwrap Library](#uvunwrap-library)
   - [Tools](#tools)
+  - [Board Ref](#board-ref)
 - [Libraries](#libraries)
   - [File path](#file-path)
   - [Ui](#ui)
@@ -146,6 +147,12 @@ A set of small tools, DCC addons, python library... to complete or add feature o
  across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for
  Unreal Engine 4.
+  
+### Board Ref
+* [Allusion](https://allusion-app.github.io) - Allusion is a tool to help you organize your **Visual Library**. I'ts 
+  a complementary tool to PureRef or another [Board tool](#board-ref).
+* [PureRef](https://www.pureref.com/) - A simple software to generate a board with your local pictures, or from your 
+  browser.
  
 ## Libraries
 
