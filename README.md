@@ -66,6 +66,9 @@ Any contribution is welcome!
 * [Synfig](https://www.synfig.org/) - 2D animation software
 * [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
 * [The Gimp](https://www.gimp.org) - A cross-platform image editor
+* [Allusion](https://allusion-app.github.io) - Allusion is a tool to help you organize your **Visual Library**. I'ts 
+  a complementary tool to PureRef or another Board tool, like [PureRef](https://www.pureref.com/) or 
+  [Kuadro](http://www.kruelgames.com/tools/kuadro/) - no open source software.
 
 ### 3D
 
@@ -86,6 +89,8 @@ Any contribution is welcome!
 * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design
 * [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art
 * [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
+* [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look 
+  developers, lighters, and compositors to easily build, tweak, iterate, and render scenes. 
 
 ### 3D realtime engines
 
@@ -148,16 +153,6 @@ A set of small tools, DCC addons, python library... to complete or add feature o
  across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for
  Unreal Engine 4.
-  
-### Board Ref
-* [Allusion](https://allusion-app.github.io) - Allusion is a tool to help you organize your **Visual Library**. I'ts 
-  a complementary tool to PureRef or another [Board tool](#board-ref).
-* [PureRef](https://www.pureref.com/) - A simple software to generate a board with your local pictures, or from your 
-  browser.
-  
-### Look Dev
-* [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look 
-  developers, lighters, and compositors to easily build, tweak, iterate, and render scenes. 
  
 ## Libraries
 
