@@ -13,6 +13,7 @@ Any contribution is welcome!
   - [2D](#2d)
   - [3D](#3d)
   - [3D realtime engines](#3d-realtime-engines)
+  - [Rendering Engines](#rendering-engines)
   - [Photogrammetry](#photogrammetry)
   - [Photography](#photography)
   - [Video](#video)
@@ -70,7 +71,6 @@ Any contribution is welcome!
 
 ### 3D
 
-* [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
 * [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting
 * [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
 * [Blender](https://blender.org) - Modeling and animation
@@ -108,6 +108,13 @@ Any contribution is welcome!
    service.
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
 * [Vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine
+
+### Rendering Engines
+
+* [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
+* [Cycle](https://www.cycles-renderer.org/) - Physically based production renderer developed by the Blender project.
+* [LuxCoreRender](https://luxcorerender.org/) - Physically-based and unbiased rendering engine
+* [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) Physically-based engine, product by AMD. 
 
 ### Photogrammetry
 * [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework
