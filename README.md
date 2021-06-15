@@ -382,6 +382,7 @@ Not really efficient, you can find more links on the sys admin awesome list ; [o
 ## Communities
 
 * [3DVF](http://3dvf.com)
+* [3DPro](https://3dpro.org)
 * [Blender Discord (French)](https://discordapp.com/channels/168826665307209728/168826665307209728)
 * [CGWire Discord](https://discord.com/invite/VbCxtKN)
 * [Houdini Discord](https://discordapp.com/channels/230123485668573184/360768996980555776)
