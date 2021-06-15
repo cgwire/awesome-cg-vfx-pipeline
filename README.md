@@ -259,6 +259,7 @@ of bidirectional reflectance distribution functions
 * [usd-noodle](https://github.com/chris-gardner/usd-noodle) - Pretty node graph showing dependencies of a USD file
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
 * [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
+* [USD Shell Extension for Windows](https://github.com/Activision/USDShellExtension) - a full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search
 
 ## Job schedulers
 
