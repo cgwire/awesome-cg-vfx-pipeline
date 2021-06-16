@@ -274,6 +274,7 @@ of bidirectional reflectance distribution functions
 
 * [conda](https://github.com/conda/conda)
 * [Ecosystem](https://github.com/PeregrineLabs/Ecosystem)
+* [mamba](https://github.com/mamba-org/mamba) - a faster drop-in replacement for "conda"
 * [qip](https://github.com/themill/qip) - Quarantined Installer for Python
 * [Rez](https://github.com/nerdvegas/rez)
 * [bleeding-rez](https://github.com/mottosso/bleeding-rez) - a very active Rez fork with improved isolation, Windows support and Python 2+3 support
