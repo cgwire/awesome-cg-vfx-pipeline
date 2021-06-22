@@ -293,6 +293,7 @@ of bidirectional reflectance distribution functions
 * [Kabaret](https://www.kabaretstudio.com/)
 * [Plex](https://github.com/richteralexander/plex)
 * [Prism](https://prism-pipeline.com/)
+* [SnowFS](https://github.com/Snowtrack/SnowFS)
 * [TACTIC-Handler](https://github.com/listyque/TACTIC-Handler)
 
 ## Production managers
