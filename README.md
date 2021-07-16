@@ -89,6 +89,8 @@ Any contribution is welcome!
 * [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
 * [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look 
   developers, lighters, and compositors to easily build, tweak, iterate, and render scenes. 
+* [Nodi](https://github.com/Nodi3d/nodi) - Nodi is an online node-based geometry design tool, it's a web tool
+
 
 ### 3D realtime engines
 
