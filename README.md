@@ -53,7 +53,6 @@ Any contribution is welcome!
 ## Digital Content Creation Software (DCCs)
 
 ### 2D
-
 * [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration
 * [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
 * [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
@@ -67,10 +66,11 @@ Any contribution is welcome!
 * [The Gimp](https://www.gimp.org) - A cross-platform image editor
 * [Allusion](https://allusion-app.github.io) - Allusion is a tool to help you organize your **Visual Library**. I'ts 
   a complementary tool to PureRef or another Board tool, like [PureRef](https://www.pureref.com/) or 
-  [Kuadro](http://www.kruelgames.com/tools/kuadro/) - no open source software.
+  [Kuadro](http://www.kruelgames.com/tools/kuadro/) - no open source software - or [BeeRef](#2d).
+* [BeeRef](https://github.com/rbreu/beeref) - A simple Reference Image Viewer.
+
 
 ### 3D
-
 * [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting
 * [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
 * [Blender](https://blender.org) - Modeling and animation
@@ -93,7 +93,6 @@ Any contribution is welcome!
 
 
 ### 3D realtime engines
-
 * [Armory](https://armory3d.org) - 3D engine with Blender integration focused on portability, minimal footprint and performance
 * [Babylon.js](http://www.babylonjs.com/) - WebGL engine
 * [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
