@@ -109,6 +109,8 @@ Any contribution is welcome!
    service.
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
 * [Vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine
+* [Stride](https://stride3d.net/) - Game engine dedicated tor realistic rendering and VR, develop with a C# techno.
+
 
 ### Rendering Engines
 
@@ -117,15 +119,18 @@ Any contribution is welcome!
 * [LuxCoreRender](https://luxcorerender.org/) - Physically-based and unbiased rendering engine
 * [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) Physically-based engine, product by AMD. 
 
+
 ### Photogrammetry
 * [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework
 * [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface
 * [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists and targeted for the Multiple View Geometry community
 
+
 ### Photography
 
 * [Darktable](https://www.darktable.org/) - Photography workflow application and raw developer
 * [dcraw](https://www.dechifro.org/dcraw/) - A tool that decodes any raw image from any digital camera on any computer running any operating system
+
 
 ### Video
 
@@ -140,12 +145,14 @@ Any contribution is welcome!
 * [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics
 * [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
 
+
 ### UV/Unwrap library
 
 * [Thekla atlas](https://github.com/Thekla/thekla_atlas) | This tool performs mesh segmentation, surface
  parameterization, and chart packing.
 * [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's
  a library to generate an UV for -example- lightmap uv.
+
 
 ### Tools
 A set of small tools, DCC addons, python library... to complete or add feature on DCC softwares.
