@@ -299,6 +299,7 @@ of bidirectional reflectance distribution functions
 * [Avalon](https://getavalon.github.io)
 * [Damas](http://damas-software.org/)
 * [Kabaret](https://www.kabaretstudio.com/)
+* [OpenPype](https://openpype.io)
 * [Plex](https://github.com/richteralexander/plex)
 * [Prism](https://prism-pipeline.com/)
 * [SnowFS](https://github.com/Snowtrack/SnowFS)
@@ -393,10 +394,12 @@ Not really efficient, you can find more links on the sys admin awesome list ; [o
 
 * [3DVF](http://3dvf.com)
 * [3DPro](https://3dpro.org)
+* [Academy Software Foundation](https://www.aswf.io/get-involved/)
 * [Blender Discord (French)](https://discordapp.com/channels/168826665307209728/168826665307209728)
 * [CGWire Discord](https://discord.com/invite/VbCxtKN)
 * [Houdini Discord](https://discordapp.com/channels/230123485668573184/360768996980555776)
 * [od|force](https://forums.odforce.net/)
+* [OpenPype Discord](https://discord.gg/sFNPWXG)
 * [StudioSysAdmins](http://studiosysadmins.com)
 * [Tech-artists.org](http://tech-artists.org)
 
