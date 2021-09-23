@@ -211,6 +211,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "mkolar",
+      "name": "Milan Kolar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3333008?v=4",
+      "profile": "http://pype.club",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
