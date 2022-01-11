@@ -57,6 +57,7 @@ Any contribution is welcome!
 * [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
 * [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
 * [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
+* [Materia](https://github.com/Metric/Materia) - An open source alternative to Substance Designer written in C#
 * [Krita](https://krita.org) - A professional painting program
 * [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
 * [Opentoonz](https://opentoonz.github.io/) - Animation production software
@@ -68,6 +69,7 @@ Any contribution is welcome!
   a complementary tool to PureRef or another Board tool, like [PureRef](https://www.pureref.com/) or 
   [Kuadro](http://www.kruelgames.com/tools/kuadro/) - no open source software - or [BeeRef](#2d).
 * [BeeRef](https://github.com/rbreu/beeref) - A simple Reference Image Viewer.
+* [Gimel Studio](https://github.com/GimelStudio/GimelStudio) - Cross-platform, non-destructive, node based 2D image graphics editor
 
 
 ### 3D
@@ -83,7 +85,9 @@ Any contribution is welcome!
 * [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
 * [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks
 * [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface
+* [ZENO](https://github.com/zenustech/zeno) - Node based 3D system able to produce cinematic physics effects at High Efficiency
 * [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers
+* [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes
 * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design
 * [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art
 * [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
@@ -136,6 +140,7 @@ Any contribution is welcome!
 
 * [CasparCG](https://github.com/CasparCG) - A Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
+* [mrViewer](https://mrviewer.sourceforge.io/) - The Professional Flipbook, Video and Audio Player
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
 * [qctools](http://bavc.github.io/qctools/) - A free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering
 * [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
@@ -215,6 +220,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator
 * [libigl](https://libigl.github.io/) - A simple C++ geometry processing library
 * [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remesher
+* [autoremesher](https://github.com/huxingyi/autoremesher) -  Automatic quad remeshing tool 
 * [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 * [PCL](https://pointclouds.org/) - A standalone, large scale, open project for 2D/3D image and point cloud processing
@@ -225,6 +231,9 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 algorithms 
 * [Simplex](https://github.com/blurstudio/Simplex) - Blendshape Solver
 * [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations
+* [Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data 
+* [Geometry Central](https://geometry-central.net/) - A modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes
+* [Polygon Mesh Processing Library](https://www.pmp-library.org/) - A modern C++ open-source library for processing and visualizing polygon surface meshes
 
 ### Colors
 
@@ -244,6 +253,7 @@ of bidirectional reflectance distribution functions
 * [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD
 * [Alembic](http://www.alembic.io/) - Animations
 * [Assimp](https://www.assimp.org/) - A portable Open-Source library to import various well-known 3D model formats in a uniform manner
+* [meshio](https://github.com/nschloe/meshio) - Input/output for many mesh formats
 * [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management
 * [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Accurate object ID mattes
 * [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data
