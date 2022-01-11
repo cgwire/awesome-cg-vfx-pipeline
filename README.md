@@ -68,6 +68,7 @@ Any contribution is welcome!
   a complementary tool to PureRef or another Board tool, like [PureRef](https://www.pureref.com/) or 
   [Kuadro](http://www.kruelgames.com/tools/kuadro/) - no open source software - or [BeeRef](#2d).
 * [BeeRef](https://github.com/rbreu/beeref) - A simple Reference Image Viewer.
+* [Gimel Studio](https://github.com/GimelStudio/GimelStudio) - Cross-platform, non-destructive, node based 2D image graphics editor
 
 
 ### 3D
@@ -84,6 +85,7 @@ Any contribution is welcome!
 * [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks
 * [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface
 * [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers
+* [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes
 * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design
 * [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art
 * [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
@@ -225,6 +227,8 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 algorithms 
 * [Simplex](https://github.com/blurstudio/Simplex) - Blendshape Solver
 * [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations
+* [Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data 
+* [Geometry Central](https://geometry-central.net/) - A modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes
 
 ### Colors
 
