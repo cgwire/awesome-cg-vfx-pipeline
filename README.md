@@ -57,6 +57,7 @@ Any contribution is welcome!
 * [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
 * [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
 * [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
+* [Materia](https://github.com/Metric/Materia) - An open source alternative to Substance Designer written in C#
 * [Krita](https://krita.org) - A professional painting program
 * [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
 * [Opentoonz](https://opentoonz.github.io/) - Animation production software
@@ -217,6 +218,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator
 * [libigl](https://libigl.github.io/) - A simple C++ geometry processing library
 * [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remesher
+* [autoremesher](https://github.com/huxingyi/autoremesher) -  Automatic quad remeshing tool 
 * [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 * [PCL](https://pointclouds.org/) - A standalone, large scale, open project for 2D/3D image and point cloud processing
@@ -229,6 +231,7 @@ algorithms
 * [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations
 * [Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data 
 * [Geometry Central](https://geometry-central.net/) - A modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes
+* [Polygon Mesh Processing Library](https://www.pmp-library.org/) - A modern C++ open-source library for processing and visualizing polygon surface meshes
 
 ### Colors
 
@@ -248,6 +251,7 @@ of bidirectional reflectance distribution functions
 * [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD
 * [Alembic](http://www.alembic.io/) - Animations
 * [Assimp](https://www.assimp.org/) - A portable Open-Source library to import various well-known 3D model formats in a uniform manner
+* [meshio](https://github.com/nschloe/meshio) - Input/output for many mesh formats
 * [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management
 * [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Accurate object ID mattes
 * [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data
