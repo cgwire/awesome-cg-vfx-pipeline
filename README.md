@@ -85,6 +85,7 @@ Any contribution is welcome!
 * [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
 * [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks
 * [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface
+* [ZENO](https://github.com/zenustech/zeno) - Node based 3D system able to produce cinematic physics effects at High Efficiency
 * [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers
 * [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes
 * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design
@@ -139,6 +140,7 @@ Any contribution is welcome!
 
 * [CasparCG](https://github.com/CasparCG) - A Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
+* [mrViewer](https://mrviewer.sourceforge.io/) - The Professional Flipbook, Video and Audio Player
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
 * [qctools](http://bavc.github.io/qctools/) - A free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering
 * [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
