@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-List of open-source technologies that will help in the process of building a
+List of open-source technologies that help in the process of building a
 pipeline for CG or VFX productions.
 
 Any contribution is welcome!
