@@ -1,6 +1,6 @@
 # Awesome CG / VFX Pipeline
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that will help in the process of building a
@@ -472,6 +472,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/aboellinger"><img src="https://avatars0.githubusercontent.com/u/5718135?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Antoine Boellinger</b></sub></a><br /><a href="#content-aboellinger" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/mathbou"><img src="https://avatars1.githubusercontent.com/u/13415583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mathieu Bouzard</b></sub></a><br /><a href="#content-mathbou" title="Content">🖋</a></td>
     <td align="center"><a href="http://pype.club"><img src="https://avatars.githubusercontent.com/u/3333008?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Milan Kolar</b></sub></a><br /><a href="#content-mkolar" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/mwestphal"><img src="https://avatars.githubusercontent.com/u/3129530?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mwestphal</b></sub></a><br /><a href="#content-mwestphal" title="Content">🖋</a></td>
   </tr>
 </table>
 
