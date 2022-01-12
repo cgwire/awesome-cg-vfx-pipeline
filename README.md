@@ -123,6 +123,7 @@ Any contribution is welcome!
 
 * [Ardour](https://github.com/Ardour/ardour) - Record, Edit, and Mix on Linux, macOS and Windows
 * [helio.fm](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
+* [Jam](https://github.com/jam-systems/jam) - open source alternative to Clubhouse, Twitter Spaces and similar audio spaces. Create audio rooms that can be used for panel discussions, jam sessions, free flowing conversations, debates, theatre plays, musicals and more.
 * [LMSS](https://github.com/LMMS/lmms) - Cross-platform music production software
 * [OpenAudio](http://openaudio.webprofusion.com/) - A list of open-source VST (and other format) plugin/app projects
 * [zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation
@@ -137,6 +138,7 @@ Any contribution is welcome!
 ### Photogrammetry
 
 * [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework
+  * [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software
 * [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface
 * [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists and targeted for the Multiple View Geometry community
 
@@ -152,15 +154,18 @@ Any contribution is welcome!
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
 * [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
+* [Jitsi](https://github.com/jitsi) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 * [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt
 * [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media
 * [mrViewer](https://mrviewer.sourceforge.io/) - The Professional Flipbook, Video and Audio Player
 * [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics
+* [OBS](https://github.com/obsproject/obs-studio) - software designed for capturing, compositing, encoding, recording, and streaming video content, efficiently.
 * [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
 * [OpenShot](https://github.com/OpenShot/openshot-qt) - award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 * [qctools](http://bavc.github.io/qctools/) - A free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering
 * [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
 * [tlRender](https://github.com/darbyjohnston/tlRender) - timeline render, is an early stage project for rendering editorial timelines
+* [UltraGrid](https://github.com/CESNET/UltraGrid) - UltraGrid low-latency audio and video network transmission system
 
 ### UV/Unwrap library
 
