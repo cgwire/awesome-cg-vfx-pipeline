@@ -30,6 +30,7 @@ Any contribution is welcome!
   - [Colors](#colors)
   - [Shaders](#shaders)
 - [File formats](#file-formats)
+- [File transfer](#file-transfer)
 - [Job schedulers](#job-schedulers)
 - [Package managers](#package-managers)
 - [Asset managers](#asset-managers)
@@ -289,6 +290,13 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
+
+## File transfer
+* [rsync](https://github.com/WayneD/rsync) - open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+* [rclone](https://github.com/rclone/rclone) - rsync for cloud storage Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+* [Tsunami](https://sourceforge.net/projects/tsunami-udp/) - high speed file transfer protocol using UDP and TCP for high speed long distance networks
+* [UDT](https://udt.sourceforge.io/) - reliable UDP based application level data transport protocol for distributed data intensive applications over wide area high-speed networks
+* [WDT](https://github.com/facebookarchive/wdt) -  Warp speed Data Transfer (WDT) is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
 
 ## Job schedulers
 
