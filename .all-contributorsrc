@@ -238,6 +238,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "mcoliver",
+      "name": "Michael Oliver",
+      "avatar_url": "https://avatars.githubusercontent.com/u/622057?v=4",
+      "profile": "https://mcoliver.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
