@@ -204,8 +204,8 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
 * [QtWebengine](https://github.com/qt/qtwebengine) - Render web content in Qt
-* [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph
 * [Riffle](https://gitlab.com/4degrees/riffle) - A filesystem browser for PySide supporting sequences grouping
+* [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph
 * [Thonside](https://github.com/col-one/thonside) - Python console for Qt apps
 
 ### CG Software API
