@@ -73,6 +73,7 @@ Any contribution is welcome!
 * [Synfig](https://www.synfig.org/) - 2D animation software
 * [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
 * [The Gimp](https://www.gimp.org) - A cross-platform image editor
+* [VArtiste](https://gitlab.com/zach-geek/vartiste) - WebXR/VR painting, drawing, and image editing app
 
 ### 3D
 
@@ -198,6 +199,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 
 ### UI
 
+* [aframe-vartiste-toolkit](https://www.npmjs.com/package/aframe-vartiste-toolkit) - WebXR/VR UI components toolkit (that the VR drawing app [VArtiste](https://vartiste.xyz/) is built upon.)
 * [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph for Qt
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
