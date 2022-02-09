@@ -100,6 +100,7 @@ Any contribution is welcome!
 
 ### 3D realtime engines
 
+* [A-Frame](https://aframe.io/) - An easy web framework for building 3D/AR/VR experiences.
 * [Armory](https://armory3d.org) - 3D engine with Blender integration focused on portability, minimal footprint and performance
 * [Babylon.js](http://www.babylonjs.com/) - WebGL engine
 * [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
