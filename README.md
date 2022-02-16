@@ -341,7 +341,9 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 
 * [Attract](https://attract.studio/) - Production tracking for film makers (Blender Foundation)
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
+* [Ramses](https://github.com/RxLaboratory/Ramses) - Asset Management System for motion picture production (by [Rainbox Laboratory](https://rainboxlab.org))
 * [Stalker](https://github.com/eoyilmaz/stalker) - Open Source Production Asset Management (ProdAM) Library designed specifically for Animation and VFX Studios.
+
 
 ## Content validation
 
