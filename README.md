@@ -111,6 +111,7 @@ Any contribution is welcome!
 * [Filament](https://github.com/google/filament) - PBR engine
 * [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - A multiplatform 3D C# realtime engine with a strong emphasis on content transformation and manipulation
 * [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
+* [Harfang 3D](https://github.com/harfang3d/harfang3d) - C++ 3D visualization library also usable in Python, Lua and Go (Windows, Linux)
 * [Material Maker](https://rodzilla.itch.io/material-maker) - A procedural materials authoring tool, based on the Godot Engine
 * [Neo Axis Engine](https://github.com/NeoAxis/NeoAxisEngine) - NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
 * [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine
