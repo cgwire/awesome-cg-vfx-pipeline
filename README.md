@@ -78,6 +78,7 @@ Any contribution is welcome!
 * [The Gimp](https://www.gimp.org) - A cross-platform image editor
 * [VArtiste](https://gitlab.com/zach-geek/vartiste) - WebXR/VR painting, drawing, and image editing app
 * [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) - A procedural terrain generation and procedural modelling toolkit
+* [G'MIC](https://gmic.eu/) - A full-featured open-source framework for digital image processing
 
 ### 3D
 
@@ -103,6 +104,7 @@ Any contribution is welcome!
 * [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
 * [ZENO](https://github.com/zenustech/zeno) - Node based 3D system able to produce cinematic physics effects at High Efficiency
 * [Blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust
+* [Plasticity](https://github.com/nkallen/plasticity) - A 3d modelling software for concept artists
 
 ### 3D realtime engines
 
@@ -143,6 +145,10 @@ Any contribution is welcome!
 * [Cycles](https://www.cycles-renderer.org/) - Physically based production renderer developed by the Blender project.
 * [LuxCoreRender](https://luxcorerender.org/) - Physically-based and unbiased rendering engine
 * [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) Physically-based engine, product by AMD. 
+* [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan
+* [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library
+* [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
+* [Mitsuba](https://www.mitsuba-renderer.org/) - A research-oriented retargetable rendering system, written in portable C++17 on top of the Enoki library
 
 ### Photogrammetry
 
