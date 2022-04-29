@@ -77,6 +77,7 @@ Any contribution is welcome!
 * [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
 * [The Gimp](https://www.gimp.org) - A cross-platform image editor
 * [VArtiste](https://gitlab.com/zach-geek/vartiste) - WebXR/VR painting, drawing, and image editing app
+* [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) - A procedural terrain generation and procedural modelling toolkit
 
 ### 3D
 
@@ -101,6 +102,7 @@ Any contribution is welcome!
 * [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art
 * [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
 * [ZENO](https://github.com/zenustech/zeno) - Node based 3D system able to produce cinematic physics effects at High Efficiency
+* [Blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust
 
 ### 3D realtime engines
 
