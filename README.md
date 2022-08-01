@@ -47,6 +47,7 @@ Any contribution is welcome!
     - [SublimeText](#sublimetext)
     - [vim](#vim)
     - [VSCode](#vscode)
+    - [vscode.dev](#vscodedev)
   - [Databases](#databases)
     - [Graph](#graph)
     - [Relational](#relational)
@@ -414,6 +415,10 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [Pixar USD ASCII Language Syntax](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) ([repo](https://github.com/AnimalLogic/AL_usd_vscode_extension)) - for syntax highlighting support, courtesy of the folks at Animal Logic
 * [SendtoMaya](https://marketplace.visualstudio.com/items?itemName=ivancheung7.sendtomaya) - Alternative to MayaPort, serving the same purpose
 * [VEX Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.vex) ([repo](https://github.com/melMass/vscode-vex.git)) - for syntax highlighting support
+
+### vscode.dev
+
+* [DCC WebSocket](https://marketplace.visualstudio.com/items?itemName=virgilsisoe.dcc-websocket) - A WebSocket client to send code from [vscode.dev](https://vscode.dev/) web browser text editor to a DCC application.
 
 ## Databases
 
