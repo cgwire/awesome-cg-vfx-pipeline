@@ -396,6 +396,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 
 * [MariSublime](https://github.com/cg-cnu/marisublime) - Run and edit Mari scripts directly from SublimeText
 * [MayaSublime](https://github.com/justinfx/MayaSublime) - Run and edit Maya scripts directly from SublimeText
+* [NukeToolsSt](https://packagecontrol.io/packages/NukeToolsST) - A Sublime Text package to send Python or BlinkScript code inside Nuke.
 * [VEX](https://github.com/teared/VEX) - Houdini add-on for Sublime Text
 
 ### vim
