@@ -114,6 +114,8 @@ Any contribution is welcome!
 * [Armory](https://armory3d.org) - 3D engine with Blender integration focused on portability, minimal footprint and performance
 * [Babylon.js](http://www.babylonjs.com/) - WebGL engine
 * [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
+* [Cauldron](https://github.com/GPUOpen-LibrariesAndSDKs/Cauldron) - A simple framework for rapid prototyping on Vulkan or DirectX12
+* [Falcor](https://github.com/NVIDIAGameWorks/Falcor) - A real-time rendering framework supporting DirectX 12 aiming to improve productivity of research and prototype projects
 * [Filament](https://github.com/google/filament) - PBR engine
 * [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - A multiplatform 3D C# realtime engine with a strong emphasis on content transformation and manipulation
 * [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
@@ -144,13 +146,16 @@ Any contribution is welcome!
 ### Rendering Engines
 
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
-* [Cycles](https://www.cycles-renderer.org/) - Physically based production renderer developed by the Blender project.
-* [LuxCoreRender](https://luxcorerender.org/) - Physically-based and unbiased rendering engine
-* [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) Physically-based engine, product by AMD. 
-* [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library
-* [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
+* [Cycles](https://www.cycles-renderer.org/) - Physically based production renderer developed by the Blender project.
+* [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan
+* [LuxCoreRender](https://luxcorerender.org/) - Physically-based and unbiased rendering engine
 * [Mitsuba](https://www.mitsuba-renderer.org/) - A research-oriented retargetable rendering system, written in portable C++17 on top of the Enoki library
+* [MoonRay](https://openmoonray.org/index) - DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer, which has been used on several feature films
+* [OSPRay](https://github.com/ospray/ospray) - An open source, scalable, and portable ray tracing engine for high-performance, high-fidelity visualization on Intel Architecture CPUs
+* [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) Physically-based engine, product by AMD. 
+* [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
+* [Yocto/GL](https://github.com/xelatihy/yocto-gl) - A collection of small C++17 libraries for building physically-based graphics algorithms
 
 ### Photogrammetry
 
