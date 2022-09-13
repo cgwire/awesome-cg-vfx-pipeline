@@ -123,6 +123,7 @@ Any contribution is welcome!
 * [Material Maker](https://rodzilla.itch.io/material-maker) - A procedural materials authoring tool, based on the Godot Engine
 * [Neo Axis Engine](https://github.com/NeoAxis/NeoAxisEngine) - NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
 * [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine
+* [Open 3D Engine](https://www.o3de.org/) - An open-source, real-time 3D development engine
 * [Overload](https://github.com/adriengivry/Overload) - 3D Game engine with editor
 * [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC)
 * [Stride](https://stride3d.net/) - Game engine dedicated tor realistic rendering and VR, develop with a C# techno.
@@ -253,6 +254,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones) - A library for skinning decomposition
 * [Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data 
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
+* [Embree](https://www.embree.org/) - A collection of high performance ray tracing kernels that helps graphics application engineers to improve the performance of their photorealistic rendering application
 * [Geometry Central](https://geometry-central.net/) - A modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes
 * [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remesher
 * [libigl](https://libigl.github.io/) - A simple C++ geometry processing library
@@ -281,6 +283,10 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 * [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
 * [SeExpr](https://github.com/wdas/SeExpr) - An embeddable, arithmetic expression language that enables flexible artistic control and customization in creating computer graphics images
+
+### Denosing
+
+* [Intel Open Image Denoise](https://www.openimagedenoise.org/) - An open source library of high-performance, high-quality denoising filters for images rendered with ray tracing
 
 ## File formats
 
