@@ -81,6 +81,7 @@ Any contribution is welcome!
 * [VArtiste](https://gitlab.com/zach-geek/vartiste) - WebXR/VR painting, drawing, and image editing app
 * [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) - A procedural terrain generation and procedural modelling toolkit
 * [G'MIC](https://gmic.eu/) - A full-featured open-source framework for digital image processing
+* [Graphite](https://graphite.rs/) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow
 
 ### 3D
 
@@ -246,6 +247,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
 * [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
+* [OpenFX](https://github.com/ofxa/openfx) - Image processing plug-in standard
 
 ### Geometry
 
@@ -274,6 +276,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 * [Simplex](https://github.com/blurstudio/Simplex) - Blendshape Solver
 * [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations
+* [Polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
 
 ### Colors
 
@@ -310,6 +313,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - A library for reading and writing images in many common and VFX related formats
 * [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline
+* [Raven](https://github.com/jminor/raven) - Experimental OpenTimelineIO Viewer
 * [OpenVDB AX](https://github.com/dneg/openvdb_ax) - Fast expression language for manipulating OpenVDB files
 * [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb)) - Volumetric data
 * [pfstools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating high-dynamic range (HDR) images and video frames
@@ -321,6 +325,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
+* [OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO) - Interoperability standard for tools and content management systems used in media production
 
 ## File transfer
 * [rsync](https://github.com/WayneD/rsync) - open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
