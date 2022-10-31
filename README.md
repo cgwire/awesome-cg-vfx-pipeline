@@ -158,6 +158,7 @@ Any contribution is welcome!
 * [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) Physically-based engine, product by AMD. 
 * [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
 * [Yocto/GL](https://github.com/xelatihy/yocto-gl) - A collection of small C++17 libraries for building physically-based graphics algorithms
+* [Aurora](https://forums.autodesk.com/t5/engineering-hub-blog/aurora-a-real-time-path-tracing-renderer-that-enables-fast/ba-p/11322421) - A real-time path tracing renderer that enables fast product visualizations
 
 ### Photogrammetry
 
@@ -190,6 +191,8 @@ Any contribution is welcome!
 * [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
 * [tlRender](https://github.com/darbyjohnston/tlRender) - timeline render, is an early stage project for rendering editorial timelines
 * [UltraGrid](https://github.com/CESNET/UltraGrid) - UltraGrid low-latency audio and video network transmission system
+* [xSTUDIO](https://www.dneg.com/xstudio/) - Image playback and review for the filmmaking community
+* [RV](https://adsknews.autodesk.com/news/rv-open-source) - A digital review tool for film, TV, and games
 
 ### UV/Unwrap library
 
@@ -289,6 +292,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 * [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
 * [SeExpr](https://github.com/wdas/SeExpr) - An embeddable, arithmetic expression language that enables flexible artistic control and customization in creating computer graphics images
+* [MDL](https://github.com/NVIDIA/MDL-SDK) - Material Definition Language SDK
 
 ### Denosing
 
