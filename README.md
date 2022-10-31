@@ -203,6 +203,9 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) - Create textures from Glsl fragment shaders on Blender (2.8)
 * [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for Unreal Engine 4.
+* [LYNX](https://github.com/LucaScheller/VFX-LYNX) - Free & OpenSource VFX Pipeline Tools
+* [qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini
+* [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - A completely free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation
 
 ### Writing
 
