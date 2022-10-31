@@ -81,6 +81,7 @@ Any contribution is welcome!
 * [VArtiste](https://gitlab.com/zach-geek/vartiste) - WebXR/VR painting, drawing, and image editing app
 * [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) - A procedural terrain generation and procedural modelling toolkit
 * [G'MIC](https://gmic.eu/) - A full-featured open-source framework for digital image processing
+* [Graphite](https://graphite.rs/) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow
 
 ### 3D
 
@@ -157,6 +158,7 @@ Any contribution is welcome!
 * [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) Physically-based engine, product by AMD. 
 * [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
 * [Yocto/GL](https://github.com/xelatihy/yocto-gl) - A collection of small C++17 libraries for building physically-based graphics algorithms
+* [Aurora](https://forums.autodesk.com/t5/engineering-hub-blog/aurora-a-real-time-path-tracing-renderer-that-enables-fast/ba-p/11322421) - A real-time path tracing renderer that enables fast product visualizations
 
 ### Photogrammetry
 
@@ -189,6 +191,8 @@ Any contribution is welcome!
 * [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
 * [tlRender](https://github.com/darbyjohnston/tlRender) - timeline render, is an early stage project for rendering editorial timelines
 * [UltraGrid](https://github.com/CESNET/UltraGrid) - UltraGrid low-latency audio and video network transmission system
+* [xSTUDIO](https://www.dneg.com/xstudio/) - Image playback and review for the filmmaking community
+* [RV](https://adsknews.autodesk.com/news/rv-open-source) - A digital review tool for film, TV, and games
 
 ### UV/Unwrap library
 
@@ -203,6 +207,9 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) - Create textures from Glsl fragment shaders on Blender (2.8)
 * [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for Unreal Engine 4.
+* [LYNX](https://github.com/LucaScheller/VFX-LYNX) - Free & OpenSource VFX Pipeline Tools
+* [qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini
+* [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - A completely free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation
 
 ### Writing
 
@@ -243,6 +250,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
 * [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
+* [OpenFX](https://github.com/ofxa/openfx) - Image processing plug-in standard
 
 ### Geometry
 
@@ -271,6 +279,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
 * [Simplex](https://github.com/blurstudio/Simplex) - Blendshape Solver
 * [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations
+* [Polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
 
 ### Colors
 
@@ -283,6 +292,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
 * [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
 * [SeExpr](https://github.com/wdas/SeExpr) - An embeddable, arithmetic expression language that enables flexible artistic control and customization in creating computer graphics images
+* [MDL](https://github.com/NVIDIA/MDL-SDK) - Material Definition Language SDK
 
 ### Denosing
 
@@ -307,6 +317,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - A library for reading and writing images in many common and VFX related formats
 * [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline
+* [Raven](https://github.com/jminor/raven) - Experimental OpenTimelineIO Viewer
 * [OpenVDB AX](https://github.com/dneg/openvdb_ax) - Fast expression language for manipulating OpenVDB files
 * [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb)) - Volumetric data
 * [pfstools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating high-dynamic range (HDR) images and video frames
@@ -318,6 +329,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
 * [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
+* [OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO) - Interoperability standard for tools and content management systems used in media production
 
 ## File transfer
 * [rsync](https://github.com/WayneD/rsync) - open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
