@@ -220,6 +220,33 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "mwestphal",
+      "name": "mwestphal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3129530?v=4",
+      "profile": "https://github.com/mwestphal",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "eoyilmaz",
+      "name": "Erkan Ozgur Yilmaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1786804?v=4",
+      "profile": "http://eoyilmaz.blogspot.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mcoliver",
+      "name": "Michael Oliver",
+      "avatar_url": "https://avatars.githubusercontent.com/u/622057?v=4",
+      "profile": "https://mcoliver.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
