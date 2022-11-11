@@ -173,6 +173,7 @@ A set of small tools, DCC addons, python library... to complete or add feature o
  across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for
  Unreal Engine 4.
+* [xComp](https://github.com/gugenstudio/xComp) - Image Render comparing.
  
 ## Libraries
 
