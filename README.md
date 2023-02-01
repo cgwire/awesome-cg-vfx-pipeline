@@ -496,7 +496,7 @@ Not really efficient, you can find more links on the sys admin awesome list ; [o
 ## Resources / Tutorials
 
 * [cgwiki](http://www.tokeru.com/cgwiki/)
-* [Beginning Python For Maya](http://zurbrigg.com/training/beginning-python-for-maya)
+* [Beginning Python For Maya](https://zurbrigg.teachable.com/p/python-3-for-maya-vol-1)
 * [Blue Sky Studios Tech Blog](https://medium.com/blue-sky-tech-blog)
 * [Digital Video Introduction](https://github.com/leandromoreira/digital_video_introduction)
 * [Example of Python scripts for 3D Studio Max, Maya and Blender](https://github.com/p4vv37/3D_Software_and_Python/)
