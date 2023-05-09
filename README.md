@@ -183,6 +183,7 @@ Any contribution is welcome!
 * [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt
 * [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media
 * [mrViewer](https://mrviewer.sourceforge.io/) - The Professional Flipbook, Video and Audio Player
+* [mrV2](https://github.com/ggarra13/mrv2) - mrViewer v2
 * [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics
 * [OBS](https://github.com/obsproject/obs-studio) - software designed for capturing, compositing, encoding, recording, and streaming video content, efficiently.
 * [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
