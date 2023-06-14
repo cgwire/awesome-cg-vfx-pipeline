@@ -108,6 +108,7 @@ Any contribution is welcome!
 * [ZENO](https://github.com/zenustech/zeno) - Node based 3D system able to produce cinematic physics effects at High Efficiency
 * [Blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust
 * [Plasticity](https://github.com/nkallen/plasticity) - A 3d modelling software for concept artists
+* [Threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation
 
 ### 3D realtime engines
 
