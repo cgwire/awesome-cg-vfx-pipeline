@@ -137,12 +137,12 @@ Any contribution is welcome!
 
 ### Audio
 
-* [Ardour](https://github.com/Ardour/ardour) - Record, Edit, and Mix on Linux, macOS and Windows
-* [helio.fm](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
+* [Ardour](https://github.com/Ardour/ardour) - Record, Edit, and Mix on Linux, macOS and Windows.
+* [helio.fm](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile.
 * [Jam](https://github.com/jam-systems/jam) - open source alternative to Clubhouse, Twitter Spaces and similar audio spaces. Create audio rooms that can be used for panel discussions, jam sessions, free flowing conversations, debates, theatre plays, musicals and more.
-* [LMSS](https://github.com/LMMS/lmms) - Cross-platform music production software
-* [OpenAudio](http://openaudio.webprofusion.com/) - A list of open-source VST (and other format) plugin/app projects
-* [zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation
+* [LMSS](https://github.com/LMMS/lmms) - Cross-platform music production software.
+* [OpenAudio](http://openaudio.webprofusion.com/) - A list of open-source VST (and other format) plugin/app projects.
+* [zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation.
 
 ### Rendering Engines
 
