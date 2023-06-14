@@ -93,6 +93,9 @@ Any contribution is welcome!
   * [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
   * [Capsule](#tools) - Exporter, more info in the tools section .
   * [Glsl Texture](#tools) - Integrate a GLSL shader in blender with the addon.
+  * [BlenderGIS](#geometry) - Geo data importer, more in the geometry section.
+  * [Rigify](#geometry) - Auto-rigging Addon for Blender, in the geometry section.
+  * [Blender Pyblish](#content-validation) - Blender Addon to integrate the Pyblish framework, more in the Content Validation section.
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on GitHub](https://github.com/huxingyi/dust3d).
 * [F3D](https://f3d-app.github.io/f3d/) - Fast and minimalist 3D viewer, with animation, thumbnails and many file formats support.
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes.
@@ -215,9 +218,9 @@ Any contribution is welcome!
 
 ### Low-code platforms
 
-* [Appsmith](https://www.appsmith.com/) - To build dashboards quickly
-* [Budibase](https://budibase.com/) - To build simple business apps
-* [Rowy](https://rowy.io/) - To build tables quickly
+* [Appsmith](https://www.appsmith.com/) - To build dashboards quickly.
+* [Budibase](https://budibase.com/) - To build simple business apps.
+* [Rowy](https://rowy.io/) - To build tables quickly.
 
 ### Writing
 
@@ -227,141 +230,140 @@ Any contribution is welcome!
 
 ### File path
 
-* [Clique](https://gitlab.com/4degrees/clique) - Another Python module for file sequence parsing and formatting
-* [Fileseq](https://github.com/sqlboy/fileseq) - Frame ranges and file sequences parsing
-* [gofileseq](https://github.com/justinfx/gofileseq) - A Golang port of the library above
-* [Lucidity](http://lucidity.readthedocs.io/en/latest/) - String/filepath templates system inspired by SGTK's template mechanisms
-* [pyseq](https://github.com/rsgalloway/pyseq) - Another Python module for file sequence parsing and serialization
+* [Clique](https://gitlab.com/4degrees/clique) - Another Python module for file sequence parsing and formatting.
+* [Fileseq](https://github.com/sqlboy/fileseq) - Frame ranges and file sequences parsing.
+* [gofileseq](https://github.com/justinfx/gofileseq) - A Golang port of the library above.
+* [Lucidity](http://lucidity.readthedocs.io/en/latest/) - String/filepath templates system inspired by SGTK's template mechanisms.
+* [pyseq](https://github.com/rsgalloway/pyseq) - Another Python module for file sequence parsing and serialization.
 
 ### UI
 
 * [aframe-vartiste-toolkit](https://www.npmjs.com/package/aframe-vartiste-toolkit) - WebXR/VR UI components toolkit (that the VR drawing app [VArtiste](https://vartiste.xyz/) is built upon.)
-* [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph for Qt
-* [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt
-* [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction
-* [QtWebengine](https://github.com/qt/qtwebengine) - Render web content in Qt
-* [Riffle](https://gitlab.com/4degrees/riffle) - A filesystem browser for PySide supporting sequences grouping
-* [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph
-* [Thonside](https://github.com/col-one/thonside) - Python console for Qt apps
+* [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph for Qt.
+* [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt.
+* [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction.
+* [QtWebengine](https://github.com/qt/qtwebengine) - Render web content in Qt.
+* [Riffle](https://gitlab.com/4degrees/riffle) - A filesystem browser for PySide supporting sequences grouping.
+* [SceneGraph](https://github.com/mfessenden/SceneGraph) - Ui for scene graph.
+* [Thonside](https://github.com/col-one/thonside) - Python console for Qt apps.
 
 ### CG Software API
 
-* [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps
-* [Cortex](https://github.com/ImageEngine/cortex) - Libraries for VFX software development
-* [Cross3D](https://github.com/blurstudio/cross3d) - Scene and node management abstraction
-* [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018
-* [mGui](https://github.com/theodox/mGui) - Portable pure-python GUI library for Maya
-* [minq](https://github.com/theodox/minq) - Maya query language for speeding up common scene operations
-* [NXT](https://nxt-dev.github.io/) - A layered code compositing application
-* [OpenWalter](https://github.com/rodeofx/OpenWalter) - USD Plugins Arnold, Houdini, Katana, Maya and USD
+* [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps.
+* [Cortex](https://github.com/ImageEngine/cortex) - Libraries for VFX software development.
+* [Cross3D](https://github.com/blurstudio/cross3d) - Scene and node management abstraction.
+* [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018.
+* [mGui](https://github.com/theodox/mGui) - Portable pure-python GUI library for Maya.
+* [minq](https://github.com/theodox/minq) - Maya query language for speeding up common scene operations.
+* [NXT](https://nxt-dev.github.io/) - A layered code compositing application.
+* [OpenWalter](https://github.com/rodeofx/OpenWalter) - USD Plugins Arnold, Houdini, Katana, Maya and USD.
 * [Photoshop Python API](https://github.com/loonghao/photoshop-python-api) - Python API for Photoshop.
-* [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python
-* [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right
-* [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro
-* [OpenFX](https://github.com/ofxa/openfx) - Image processing plug-in standard
+* [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python.
+* [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right.
+* [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro.
+* [OpenFX](https://github.com/ofxa/openfx) - Image processing plug-in standard.
 
 ### Geometry
 
-* [autoremesher](https://github.com/huxingyi/autoremesher) -  Automatic quad remeshing tool 
-* [Blender Addons](https://github.com/Antonioya/blender) - Helpers for Blender
-* [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Geo data importer
-* [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library
-* [CvWrap](https://github.com/chadmv/cvwrap) - Fast Maya wrap deformer
-* [Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones) - A library for skinning decomposition
-* [Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data 
-* [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
-* [Embree](https://www.embree.org/) - A collection of high performance ray tracing kernels that helps graphics application engineers to improve the performance of their photorealistic rendering application
-* [Geometry Central](https://geometry-central.net/) - A modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes
-* [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remesher
-* [libigl](https://libigl.github.io/) - A simple C++ geometry processing library
-* [MakeHuman](http://www.makehumancommunity.org/) - Parametric human character modeling
-* [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing
-* [Open3D](http://www.open3d.org/) - A Modern Library for 3D Data Processing
-* [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) - A set of open source libraries that implement high performance subdivision surface evaluation on massively parallel CPU and GPU architectures
-* [Optimesh](https://github.com/nschloe/optimesh) - Python library to optimise a triangular mesh, remesh with various 
-* [Partio](https://www.disneyanimation.com/technology/partio.html) - A unified interface that makes it easier to load, save, and manipulate particle files
-* [PCL](https://pointclouds.org/) - A standalone, large scale, open project for 2D/3D image and point cloud processing
-* [Polygon Mesh Processing Library](https://www.pmp-library.org/) - A modern C++ open-source library for processing and visualizing polygon surface meshes
-* [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator
-* [Quadriflow](https://github.com/hjwdzh/QuadriFlow) - Convert a mesh to a quadrangulation algorithms 
-* [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender
-* [Simplex](https://github.com/blurstudio/Simplex) - Blendshape Solver
-* [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations
-* [Polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
+* [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Geo data importer.
+* [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library.
+* [CvWrap](https://github.com/chadmv/cvwrap) - Fast Maya wrap deformer.
+* [Dem Bones](https://www.ea.com/seed/news/open-source-dem-bones) - A library for skinning decomposition.
+* [Easy3D](https://github.com/LiangliangNan/Easy3D) - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data .
+* [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+* [Embree](https://www.embree.org/) - A collection of high performance ray tracing kernels that helps graphics application engineers to improve the performance of their photorealistic rendering application.
+* [Geometry Central](https://geometry-central.net/) - A modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes.
+* [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remesher.
+* [autoremesher](https://github.com/huxingyi/autoremesher) -  Automatic quad remeshing tool.
+* [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing.
+* [Optimesh](https://github.com/nschloe/optimesh) - Python library to optimise a triangular mesh, remesh with various. 
+* [libigl](https://libigl.github.io/) - A simple C++ geometry processing library.
+* [MakeHuman](http://www.makehumancommunity.org/) - Parametric human character modeling.
+* [Open3D](http://www.open3d.org/) - A Modern Library for 3D Data Processing.
+* [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) - A set of open source libraries that implement high performance subdivision surface evaluation on massively parallel CPU and GPU architectures.
+* [Partio](https://www.disneyanimation.com/technology/partio.html) - A unified interface that makes it easier to load, save, and manipulate particle files.
+* [PCL](https://pointclouds.org/) - A standalone, large scale, open project for 2D/3D image and point cloud processing.
+* [Polygon Mesh Processing Library](https://www.pmp-library.org/) - A modern C++ open-source library for processing and visualizing polygon surface meshes.
+* [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator.
+* [Quadriflow](https://github.com/hjwdzh/QuadriFlow) - Convert a mesh to a quadrangulation algorithms. 
+* [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender.
+* [Simplex](https://github.com/blurstudio/Simplex) - Blendshape Solver.
+* [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations.
+* [Polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds.
 
 ### Colors
 
-* [Colour](https://www.colour-science.org/) - An open-source Python package providing a comprehensive number of algorithms and datasets for colour science
-* [OpenColorIO](https://opencolorio.org/) ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment, a complete color management solution geared towards motion picture production with an emphasis on visual effects and computer animation
+* [Colour](https://www.colour-science.org/) - An open-source Python package providing a comprehensive number of algorithms and datasets for colour science.
+* [OpenColorIO](https://opencolorio.org/) ([repo](https://github.com/AcademySoftwareFoundation/OpenColorIO)) - Unified color environment, a complete color management solution geared towards motion picture production with an emphasis on visual effects and computer animation.
 
 ### Shaders
 
-* [BRDF Explorer](https://github.com/wdas/brdf) - The Disney BRDF Explorer is an application that allows the development and analysis of bidirectional reflectance distribution functions
-* [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders
-* [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering
-* [SeExpr](https://github.com/wdas/SeExpr) - An embeddable, arithmetic expression language that enables flexible artistic control and customization in creating computer graphics images
-* [MDL](https://github.com/NVIDIA/MDL-SDK) - Material Definition Language SDK
+* [BRDF Explorer](https://github.com/wdas/brdf) - The Disney BRDF Explorer is an application that allows the development and analysis of bidirectional reflectance distribution functions.
+* [OSL](http://opensource.imageworks.com/?p=osl) - Language to manipulate shaders.
+* [Ptex](http://ptex.us/) - A texture mapping system developed by Walt Disney Animation Studios for production-quality rendering.
+* [SeExpr](https://github.com/wdas/SeExpr) - An embeddable, arithmetic expression language that enables flexible artistic control and customization in creating computer graphics images.
+* [MDL](https://github.com/NVIDIA/MDL-SDK) - Material Definition Language SDK.
 
 ### Denosing
 
-* [Intel Open Image Denoise](https://www.openimagedenoise.org/) - An open source library of high-performance, high-quality denoising filters for images rendered with ray tracing
+* [Intel Open Image Denoise](https://www.openimagedenoise.org/) - An open source library of high-performance, high-quality denoising filters for images rendered with ray tracing.
 
 ## File formats
 
-* [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management
-* [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD
-* [Alembic](http://www.alembic.io/) - Animations
-* [Assimp](https://www.assimp.org/) - A portable Open-Source library to import various well-known 3D model formats in a uniform manner
-* [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Accurate object ID mattes
-* [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data
-* [ImageMagick](https://imagemagick.org/index.php) - Use ImageMagick to create, edit, compose, or convert bitmap images
-* [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come)
-* [luma_usd](https://github.com/LumaPictures/luma_usd) -  Plugins for USD
-* [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
-* [meshio](https://github.com/nschloe/meshio) - Input/output for many mesh formats
-* [OpenCV](https://opencv.org/) - An open source computer vision and machine learning software library
-* [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format
-* [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/AcademySoftwareFoundation/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM
-* [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation
-* [OpenImageIO](https://github.com/OpenImageIO/oiio) - A library for reading and writing images in many common and VFX related formats
-* [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline
-* [Raven](https://github.com/jminor/raven) - Experimental OpenTimelineIO Viewer
-* [OpenVDB AX](https://github.com/dneg/openvdb_ax) - Fast expression language for manipulating OpenVDB files
-* [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb)) - Volumetric data
-* [pfstools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating high-dynamic range (HDR) images and video frames
-* [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - Example-based texture synthesis written in Rust
-* [USD Manager](http://www.usdmanager.org/) - Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files
-* [USD Shell Extension for Windows](https://github.com/Activision/USDShellExtension) - a full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search
-* [usd-arnold](https://github.com/LumaPictures/usd-arnold) - USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages
-* [usd-noodle](https://github.com/chris-gardner/usd-noodle) - Pretty node graph showing dependencies of a USD file
-* [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins
-* [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
-* [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools
-* [OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO) - Interoperability standard for tools and content management systems used in media production
+* [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management.
+* [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD.
+* [Alembic](http://www.alembic.io/) - Animations.
+* [Assimp](https://www.assimp.org/) - A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
+* [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Accurate object ID mattes.
+* [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data.
+* [ImageMagick](https://imagemagick.org/index.php) - Use ImageMagick to create, edit, compose, or convert bitmap images.
+* [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come).
+* [luma_usd](https://github.com/LumaPictures/luma_usd) -  Plugins for USD.
+* [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev.
+* [meshio](https://github.com/nschloe/meshio) - Input/output for many mesh formats.
+* [OpenCV](https://opencv.org/) - An open source computer vision and machine learning software library.
+* [OpenDCX](http://www.opendcx.org/) ([repo](https://github.com/dreamworksanimation/opendcx)) - C++ extensions for OpenEXR's "deep" file format.
+* [OpenEXR](http://www.openexr.com/) ([repo](https://github.com/AcademySoftwareFoundation/openexr)) - exceptional image format for visual effects purposes, pioneered by ILM.
+* [OpenEXRid](https://github.com/MercenariesEngineering/openexrid) - Object isolation.
+* [OpenImageIO](https://github.com/OpenImageIO/oiio) - A library for reading and writing images in many common and VFX related formats.
+* [OpenTimelineIO](http://opentimeline.io) ([repo](https://github.com/PixarAnimationStudios/OpenTimelineIO)) - Editorial timeline.
+* [Raven](https://github.com/jminor/raven) - Experimental OpenTimelineIO Viewer.
+* [OpenVDB AX](https://github.com/dneg/openvdb_ax) - Fast expression language for manipulating OpenVDB files.
+* [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb)) - Volumetric data.
+* [pfstools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating high-dynamic range (HDR) images and video frames.
+* [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - Example-based texture synthesis written in Rust.
+* [USD Manager](http://www.usdmanager.org/) - Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files.
+* [USD Shell Extension for Windows](https://github.com/Activision/USDShellExtension) - a full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
+* [usd-arnold](https://github.com/LumaPictures/usd-arnold) - USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages.
+* [usd-noodle](https://github.com/chris-gardner/usd-noodle) - Pretty node graph showing dependencies of a USD file.
+* [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins.
+* [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes.
+* [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools.
+* [OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO) - Interoperability standard for tools and content management systems used in media production.
 
 ## File transfer
 * [rsync](https://github.com/WayneD/rsync) - open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
-* [rclone](https://github.com/rclone/rclone) - rsync for cloud storage Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-* [Tsunami](https://sourceforge.net/projects/tsunami-udp/) - high speed file transfer protocol using UDP and TCP for high speed long distance networks
-* [UDT](https://udt.sourceforge.io/) - reliable UDP based application level data transport protocol for distributed data intensive applications over wide area high-speed networks
-* [WDT](https://github.com/facebookarchive/wdt) -  Warp speed Data Transfer (WDT) is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
+* [rclone](https://github.com/rclone/rclone) - rsync for cloud storage Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files.
+* [Tsunami](https://sourceforge.net/projects/tsunami-udp/) - high speed file transfer protocol using UDP and TCP for high speed long distance networks.
+* [UDT](https://udt.sourceforge.io/) - reliable UDP based application level data transport protocol for distributed data intensive applications over wide area high-speed networks.
+* [WDT](https://github.com/facebookarchive/wdt) -  Warp speed Data Transfer (WDT) is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths..
 
 ## Job schedulers
 
-* [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager
-* [Coalition](http://coalition.readthedocs.io/en/latest/) from Mercenaries Engineering (developers of Guerilla Render)
-* [Flamenco](https://www.flamenco.io/) from the Blender Foundation
-* [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) An open source render management system from Sony Imageworks
-* [Pandora](https://prism-pipeline.com/pandora/) Open-Source Renderfarm-Manager
-* [Plow](https://github.com/chadmv/plow) by Chad Vernon
+* [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free opensource render farm manager.
+* [Coalition](http://coalition.readthedocs.io/en/latest/) from Mercenaries Engineering (developers of Guerilla Render).
+* [Flamenco](https://www.flamenco.io/) from the Blender Foundation.
+* [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) An open source render management system from Sony Imageworks.
+* [Pandora](https://prism-pipeline.com/pandora/) Open-Source Renderfarm-Manager.
+* [Plow](https://github.com/chadmv/plow) by Chad Vernon.
 
 ## Package managers
 
-* [bleeding-rez](https://github.com/mottosso/bleeding-rez) - a very active Rez fork with improved isolation, Windows support and Python 2+3 support
+* [bleeding-rez](https://github.com/mottosso/bleeding-rez) - a very active Rez fork with improved isolation, Windows support and Python 2+3 support.
 * [conda](https://github.com/conda/conda)
 * [Ecosystem](https://github.com/PeregrineLabs/Ecosystem)
-* [mamba](https://github.com/mamba-org/mamba) - a faster drop-in replacement for "conda"
-* [qip](https://github.com/themill/qip) - Quarantined Installer for Python
+* [mamba](https://github.com/mamba-org/mamba) - a faster drop-in replacement for "conda".
+* [qip](https://github.com/themill/qip) - Quarantined Installer for Python.
 * [Rez Packages](https://github.com/predat/rez-packages)
 * [Rez](https://github.com/nerdvegas/rez)
 * [wiz](https://github.com/themill/wiz)
@@ -369,7 +371,7 @@ Any contribution is welcome!
 ### Environment Manager
 
 * [Allzpark](https://github.com/mottosso/allzpark) Based on Rez manager, [Allzpark](https://allzpark.com/) can manage
- your software to give an specific software, really usefull with old project. 
+ your software to give an specific software, really usefull with old project. .
 
 ## Asset managers
 
@@ -384,16 +386,16 @@ Any contribution is welcome!
 
 ## Production managers
 
-* [Attract](https://attract.studio/) - Production tracking for film makers (Blender Foundation)
-* [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios
-* [Ramses](https://github.com/RxLaboratory/Ramses) - Asset Management System for motion picture production (by [Rainbox Laboratory](https://rainboxlab.org))
+* [Attract](https://attract.studio/) - Production tracking for film makers (Blender Foundation).
+* [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios.
+* [Ramses](https://github.com/RxLaboratory/Ramses) - Asset Management System for motion picture production (by [Rainbox Laboratory](https://rainboxlab.org)).
 * [Stalker](https://github.com/eoyilmaz/stalker) - Open Source Production Asset Management (ProdAM) Library designed specifically for Animation and VFX Studios.
 
 
 ## Content validation
 
 * [Pyblish](http://pyblish.com/) - A Python framework that brings test-driven development to visual effects and
- triple-A game creation
+ triple-A game creation.
   * [Blender Pyblish](https://github.com/jasperges/pyblish-blender) - Blender Addon to integrate the Pyblish framework 
 
 ## Docker images
@@ -438,15 +440,15 @@ Any contribution is welcome!
 
 ### VSCode
 
-* [blender_vscode](https://github.com/JacquesLucke/blender_vscode) - Visual Studio Code extension for Blender development
-* [Blink Script (Nuke) Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.blink) ([repo](https://github.com/melMass/vscode-blink.git)) - for syntax highlighting support
-* [MayaCode](https://marketplace.visualstudio.com/items?itemName=saviof.mayacode) ([repo](https://github.com/artbycrunk/vscode-maya)) - Maya syntax highlighting support, along with autocomplete commands and send code to maya via command port
-* [MayaPort](https://marketplace.visualstudio.com/items?itemName=JonMacey.mayaport) ([repo](https://github.com/NCCA/mayaport)) - Run Maya code from VSCode
-* [MEL Language Syntax](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git) ([repo](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git)) - for syntax highlighting support
+* [blender_vscode](https://github.com/JacquesLucke/blender_vscode) - Visual Studio Code extension for Blender development.
+* [Blink Script (Nuke) Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.blink) ([repo](https://github.com/melMass/vscode-blink.git)) - for syntax highlighting support.
+* [MayaCode](https://marketplace.visualstudio.com/items?itemName=saviof.mayacode) ([repo](https://github.com/artbycrunk/vscode-maya)) - Maya syntax highlighting support, along with autocomplete commands and send code to maya via command port.
+* [MayaPort](https://marketplace.visualstudio.com/items?itemName=JonMacey.mayaport) ([repo](https://github.com/NCCA/mayaport)) - Run Maya code from VSCode.
+* [MEL Language Syntax](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git) ([repo](https://github.com/sator-imaging/Visual-Studio-Code-MEL-Language.git)) - for syntax highlighting support.
 * [Nuke Tools](https://marketplace.visualstudio.com/items?itemName=virgilsisoe.nuke-tools) - Nuke tools to help the development process inside Visual Studio Code.
-* [Pixar USD ASCII Language Syntax](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) ([repo](https://github.com/AnimalLogic/AL_usd_vscode_extension)) - for syntax highlighting support, courtesy of the folks at Animal Logic
-* [SendtoMaya](https://marketplace.visualstudio.com/items?itemName=ivancheung7.sendtomaya) - Alternative to MayaPort, serving the same purpose
-* [VEX Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.vex) ([repo](https://github.com/melMass/vscode-vex.git)) - for syntax highlighting support
+* [Pixar USD ASCII Language Syntax](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) ([repo](https://github.com/AnimalLogic/AL_usd_vscode_extension)) - for syntax highlighting support, courtesy of the folks at Animal Logic.
+* [SendtoMaya](https://marketplace.visualstudio.com/items?itemName=ivancheung7.sendtomaya) - Alternative to MayaPort, serving the same purpose.
+* [VEX Language Syntax](https://marketplace.visualstudio.com/items?itemName=melmass.vex) ([repo](https://github.com/melMass/vscode-vex.git)) - for syntax highlighting support.
 
 ### VSCodium
 
@@ -503,7 +505,7 @@ Not really efficient, you can find more links on the sys admin awesome list ; [o
 * [Les Fées Spéciales Studio Tech Blog](http://lacuisine.tech/)
 * [Pipeline Patterns](http://www.pipelinepatterns.com/)
 * [Unit Testing in Maya](http://www.chadvernon.com/blog/maya/unit-testing-in-maya/)
-* [VFX good night reading](https://github.com/jtomori/vfx_good_night_reading/) - Curated collection of good reading about VFX and CG
+* [VFX good night reading](https://github.com/jtomori/vfx_good_night_reading/) - Curated collection of good reading about VFX and CG.
 
 ## Free music for showreel
 
