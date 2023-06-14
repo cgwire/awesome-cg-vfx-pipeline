@@ -65,23 +65,23 @@ Any contribution is welcome!
 
 * [Allusion](https://allusion-app.github.io) - Allusion is a tool to help you organize your **Visual Library**. It is a complementary tool to PureRef or another Board tool, like [PureRef](https://www.pureref.com/) or [Kuadro](http://www.kruelgames.com/tools/kuadro/) - no open source software - or [BeeRef](#2d).
 * [BeeRef](https://github.com/rbreu/beeref) - A simple Reference Image Viewer.
-* [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration
-* [Gimel Studio](https://github.com/GimelStudio/GimelStudio) - Cross-platform, non-destructive, node based 2D image graphics editor
-* [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI
-* [Inkscape](https://inkscape.org/) - Professional quality vector graphics softwar
-* [Krita](https://krita.org) - A professional painting program
-* [Materia](https://github.com/Metric/Materia) - An open source alternative to Substance Designer written in C#
-* [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters with a focus on painting rather than image manipulation or post processing
-* [Opentoonz](https://opentoonz.github.io/) - Animation production software
-* [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story
-* [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor
-* [Synfig](https://www.synfig.org/) - 2D animation software
-* [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph
-* [The Gimp](https://www.gimp.org) - A cross-platform image editor
-* [VArtiste](https://gitlab.com/zach-geek/vartiste) - WebXR/VR painting, drawing, and image editing app
-* [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) - A procedural terrain generation and procedural modelling toolkit
-* [G'MIC](https://gmic.eu/) - A full-featured open-source framework for digital image processing
-* [Graphite](https://graphite.rs/) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow
+* [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration.
+* [Gimel Studio](https://github.com/GimelStudio/GimelStudio) - Cross-platform, non-destructive, node based 2D image graphics editor.
+* [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI.
+* [Inkscape](https://inkscape.org/) - Professional quality vector graphics software.
+* [Krita](https://krita.org) - A professional painting program.
+* [Materia](https://github.com/Metric/Materia) - An open source alternative to Substance Designer written in C#.
+* [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters with a focus on painting rather than image manipulation or post-processing.
+* [Opentoonz](https://opentoonz.github.io/) - Animation production software.
+* [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story.
+* [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor.
+* [Synfig](https://www.synfig.org/) - 2D animation software.
+* [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that let you create textures by connecting nodes in a graph.
+* [The Gimp](https://www.gimp.org) - A cross-platform image editor.
+* [VArtiste](https://gitlab.com/zach-geek/vartiste) - WebXR/VR painting, drawing, and image editing app.
+* [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) - A procedural terrain generation and procedural modelling toolkit.
+* [G'MIC](https://gmic.eu/) - A full-featured open-source framework for digital image processing.
+* [Graphite](https://graphite.rs/) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 
 ### 3D
 
