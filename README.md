@@ -91,7 +91,8 @@ Any contribution is welcome!
   * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design.
   * [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers.
   * [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
-  * [Capsule](#tools) - Exporter, more info in the tools section 
+  * [Capsule](#tools) - Exporter, more info in the tools section .
+  * [Glsl Texture](#tools) - Integrate a GLSL shader in blender with the addon.
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on GitHub](https://github.com/huxingyi/dust3d).
 * [F3D](https://f3d-app.github.io/f3d/) - Fast and minimalist 3D viewer, with animation, thumbnails and many file formats support.
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes.
@@ -147,52 +148,52 @@ Any contribution is welcome!
 
 ### Rendering Engines
 
-* [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine
-* [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library
+* [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine.
+* [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [Cycles](https://www.cycles-renderer.org/) - Physically based production renderer developed by the Blender project.
-* [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan
-* [LuxCoreRender](https://luxcorerender.org/) - Physically-based and unbiased rendering engine
-* [Mitsuba](https://www.mitsuba-renderer.org/) - A research-oriented retargetable rendering system, written in portable C++17 on top of the Enoki library
-* [MoonRay](https://openmoonray.org/index) - DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer, which has been used on several feature films
-* [OSPRay](https://github.com/ospray/ospray) - An open source, scalable, and portable ray tracing engine for high-performance, high-fidelity visualization on Intel Architecture CPUs
+* [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan.
+* [LuxCoreRender](https://luxcorerender.org/) - Physically-based and unbiased rendering engine.
+* [Mitsuba](https://www.mitsuba-renderer.org/) - A research-oriented retargetable rendering system, written in portable C++17 on top of the Enoki library.
+* [MoonRay](https://openmoonray.org/index) - DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer, which has been used on several feature films.
+* [OSPRay](https://github.com/ospray/ospray) - An open source, scalable, and portable ray tracing engine for high-performance, high-fidelity visualization on Intel Architecture CPUs.
 * [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) Physically-based engine, product by AMD. 
-* [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11
-* [Yocto/GL](https://github.com/xelatihy/yocto-gl) - A collection of small C++17 libraries for building physically-based graphics algorithms
-* [Aurora](https://forums.autodesk.com/t5/engineering-hub-blog/aurora-a-real-time-path-tracing-renderer-that-enables-fast/ba-p/11322421) - A real-time path tracing renderer that enables fast product visualizations
+* [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11.
+* [Yocto/GL](https://github.com/xelatihy/yocto-gl) - A collection of small C++17 libraries for building physically-based graphics algorithms.
+* [Aurora](https://forums.autodesk.com/t5/engineering-hub-blog/aurora-a-real-time-path-tracing-renderer-that-enables-fast/ba-p/11322421) - A real-time path tracing renderer that enables fast product visualizations.
 
 ### Photogrammetry
 
-* [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework
-  * [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software
-* [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface
-* [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists and targeted for the Multiple View Geometry community
+* [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework.
+  * [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software.
+* [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.
+* [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists and targeted for the Multiple View Geometry community.
 
 ### Photography
 
-* [Darktable](https://www.darktable.org/) - Photography workflow application and raw developer
-* [dcraw](https://www.dechifro.org/dcraw/) - A tool that decodes any raw image from any digital camera on any computer running any operating system
-* [RawTherapee](https://github.com/Beep6581/RawTherapee) - free, cross-platform raw image processing program
+* [Darktable](https://www.darktable.org/) - Photography workflow application and raw developer.
+* [dcraw](https://www.dechifro.org/dcraw/) - A tool that decodes any raw image from any digital camera on any computer running any operating system.
+* [RawTherapee](https://github.com/Beep6581/RawTherapee) - free, cross-platform raw image processing program.
 
 ### Video
 
-* [CasparCG](https://github.com/CasparCG) - A Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor
-* [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production
-* [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video
-* [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows
+* [CasparCG](https://github.com/CasparCG) - A Windows and Linux software used to play out professional graphics, audio and video to multiple outputs as a layerbased real-time compositor.
+* [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production.
+* [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+* [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows.
 * [Jitsi](https://github.com/jitsi) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-* [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt
-* [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media
-* [mrViewer2](https://github.com/ggarra13/mrv2) - The Professional Flipbook, Video and Audio Player
-* [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics
+* [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt.
+* [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media.
+* [mrViewer2](https://github.com/ggarra13/mrv2) - The Professional Flipbook, Video and Audio Player.
+* [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics.
 * [OBS](https://github.com/obsproject/obs-studio) - software designed for capturing, compositing, encoding, recording, and streaming video content, efficiently.
-* [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software
+* [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 * [OpenShot](https://github.com/OpenShot/openshot-qt) - award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
-* [qctools](http://bavc.github.io/qctools/) - A free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering
-* [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor
-* [tlRender](https://github.com/darbyjohnston/tlRender) - timeline render, is an early stage project for rendering editorial timelines
-* [UltraGrid](https://github.com/CESNET/UltraGrid) - UltraGrid low-latency audio and video network transmission system
-* [xSTUDIO](https://www.dneg.com/xstudio/) - Image playback and review for the filmmaking community
-* [RV](https://adsknews.autodesk.com/news/rv-open-source) - A digital review tool for film, TV, and games
+* [qctools](http://bavc.github.io/qctools/) - A free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering.
+* [Shotcut](https://www.shotcutapp.com/) - A free, open source, cross-platform video editor.
+* [tlRender](https://github.com/darbyjohnston/tlRender) - timeline render, is an early stage project for rendering editorial timelines.
+* [UltraGrid](https://github.com/CESNET/UltraGrid) - UltraGrid low-latency audio and video network transmission system.
+* [xSTUDIO](https://www.dneg.com/xstudio/) - Image playback and review for the filmmaking community.
+* [RV](https://adsknews.autodesk.com/news/rv-open-source) - A digital review tool for film, TV, and games.
 
 ### UV/Unwrap library
 
@@ -203,13 +204,13 @@ Any contribution is welcome!
 *A set of small tools, DCC addons, python library... to complete or add feature on DCC software.*
 
 * [Capsule](https://github.com/Takanu/Capsule) - Blender addon to export, manage and automate to shared between blender and Unreal/Unity or other realtime engine. 
-* [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Python library to generate a stylised rendering from an image 
+* [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Python library to generate a stylised rendering from an image.
 * [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) - Create textures from Glsl fragment shaders on Blender (2.8)
 * [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for Unreal Engine 4.
-* [LYNX](https://github.com/LucaScheller/VFX-LYNX) - Free & OpenSource VFX Pipeline Tools
-* [qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini
-* [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - A completely free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation
+* [LYNX](https://github.com/LucaScheller/VFX-LYNX) - Free & OpenSource VFX Pipeline Tools.
+* [qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini.
+* [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - A completely free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation.
 * [xComp](https://github.com/gugenstudio/xComp) - Image Render comparing.
 
 ### Low-code platforms
@@ -560,3 +561,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+*[DCC]: *Data Content Creation* software. 
