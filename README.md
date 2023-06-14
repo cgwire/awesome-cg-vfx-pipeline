@@ -85,57 +85,55 @@ Any contribution is welcome!
 
 ### 3D
 
-* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
-* [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting
-* [Blender](https://blender.org) - Modeling and animation
+* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender.
+* [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting.
+* [Blender](https://blender.org) - Modeling and animation.
+  * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design.
+  * [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers.
+  * [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on GitHub](https://github.com/huxingyi/dust3d).
 * [F3D](https://f3d-app.github.io/f3d/) - Fast and minimalist 3D viewer, with animation, thumbnails and many file formats support.
-* [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes
+* [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes.
 * [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes. 
-* [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - RealTime 3D Strange Attractors scout on GPU
-* [Mandelbulb3D](https://github.com/thargor6/mb3d) - A program designed for the Windows platform, for generating 3D views of different fractals
-* [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) - Mandelbulber creatively generates three-dimensional fractals
-* [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes
-* [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks
-* [Nodi](https://github.com/Nodi3d/nodi) - Nodi is an online node-based geometry design tool, it's a web tool
-* [Penzil](https://github.com/jacopocolo/Penzil) - A web application to sketch in 3d made in three.js and Vue
-* [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface
-* [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers
-* [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes
-* [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design
-* [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art
-* [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use
-* [ZENO](https://github.com/zenustech/zeno) - Node based 3D system able to produce cinematic physics effects at High Efficiency
-* [Blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust
-* [Plasticity](https://github.com/nkallen/plasticity) - A 3d modelling software for concept artists
-* [Threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation
+* [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - RealTime 3D Strange Attractors scout on GPU.
+* [Mandelbulb3D](https://github.com/thargor6/mb3d) - A program designed for the Windows platform, for generating 3D views of different fractals.
+* [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) - Mandelbulber creatively generates three-dimensional fractals.
+* [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes.
+* [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks.
+* [Nodi](https://github.com/Nodi3d/nodi) - Nodi is an online node-based geometry design tool, it's a web tool.
+* [Penzil](https://github.com/jacopocolo/Penzil) - A web application to sketch in 3d made in three.js and Vue.
+* [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface.
+* [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art.
+* [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use.
+* [ZENO](https://github.com/zenustech/zeno) - Node based 3D system able to produce cinematic physics effects at High Efficiency.
+* [Blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust.
+* [Plasticity](https://github.com/nkallen/plasticity) - A 3d modelling software for concept artists.
+* [Threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
+* [Material Maker](https://rodzilla.itch.io/material-maker) - A procedural materials authoring tool, based on the Godot Engine.
 
 ### 3D realtime engines
 
 * [A-Frame](https://aframe.io/) - An easy web framework for building 3D/AR/VR experiences.
-* [Armory](https://armory3d.org) - 3D engine with Blender integration focused on portability, minimal footprint and performance
-* [Babylon.js](http://www.babylonjs.com/) - WebGL engine
-* [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
-* [Cauldron](https://github.com/GPUOpen-LibrariesAndSDKs/Cauldron) - A simple framework for rapid prototyping on Vulkan or DirectX12
-* [Falcor](https://github.com/NVIDIAGameWorks/Falcor) - A real-time rendering framework supporting DirectX 12 aiming to improve productivity of research and prototype projects
-* [Filament](https://github.com/google/filament) - PBR engine
-* [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - A multiplatform 3D C# realtime engine with a strong emphasis on content transformation and manipulation
-* [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
-* [Harfang 3D](https://github.com/harfang3d/harfang3d) - C++ 3D visualization library also usable in Python, Lua and Go (Windows, Linux)
-* [Material Maker](https://rodzilla.itch.io/material-maker) - A procedural materials authoring tool, based on the Godot Engine
+* [Armory](https://armory3d.org) - 3D engine with Blender integration focused on portability, minimal footprint and performance.
+* [Babylon.js](http://www.babylonjs.com/) - WebGL engine.
+* [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust.
+* [Cauldron](https://github.com/GPUOpen-LibrariesAndSDKs/Cauldron) - A simple framework for rapid prototyping on Vulkan or DirectX12.
+* [Falcor](https://github.com/NVIDIAGameWorks/Falcor) - A real-time rendering framework supporting DirectX 12 aiming to improve productivity of research and prototype projects.
+* [Filament](https://github.com/google/filament) - PBR engine, available with all platforms (desktop, mobile).
+* [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - A multiplatform 3D C# realtime engine with a strong emphasis on content transformation and manipulation.
+* [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5).
+* [Harfang 3D](https://github.com/harfang3d/harfang3d) - C++ 3D visualization library also usable in Python, Lua and Go (Windows, Linux).
 * [Neo Axis Engine](https://github.com/NeoAxis/NeoAxisEngine) - NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
-* [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine
-* [Open 3D Engine](https://www.o3de.org/) - An open-source, real-time 3D development engine
-* [Overload](https://github.com/adriengivry/Overload) - 3D Game engine with editor
-* [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC)
+* [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine.
+* [Open 3D Engine](https://www.o3de.org/) - An open-source, real-time 3D development engine.
+* [Overload](https://github.com/adriengivry/Overload) - 3D Game engine with editor.
+* [Panda3d](https://www.panda3d.org/) - Python based 3d Engine (PC).
 * [Stride](https://stride3d.net/) - Game engine dedicated tor realistic rendering and VR, develop with a C# techno.
-* [Three.js](https://threejs.org/) - WebGL engine
-  * [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Based on Three.js, this framework is
-   dedicated to generate a 3D Map experience on a web
-   service.
-* [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5)
-* [UPBGE](https://github.com/UPBGE/upbge) - Integrated game engine in Blender
-* [Vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine
+* [Three.js](https://threejs.org/) - WebGL engine.
+  * [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Based on Three.js, this framework is dedicated to generate a 3D Map experience on a web service.
+* [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5).
+* [UPBGE](https://github.com/UPBGE/upbge) - Integrated game engine in Blender.
+* [Vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine.
 
 ### Audio
 
