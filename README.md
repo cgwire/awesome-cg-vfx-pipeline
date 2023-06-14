@@ -204,6 +204,7 @@ Any contribution is welcome!
 * [xatlas](https://github.com/jpcy/xatlas) | Fork from [theakla atlas](https://github.com/Thekla/thekla_atlas), it's a library to generate an UV for -example- lightmap uv.
 
 ### Tools
+
 *A set of small tools, DCC addons, python library... to complete or add feature on DCC software.*
 
 * [Capsule](https://github.com/Takanu/Capsule) - Blender addon to export, manage and automate to shared between blender and Unreal/Unity or other realtime engine. 
@@ -371,7 +372,7 @@ Any contribution is welcome!
 ### Environment Manager
 
 * [Allzpark](https://github.com/mottosso/allzpark) Based on Rez manager, [Allzpark](https://allzpark.com/) can manage
- your software to give an specific software, really usefull with old project. .
+ your software to give an specific software, really usefull with old project.
 
 ## Asset managers
 
