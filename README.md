@@ -85,9 +85,13 @@ Any contribution is welcome!
 
 ### 3D
 
-* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
-* [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting
-* [Blender](https://blender.org) - Modeling and animation
+* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender.
+* [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting.
+* [Blender](https://blender.org) - Modeling and animation.
+    * [Blender Awesome List](https://github.com/agmmnn/awesome-blender) - More addon and resources around Blender in this awesome list. 
+    * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design.
+    * [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
+    * [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on GitHub](https://github.com/huxingyi/dust3d).
 * [F3D](https://f3d-app.github.io/f3d/) - Fast and minimalist 3D viewer, with animation, thumbnails and many file formats support.
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes.
