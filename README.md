@@ -85,17 +85,9 @@ Any contribution is welcome!
 
 ### 3D
 
-* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender.
-* [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting.
-* [Blender](https://blender.org) - Modeling and animation.
-  * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design.
-  * [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilises Blender and its Python API to create a visual programming environment for artists and developers.
-  * [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
-  * [Capsule](#tools) - Exporter, more info in the tools section .
-  * [Glsl Texture](#tools) - Integrate a GLSL shader in blender with the addon.
-  * [BlenderGIS](#geometry) - Geo data importer, more in the geometry section.
-  * [Rigify](#geometry) - Auto-rigging Addon for Blender, in the geometry section.
-  * [Blender Pyblish](#content-validation) - Blender Addon to integrate the Pyblish framework, more in the Content Validation section.
+* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes) - A node based visual scripting system designed for motion graphics in Blender
+* [ArmorPaint](https://armorpaint.org/) - A stand-alone software designed for physically-based texture painting
+* [Blender](https://blender.org) - Modeling and animation
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on GitHub](https://github.com/huxingyi/dust3d).
 * [F3D](https://f3d-app.github.io/f3d/) - Fast and minimalist 3D viewer, with animation, thumbnails and many file formats support.
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork representing a compilation of features and fixes.
