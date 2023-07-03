@@ -274,9 +274,6 @@ Any contribution is welcome!
 * [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 * [Embree](https://www.embree.org/) - A collection of high performance ray tracing kernels that helps graphics application engineers to improve the performance of their photorealistic rendering application.
 * [Geometry Central](https://geometry-central.net/) - A modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes.
-* [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remesher.
-* [autoremesher](https://github.com/huxingyi/autoremesher) -  Automatic quad remeshing tool.
-* [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing.
 * [Optimesh](https://github.com/nschloe/optimesh) - Python library to optimise a triangular mesh, remesh with various. 
 * [libigl](https://libigl.github.io/) - A simple C++ geometry processing library.
 * [MakeHuman](http://www.makehumancommunity.org/) - Parametric human character modeling.
@@ -286,11 +283,16 @@ Any contribution is welcome!
 * [PCL](https://pointclouds.org/) - A standalone, large scale, open project for 2D/3D image and point cloud processing.
 * [Polygon Mesh Processing Library](https://www.pmp-library.org/) - A modern C++ open-source library for processing and visualizing polygon surface meshes.
 * [QHull](https://github.com/qhull/qhull/wiki) - Convex hull generator.
-* [Quadriflow](https://github.com/hjwdzh/QuadriFlow) - Convert a mesh to a quadrangulation algorithms. 
 * [Rigify](https://github.com/LesFeesSpeciales/rigify) - Auto-rigging Addon for Blender.
 * [Simplex](https://github.com/blurstudio/Simplex) - Blendshape Solver.
 * [SOFA](https://www.sofa-framework.org/) - An efficient framework dedicated to research, prototyping and development of physics-based simulations.
 * [Polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds.
+
+#### Remeshing
+* [Quadriflow](https://github.com/hjwdzh/QuadriFlow) - Convert a mesh to a quadrangular algorithms.
+* [Instant Meshes](https://github.com/wjakob/instant-meshes) - Remeshing software.
+* [autoremesher](https://github.com/huxingyi/autoremesher) -  Automatic quad remeshing tool.
+* [mmg](https://github.com/MmgTools/mmg) - mmg is an open source software for bidimensional and tridimensional surface and volume remeshing.
 
 ### Colors
 
