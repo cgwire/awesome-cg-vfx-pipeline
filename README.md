@@ -232,6 +232,7 @@ Any contribution is welcome!
 * [gofileseq](https://github.com/justinfx/gofileseq) - A Golang port of the library above.
 * [Lucidity](http://lucidity.readthedocs.io/en/latest/) - String/filepath templates system inspired by SGTK's template mechanisms.
 * [pyseq](https://github.com/rsgalloway/pyseq) - Another Python module for file sequence parsing and serialization.
+* [fls](https://github.com/forticheprod/fls) - A Rust command line tool and library to list and pack frame sequences
 
 ### UI
 
