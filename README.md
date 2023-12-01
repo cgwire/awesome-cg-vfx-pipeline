@@ -339,6 +339,7 @@ Any contribution is welcome!
 * [USD-URI-resolver](https://github.com/LumaPictures/usd-uri-resolver) - A generic, URI based resolver for USD, support custom plugins.
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes.
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools.
+* [usd-qtpy](https://github.com/BigRoy/usd-qtpy) - Python Qt components for building custom USD tools.
 * [OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO) - Interoperability standard for tools and content management systems used in media production.
 
 ## File transfer
