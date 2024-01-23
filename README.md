@@ -419,6 +419,7 @@ Any contribution is welcome!
 * [FTrack Hooks](https://github.com/tokejepsen/ftrack-hooks) Set of plugins for FTrack
 * [OnionSkinRenderer](https://github.com/Viele/onionSkinRenderer) - Onion Skin Renderer for Maya
 * [Palladio](https://github.com/Esri/palladio) - CityEngine Plugin for Houdini
+* [RIFE for Nuke](https://github.com/rafaelperez/RIFE-for-Nuke) - Real-Time Intermediate Flow Estimation for Video Frame Interpolation (ie machine learning for framerate upscaling) for Nuke.
 * [Wiretap](https://github.com/predat/wiretap) - Manage Flame Wiretap database
 
 ## IDE
