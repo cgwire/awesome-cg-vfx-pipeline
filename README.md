@@ -192,7 +192,7 @@ Any contribution is welcome!
 * [tlRender](https://github.com/darbyjohnston/tlRender) - timeline render, is an early stage project for rendering editorial timelines.
 * [UltraGrid](https://github.com/CESNET/UltraGrid) - UltraGrid low-latency audio and video network transmission system.
 * [xSTUDIO](https://www.dneg.com/xstudio/) - Image playback and review for the filmmaking community.
-* [RV](https://adsknews.autodesk.com/news/rv-open-source) - A digital review tool for film, TV, and games.
+* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Open source version of RV, a digital review tool for film, TV, and games.
 
 ### UV/Unwrap library
 
