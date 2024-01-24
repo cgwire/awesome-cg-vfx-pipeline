@@ -207,6 +207,7 @@ Any contribution is welcome!
 * [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Python library to generate a stylised rendering from an image.
 * [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) - Create textures from Glsl fragment shaders on Blender (2.8)
 * [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
+* [Prisma](https://github.com/patriciogonzalezvivo/prisma) - Computational photography pipeline tool that performs multiple inferences (masks, depth, motionvectors) from any image or video.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for Unreal Engine 4.
 * [LYNX](https://github.com/LucaScheller/VFX-LYNX) - Free & OpenSource VFX Pipeline Tools.
 * [qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini.
