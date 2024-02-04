@@ -213,6 +213,7 @@ Any contribution is welcome!
 * [qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini.
 * [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - A completely free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation.
 * [xComp](https://github.com/gugenstudio/xComp) - Image Render comparing.
+* [trigger](https://github.com/masqu3rad3/trigger) - Operational code driven rigging tool for Autodesk Maya.
 
 ### Low-code platforms
 
@@ -385,6 +386,7 @@ Any contribution is welcome!
 * [Prism](https://prism-pipeline.com/)
 * [SnowFS](https://github.com/Snowtrack/SnowFS)
 * [TACTIC-Handler](https://github.com/listyque/TACTIC-Handler)
+* [Tik Manager](https://github.com/masqu3rad3/tik_manager4) - Artist friendly asset and pipeline manager.
 
 ## Production managers
 
