@@ -212,8 +212,8 @@ Any contribution is welcome!
 * [LYNX](https://github.com/LucaScheller/VFX-LYNX) - Free & OpenSource VFX Pipeline Tools.
 * [qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini.
 * [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - A completely free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation.
-* [xComp](https://github.com/gugenstudio/xComp) - Image Render comparing.
 * [trigger](https://github.com/masqu3rad3/trigger) - Operational code driven rigging tool for Autodesk Maya.
+* [xComp](https://github.com/gugenstudio/xComp) - Image Render comparing.
 
 ### Low-code platforms
 
