@@ -497,6 +497,8 @@ Not really efficient, you can find more links on the sys admin awesome list ; [o
 * [Houdini Discord](https://discordapp.com/channels/230123485668573184/360768996980555776)
 * [od|force](https://forums.odforce.net/)
 * [OpenPype Discord](https://discord.gg/sFNPWXG)
+* [The Pipeline Conference](https://thepipelineconference.com)
+* [Pipeline Developer Forum](https://pipedev.org)
 * [StudioSysAdmins](http://studiosysadmins.com)
 * [Tech-artists.org](http://tech-artists.org)
 
