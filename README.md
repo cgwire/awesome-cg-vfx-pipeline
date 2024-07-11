@@ -32,6 +32,7 @@ Any contribution is welcome!
     - [Colors](#colors)
     - [Shaders](#shaders)
   - [File formats](#file-formats)
+    - [USD](#USD)
   - [File transfer](#file-transfer)
   - [Job schedulers](#job-schedulers)
   - [Package managers](#package-managers)
