@@ -261,6 +261,7 @@ Any contribution is welcome!
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python.
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right.
 * [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro.
+* [PyTVPaint](https://github.com/brunchstudio/pytvpaint) - Python scripting for TVPaint.
 * [OpenFX](https://github.com/ofxa/openfx) - Image processing plug-in standard.
 
 ### Geometry
