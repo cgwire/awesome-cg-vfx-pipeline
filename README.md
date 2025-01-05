@@ -32,6 +32,7 @@ Any contribution is welcome!
     - [Colors](#colors)
     - [Shaders](#shaders)
   - [File formats](#file-formats)
+    - [USD](#USD)
   - [File transfer](#file-transfer)
   - [Job schedulers](#job-schedulers)
   - [Package managers](#package-managers)
@@ -192,7 +193,7 @@ Any contribution is welcome!
 * [tlRender](https://github.com/darbyjohnston/tlRender) - timeline render, is an early stage project for rendering editorial timelines.
 * [UltraGrid](https://github.com/CESNET/UltraGrid) - UltraGrid low-latency audio and video network transmission system.
 * [xSTUDIO](https://www.dneg.com/xstudio/) - Image playback and review for the filmmaking community.
-* [RV](https://adsknews.autodesk.com/news/rv-open-source) - A digital review tool for film, TV, and games.
+* [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Open source version of RV, a digital review tool for film, TV, and games.
 
 ### UV/Unwrap library
 
@@ -256,11 +257,11 @@ Any contribution is welcome!
 * [mGui](https://github.com/theodox/mGui) - Portable pure-python GUI library for Maya.
 * [minq](https://github.com/theodox/minq) - Maya query language for speeding up common scene operations.
 * [NXT](https://nxt-dev.github.io/) - A layered code compositing application.
-* [OpenWalter](https://github.com/rodeofx/OpenWalter) - USD Plugins Arnold, Houdini, Katana, Maya and USD.
 * [Photoshop Python API](https://github.com/loonghao/photoshop-python-api) - Python API for Photoshop.
 * [Py3dsMax](https://github.com/blurstudio/Py3dsMax) - 3dsMax API in Python.
 * [PyMEL](https://github.com/LumaPictures/pymel) - Python in Maya Done Right.
 * [Pymiere](https://github.com/qmasingarbe/pymiere) - Python API for Premiere Pro.
+* [PyTVPaint](https://github.com/brunchstudio/pytvpaint) - Python scripting for TVPaint.
 * [OpenFX](https://github.com/ofxa/openfx) - Image processing plug-in standard.
 
 ### Geometry
@@ -313,14 +314,12 @@ Any contribution is welcome!
 ## File formats
 
 * [ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Color management.
-* [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD.
 * [Alembic](http://www.alembic.io/) - Animations.
 * [Assimp](https://www.assimp.org/) - A portable Open-Source library to import various well-known 3D model formats in a uniform manner.
 * [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Accurate object ID mattes.
 * [Field3D](https://magnuswrenninge.com/field3d) - An open source library for storing voxel data.
 * [ImageMagick](https://imagemagick.org/index.php) - Use ImageMagick to create, edit, compose, or convert bitmap images.
 * [Kiko](https://github.com/Toolchefs/kiko) - DCC-agnostic animation curves storage (works between Maya and Nuke, with more DCCs to come).
-* [luma_usd](https://github.com/LumaPictures/luma_usd) -  Plugins for USD.
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev.
 * [meshio](https://github.com/nschloe/meshio) - Input/output for many mesh formats.
 * [OpenCV](https://opencv.org/) - An open source computer vision and machine learning software library.
@@ -334,6 +333,12 @@ Any contribution is welcome!
 * [OpenVDB](http://www.openvdb.org/) ([repo](https://github.com/AcademySoftwareFoundation/openvdb)) - Volumetric data.
 * [pfstools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing and manipulating high-dynamic range (HDR) images and video frames.
 * [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - Example-based texture synthesis written in Rust.
+* [OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO) - Interoperability standard for tools and content management systems used in media production.
+
+### USD
+* [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) - Represent Maya data in Maya, and USD data in USD.
+* [luma_usd](https://github.com/LumaPictures/luma_usd) -  Plugins for USD.
+* [OpenWalter](https://github.com/rodeofx/OpenWalter) - USD Plugins Arnold, Houdini, Katana, Maya and USD.
 * [USD Manager](http://www.usdmanager.org/) - Program designed for lightweight browsing, managing, and editing of Universal Scene Description (USD) files.
 * [USD Shell Extension for Windows](https://github.com/Activision/USDShellExtension) - a full-featured Windows shell extension for giving the File Explorer support for USD thumbnails, side previews and even exposes certain deep metadata to Windows Search.
 * [usd-arnold](https://github.com/LumaPictures/usd-arnold) - USD Schemas and tools for exchanging Arnold shader information between multiple 3rd party packages.
@@ -342,7 +347,6 @@ Any contribution is welcome!
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes.
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Qt components for building custom USD tools.
 * [usd-qtpy](https://github.com/BigRoy/usd-qtpy) - Python Qt components for building custom USD tools.
-* [OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO) - Interoperability standard for tools and content management systems used in media production.
 
 ## File transfer
 * [rsync](https://github.com/WayneD/rsync) - open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -497,6 +501,8 @@ Not really efficient, you can find more links on the sys admin awesome list ; [o
 * [Houdini Discord](https://discordapp.com/channels/230123485668573184/360768996980555776)
 * [od|force](https://forums.odforce.net/)
 * [OpenPype Discord](https://discord.gg/sFNPWXG)
+* [The Pipeline Conference](https://thepipelineconference.com)
+* [Pipeline Developer Forum](https://pipedev.org)
 * [StudioSysAdmins](http://studiosysadmins.com)
 * [Tech-artists.org](http://tech-artists.org)
 
