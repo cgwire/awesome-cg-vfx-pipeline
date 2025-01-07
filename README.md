@@ -390,7 +390,7 @@ Any contribution is welcome!
 * [Prism](https://prism-pipeline.com/)
 * [SnowFS](https://github.com/Snowtrack/SnowFS)
 * [TACTIC-Handler](https://github.com/listyque/TACTIC-Handler)
-* [Tik Manager](https://github.com/masqu3rad3/tik_manager4) - Artist friendly asset and pipeline manager.
+* [Tik Manager](https://tik-manager.com) - Artist friendly asset and pipeline manager.
 
 ## Production managers
 
