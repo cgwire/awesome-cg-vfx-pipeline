@@ -243,6 +243,7 @@ Any contribution is welcome!
 ### UI
 
 * [aframe-vartiste-toolkit](https://www.npmjs.com/package/aframe-vartiste-toolkit) - WebXR/VR UI components toolkit (that the VR drawing app [VArtiste](https://vartiste.xyz/) is built upon.)
+* [NiceGUI](https://nicegui.io/) - Create web-based user interfaces with Python. Both native and in browser.
 * [NodeGraphQt](https://github.com/jchanvfx/NodeGraphQt) - Node graph for Qt.
 * [Nodz](https://github.com/LeGoffLoic/Nodz) - Node generator for Qt.
 * [Qt.py](https://github.com/mottosso/Qt.py) - Qt versions abstraction.
