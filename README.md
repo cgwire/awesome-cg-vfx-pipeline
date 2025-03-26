@@ -35,7 +35,7 @@ Any contribution is welcome!
     - [Shaders](#shaders)
     - [Denosing](#denosing)
   - [File formats](#file-formats)
-    - [USD](#USD)
+    - [USD](#usd)
   - [File transfer](#file-transfer)
   - [Job schedulers](#job-schedulers)
   - [Package managers](#package-managers)
