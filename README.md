@@ -387,9 +387,9 @@ Any contribution is welcome!
 ## Asset managers
 
 * [Avalon](https://getavalon.github.io)
+* [Ayon](https://ynput.io/)
 * [Damas](http://damas-software.org/)
 * [Kabaret](https://www.kabaretstudio.com/)
-* [OpenPype](https://openpype.io)
 * [Plex](https://github.com/richteralexander/plex)
 * [Prism](https://prism-pipeline.com/)
 * [SnowFS](https://github.com/Snowtrack/SnowFS)
