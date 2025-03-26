@@ -385,7 +385,7 @@ Any contribution is welcome!
 * [Avalon](https://getavalon.github.io)
 * [Damas](http://damas-software.org/)
 * [Kabaret](https://www.kabaretstudio.com/)
-* [OpenPype](https://openpype.io)
+* [Ayon](https://ynput.io/)
 * [Plex](https://github.com/richteralexander/plex)
 * [Prism](https://prism-pipeline.com/)
 * [SnowFS](https://github.com/Snowtrack/SnowFS)
