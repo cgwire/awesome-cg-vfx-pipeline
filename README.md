@@ -400,7 +400,6 @@ Any contribution is welcome!
 
 ## Production managers
 
-* [Attract](https://attract.studio/) - Production tracking for filmmakers (Blender Foundation).
 * [Kitsu](https://kitsu.cg-wire.com) - For small to mid-size studios.
 * [Ramses](https://github.com/RxLaboratory/Ramses) - Asset Management System for motion picture production (by [Rainbox Laboratory](https://rainboxlab.org)).
 * [Stalker](https://github.com/eoyilmaz/stalker) - Open Source Production Asset Management (ProdAM) Library designed specifically for Animation and VFX Studios.
