@@ -172,7 +172,7 @@ Any contribution is welcome!
 * [fSpy](https://fspy.io/) - Still image camera matching.
   * [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy Blender importer.
   * [GdSpy](https://github.com/Alby90/GdSpy) - Unofficial fSpy importer for Godot.
-  * [fSpy-Maya](https://github.com/Nathanieljla/fSpy-Maya) - Unofficial fSpy Maya importers (one of several).
+  * [fSpy-Maya](https://github.com/Nathanieljla/fSpy-Maya) - Unofficial fSpy Maya importer (one of several).
   * [fSync](https://github.com/MatsValgaeren/fSync) - Unofficial fSpy/Maya bridge which also creates projection shaders.
   * [fSpy-USD](https://github.com/Vochsel/fspy-USD) - Unofficial fSpy to USD converter.
 * [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists targeted for the Multiple View Geometry community.
