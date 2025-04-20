@@ -169,6 +169,12 @@ Any contribution is welcome!
 * [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework.
   * [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software.
 * [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.
+* [fSpy](https://fspy.io/) - Still image camera matching.
+  * [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy Blender importer.
+  * [GdSpy](https://github.com/Alby90/GdSpy) - Unofficial fSpy importer for Godot.
+  * [fSpy-Maya](https://github.com/Nathanieljla/fSpy-Maya) - Unofficial fSpy Maya importers (one of several).
+  * [fSync](https://github.com/MatsValgaeren/fSync) - Unofficial fSpy/Maya bridge which also creates projection shaders.
+  * [fSpy-USD](https://github.com/Vochsel/fspy-USD) - Unofficial fSpy to USD converter.
 * [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists targeted for the Multiple View Geometry community.
 
 ### Photography
