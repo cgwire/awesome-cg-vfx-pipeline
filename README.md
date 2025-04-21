@@ -1,6 +1,6 @@
 # Awesome CG / VFX Pipeline
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 List of open-source technologies that help in the process of building a
@@ -545,41 +545,44 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/frankrousseau"><img src="https://avatars1.githubusercontent.com/u/1336623?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Frank Rousseau</b></sub></a><br /><a href="#content-frankrousseau" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/loonghao"><img src="https://avatars1.githubusercontent.com/u/13111745?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hal</b></sub></a><br /><a href="#content-loonghao" title="Content">🖋</a></td>
-    <td align="center"><a href="http://darkvertex.com"><img src="https://avatars0.githubusercontent.com/u/941331?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alan Fregtman</b></sub></a><br /><a href="#content-darkvertex" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/notawhalevfx"><img src="https://avatars2.githubusercontent.com/u/45572972?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nikita Musatov</b></sub></a><br /><a href="#content-notawhalevfx" title="Content">🖋</a></td>
-    <td align="center"><a href="https://sreenivas.dev"><img src="https://avatars0.githubusercontent.com/u/2767425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sreenivas alapati</b></sub></a><br /><a href="#content-cg-cnu" title="Content">🖋</a></td>
-    <td align="center"><a href="https://artstation.com/artist/stilobique"><img src="https://avatars0.githubusercontent.com/u/3066684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stilobique</b></sub></a><br /><a href="#content-stilobique" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/bob-white"><img src="https://avatars0.githubusercontent.com/u/7028615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bob-white</b></sub></a><br /><a href="#content-bob-white" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.nothing-is-3d.com/"><img src="https://avatars0.githubusercontent.com/u/3873421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vincent Lamy</b></sub></a><br /><a href="#content-Vinc3r" title="Content">🖋</a></td>
-    <td align="center"><a href="http://blog.theodox.com"><img src="https://avatars3.githubusercontent.com/u/4056600?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Steve Theodore</b></sub></a><br /><a href="#content-theodox" title="Content">🖋</a></td>
-    <td align="center"><a href="http://www.cube-creative.com/"><img src="https://avatars2.githubusercontent.com/u/26791257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cube Creative</b></sub></a><br /><a href="#content-developer-cube-creative" title="Content">🖋</a></td>
-    <td align="center"><a href="http://www.bumpybox.com"><img src="https://avatars0.githubusercontent.com/u/1860085?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Toke Jepsen</b></sub></a><br /><a href="#content-tokejepsen" title="Content">🖋</a></td>
-    <td align="center"><a href="http://santoshk.dev"><img src="https://avatars3.githubusercontent.com/u/1515991?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Santosh Kumar</b></sub></a><br /><a href="#content-santosh" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/listyque"><img src="https://avatars2.githubusercontent.com/u/13370598?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Miarsky</b></sub></a><br /><a href="#content-listyque" title="Content">🖋</a></td>
-    <td align="center"><a href="http://justintennant.me"><img src="https://avatars2.githubusercontent.com/u/7485210?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Justin Tennant</b></sub></a><br /><a href="#content-justint" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://jtomori.github.io"><img src="https://avatars0.githubusercontent.com/u/22801191?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juraj Tomori</b></sub></a><br /><a href="#content-jtomori" title="Content">🖋</a></td>
-    <td align="center"><a href="http://hellozee.dev"><img src="https://avatars1.githubusercontent.com/u/12135951?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kuntal Majumder</b></sub></a><br /><a href="#content-hellozee" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/jfpanisset"><img src="https://avatars0.githubusercontent.com/u/32653482?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jean-Francois Panisset</b></sub></a><br /><a href="#content-jfpanisset" title="Content">🖋</a></td>
-    <td align="center"><a href="http://www.heavyimage.com"><img src="https://avatars0.githubusercontent.com/u/7820487?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jesse Spielman</b></sub></a><br /><a href="#content-heavyimage" title="Content">🖋</a></td>
-    <td align="center"><a href="http://www.corentin-charron.com"><img src="https://avatars2.githubusercontent.com/u/4436347?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Corentin</b></sub></a><br /><a href="#content-corentincharron" title="Content">🖋</a></td>
-    <td align="center"><a href="https://www.saviof.com"><img src="https://avatars0.githubusercontent.com/u/1092099?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Savio Fernandes</b></sub></a><br /><a href="#content-artbycrunk" title="Content">🖋</a></td>
-    <td align="center"><a href="https://in.linkedin.com/in/anvith-shivakumara"><img src="https://avatars3.githubusercontent.com/u/5442547?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anvith Shivakumara</b></sub></a><br /><a href="#content-anvth" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/aboellinger"><img src="https://avatars0.githubusercontent.com/u/5718135?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Antoine Boellinger</b></sub></a><br /><a href="#content-aboellinger" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/mathbou"><img src="https://avatars1.githubusercontent.com/u/13415583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mathieu Bouzard</b></sub></a><br /><a href="#content-mathbou" title="Content">🖋</a></td>
-    <td align="center"><a href="http://pype.club"><img src="https://avatars.githubusercontent.com/u/3333008?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Milan Kolar</b></sub></a><br /><a href="#content-mkolar" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/mwestphal"><img src="https://avatars.githubusercontent.com/u/3129530?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mwestphal</b></sub></a><br /><a href="#content-mwestphal" title="Content">🖋</a></td>
-    <td align="center"><a href="http://eoyilmaz.blogspot.com"><img src="https://avatars.githubusercontent.com/u/1786804?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Erkan Ozgur Yilmaz</b></sub></a><br /><a href="#content-eoyilmaz" title="Content">🖋</a></td>
-    <td align="center"><a href="https://mcoliver.com/"><img src="https://avatars.githubusercontent.com/u/622057?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Oliver</b></sub></a><br /><a href="#content-mcoliver" title="Content">🖋</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/frankrousseau"><img src="https://avatars1.githubusercontent.com/u/1336623?v=4?s=100" width="100px;" alt="Frank Rousseau"/><br /><sub><b>Frank Rousseau</b></sub></a><br /><a href="#content-frankrousseau" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/loonghao"><img src="https://avatars1.githubusercontent.com/u/13111745?v=4?s=100" width="100px;" alt="Hal"/><br /><sub><b>Hal</b></sub></a><br /><a href="#content-loonghao" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://darkvertex.com"><img src="https://avatars0.githubusercontent.com/u/941331?v=4?s=100" width="100px;" alt="Alan Fregtman"/><br /><sub><b>Alan Fregtman</b></sub></a><br /><a href="#content-darkvertex" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/notawhalevfx"><img src="https://avatars2.githubusercontent.com/u/45572972?v=4?s=100" width="100px;" alt="Nikita Musatov"/><br /><sub><b>Nikita Musatov</b></sub></a><br /><a href="#content-notawhalevfx" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://sreenivas.dev"><img src="https://avatars0.githubusercontent.com/u/2767425?v=4?s=100" width="100px;" alt="sreenivas alapati"/><br /><sub><b>sreenivas alapati</b></sub></a><br /><a href="#content-cg-cnu" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://artstation.com/artist/stilobique"><img src="https://avatars0.githubusercontent.com/u/3066684?v=4?s=100" width="100px;" alt="Stilobique"/><br /><sub><b>Stilobique</b></sub></a><br /><a href="#content-stilobique" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bob-white"><img src="https://avatars0.githubusercontent.com/u/7028615?v=4?s=100" width="100px;" alt="bob-white"/><br /><sub><b>bob-white</b></sub></a><br /><a href="#content-bob-white" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.nothing-is-3d.com/"><img src="https://avatars0.githubusercontent.com/u/3873421?v=4?s=100" width="100px;" alt="Vincent Lamy"/><br /><sub><b>Vincent Lamy</b></sub></a><br /><a href="#content-Vinc3r" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://blog.theodox.com"><img src="https://avatars3.githubusercontent.com/u/4056600?v=4?s=100" width="100px;" alt="Steve Theodore"/><br /><sub><b>Steve Theodore</b></sub></a><br /><a href="#content-theodox" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.cube-creative.com/"><img src="https://avatars2.githubusercontent.com/u/26791257?v=4?s=100" width="100px;" alt="Cube Creative"/><br /><sub><b>Cube Creative</b></sub></a><br /><a href="#content-developer-cube-creative" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.bumpybox.com"><img src="https://avatars0.githubusercontent.com/u/1860085?v=4?s=100" width="100px;" alt="Toke Jepsen"/><br /><sub><b>Toke Jepsen</b></sub></a><br /><a href="#content-tokejepsen" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://santoshk.dev"><img src="https://avatars3.githubusercontent.com/u/1515991?v=4?s=100" width="100px;" alt="Santosh Kumar"/><br /><sub><b>Santosh Kumar</b></sub></a><br /><a href="#content-santosh" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/listyque"><img src="https://avatars2.githubusercontent.com/u/13370598?v=4?s=100" width="100px;" alt="Alex Miarsky"/><br /><sub><b>Alex Miarsky</b></sub></a><br /><a href="#content-listyque" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://justintennant.me"><img src="https://avatars2.githubusercontent.com/u/7485210?v=4?s=100" width="100px;" alt="Justin Tennant"/><br /><sub><b>Justin Tennant</b></sub></a><br /><a href="#content-justint" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://jtomori.github.io"><img src="https://avatars0.githubusercontent.com/u/22801191?v=4?s=100" width="100px;" alt="Juraj Tomori"/><br /><sub><b>Juraj Tomori</b></sub></a><br /><a href="#content-jtomori" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://hellozee.dev"><img src="https://avatars1.githubusercontent.com/u/12135951?v=4?s=100" width="100px;" alt="Kuntal Majumder"/><br /><sub><b>Kuntal Majumder</b></sub></a><br /><a href="#content-hellozee" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jfpanisset"><img src="https://avatars0.githubusercontent.com/u/32653482?v=4?s=100" width="100px;" alt="Jean-Francois Panisset"/><br /><sub><b>Jean-Francois Panisset</b></sub></a><br /><a href="#content-jfpanisset" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.heavyimage.com"><img src="https://avatars0.githubusercontent.com/u/7820487?v=4?s=100" width="100px;" alt="Jesse Spielman"/><br /><sub><b>Jesse Spielman</b></sub></a><br /><a href="#content-heavyimage" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.corentin-charron.com"><img src="https://avatars2.githubusercontent.com/u/4436347?v=4?s=100" width="100px;" alt="Corentin"/><br /><sub><b>Corentin</b></sub></a><br /><a href="#content-corentincharron" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.saviof.com"><img src="https://avatars0.githubusercontent.com/u/1092099?v=4?s=100" width="100px;" alt="Savio Fernandes"/><br /><sub><b>Savio Fernandes</b></sub></a><br /><a href="#content-artbycrunk" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://in.linkedin.com/in/anvith-shivakumara"><img src="https://avatars3.githubusercontent.com/u/5442547?v=4?s=100" width="100px;" alt="Anvith Shivakumara"/><br /><sub><b>Anvith Shivakumara</b></sub></a><br /><a href="#content-anvth" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/aboellinger"><img src="https://avatars0.githubusercontent.com/u/5718135?v=4?s=100" width="100px;" alt="Antoine Boellinger"/><br /><sub><b>Antoine Boellinger</b></sub></a><br /><a href="#content-aboellinger" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mathbou"><img src="https://avatars1.githubusercontent.com/u/13415583?v=4?s=100" width="100px;" alt="Mathieu Bouzard"/><br /><sub><b>Mathieu Bouzard</b></sub></a><br /><a href="#content-mathbou" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://pype.club"><img src="https://avatars.githubusercontent.com/u/3333008?v=4?s=100" width="100px;" alt="Milan Kolar"/><br /><sub><b>Milan Kolar</b></sub></a><br /><a href="#content-mkolar" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mwestphal"><img src="https://avatars.githubusercontent.com/u/3129530?v=4?s=100" width="100px;" alt="mwestphal"/><br /><sub><b>mwestphal</b></sub></a><br /><a href="#content-mwestphal" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://eoyilmaz.blogspot.com"><img src="https://avatars.githubusercontent.com/u/1786804?v=4?s=100" width="100px;" alt="Erkan Ozgur Yilmaz"/><br /><sub><b>Erkan Ozgur Yilmaz</b></sub></a><br /><a href="#content-eoyilmaz" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mcoliver.com/"><img src="https://avatars.githubusercontent.com/u/622057?v=4?s=100" width="100px;" alt="Michael Oliver"/><br /><sub><b>Michael Oliver</b></sub></a><br /><a href="#content-mcoliver" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/potahto"><img src="https://avatars.githubusercontent.com/u/8496837?v=4?s=100" width="100px;" alt="potahto"/><br /><sub><b>potahto</b></sub></a><br /><a href="#content-potahto" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
