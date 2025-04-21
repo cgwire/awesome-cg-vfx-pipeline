@@ -96,9 +96,11 @@ Any contribution is welcome!
     * [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design.
     * [Sverchok](https://github.com/nortikin/sverchok/) - A powerful parametric Blender tool for architects, allowing geometry to be programmed visually with nodes.
     * [Sorcar](https://aachman98.itch.io/sorcar) - A procedural modeling node-based system which utilizes Blender and its Python API to create a visual programming environment for artists and developers
+* [Blockbench](https://www.blockbench.net/) - Low-poly 3D modeling, texturing, and animation. Desktop/web.
 * [Dust3D](https://dust3D.org) - Dust3D is brand new 3D modeling software. It lets you create watertight 3D models in seconds. Use it to speed up character modeling for games, 3D printing, and so on. [Source are available on GitHub](https://github.com/huxingyi/dust3d).
 * [F3D](https://f3d-app.github.io/f3d/) - Fast and minimalist 3D viewer with animation, thumbnails, and many file formats support.
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork represents a compilation of features and fixes.
+* [FreeCAD](https://www.freecad.org/) - Parametric 3D CAD and BIM modeler with FEM support.
 * [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes. 
 * [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - RealTime 3D Strange Attractors scout on GPU.
 * [Mandelbulb3D](https://github.com/thargor6/mb3d) - A program designed for the Windows platform for generating 3D views of different fractals.
@@ -108,7 +110,7 @@ Any contribution is welcome!
 * [Nodi](https://github.com/Nodi3d/nodi) - Nodi is an online node-based geometry design tool, it's a web tool.
 * [Penzil](https://github.com/jacopocolo/Penzil) - A web application to sketch in 3d made in three.js and Vue.
 * [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox implementing concepts of graph-based visual programming in a simple interface.
-* [SuperSplat] - A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
+* [SuperSplat](https://github.com/playcanvas/supersplat) - A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
 * [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art.
 * [Wings 3D](http://www.wings3d.com/) - An advanced subdivision modeler that is both powerful and easy to use.
 * [ZENO](https://github.com/zenustech/zeno) - Node-based 3D system that can produce cinematic physics effects at high efficiency.
@@ -137,6 +139,7 @@ Any contribution is welcome!
 * [Stride](https://stride3d.net/) - Game engine dedicated tor realistic rendering and VR, develop with a C# techno.
 * [Three.js](https://threejs.org/) - WebGL engine.
   * [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Based on Three.js, this framework is dedicated to generating a 3D Map experience on a web service.
+* [TOOLL3](https://tooll.io/) - Graph-based procedural real-time motion graphics for live performance or rendering.
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5).
 * [UPBGE](https://github.com/UPBGE/upbge) - Integrated game engine in Blender.
 * [Vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine.
@@ -170,6 +173,12 @@ Any contribution is welcome!
 * [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework.
   * [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software.
 * [COLMAP](https://colmap.github.io/) - A general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface.
+* [fSpy](https://fspy.io/) - Still image camera matching.
+  * [fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy Blender importer.
+  * [GdSpy](https://github.com/Alby90/GdSpy) - Unofficial fSpy importer for Godot.
+  * [fSpy-Maya](https://github.com/Nathanieljla/fSpy-Maya) - Unofficial fSpy Maya importer (one of several).
+  * [fSync](https://github.com/MatsValgaeren/fSync) - Unofficial fSpy/Maya bridge which also creates projection shaders.
+  * [fSpy-USD](https://github.com/Vochsel/fspy-USD) - Unofficial fSpy to USD converter.
 * [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists targeted for the Multiple View Geometry community.
 
 ### Photography
