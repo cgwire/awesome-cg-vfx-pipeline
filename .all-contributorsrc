@@ -247,6 +247,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "potahto",
+      "name": "potahto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8496837?v=4",
+      "profile": "https://github.com/potahto",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -254,5 +263,7 @@
   "projectOwner": "cgwire",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
