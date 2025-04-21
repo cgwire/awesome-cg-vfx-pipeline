@@ -190,6 +190,7 @@ Any contribution is welcome!
 ### Video
 
 * [CasparCG](https://github.com/CasparCG) - A Windows and Linux software used to play out professional graphics, audio, and video to multiple outputs as a layer-based real-time compositor.
+* [Dailies](https://github.com/vfxpaco85/dailies/) - Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production.
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows.
