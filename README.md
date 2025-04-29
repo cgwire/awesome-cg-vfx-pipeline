@@ -156,17 +156,23 @@ Any contribution is welcome!
 ### Rendering Engines
 
 * [AppleSeed](https://appleseedhq.net/) - Physically-based global illumination rendering engine.
+* [Aurora](https://github.com/Autodesk/Aurora) - A real-time path tracing renderer that enables fast product visualizations.
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [Cycles](https://www.cycles-renderer.org/) - Physically based production renderer developed by the Blender project.
+* [Falcor](https://github.com/NVIDIAGameWorks/Falcor) - Falcor is a real-time rendering framework supporting DirectX 12 and Vulkan. It aims to improve productivity of research and prototype projects.
 * [kajiya](https://github.com/EmbarkStudios/kajiya) - Experimental real-time global illumination renderer made with Rust and Vulkan.
 * [LuxCoreRender](https://luxcorerender.org/) - Physically-based and unbiased rendering engine.
 * [Mitsuba](https://www.mitsuba-renderer.org/) - A research-oriented retargetable rendering system, written in portable C++17 on top of the Enoki library.
 * [MoonRay](https://openmoonray.org/index) - DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer, which has been used on several feature films.
 * [OSPRay](https://github.com/ospray/ospray) - An open-source, scalable, and portable ray tracing engine for high-performance, high-fidelity visualization on Intel Architecture CPUs.
+* [Pixie](https://github.com/blkdev2/pixie?tab=readme-ov-file) - Pixie is a photorealistic renderer that uses a Pixar's RenderMan-like interface.
+* [PBRT](https://github.com/mmp/pbrt-v4/) - Ray tracer from "Physically Based Rendering: From Theory to Implementation" book.
+* [POVRay](http://www.povray.org/) - The Persistence of Vision Raytracer.
 * [Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) Physically-based engine, product by AMD. 
+* [Sunflow](https://github.com/fpsunflower/sunflow) - Not maintained, Sunflow is an open source rendering system for photo-realistic image synthesis.
 * [Tungsten](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11.
+* [Yafaray](https://github.com/YafaRay/libYafaRay) - libYafaRay is a free open-source montecarlo raytracing engine released under the LGPL 2.1 license. Raytracing is a rendering technique for generating realistic images by tracing the path of light through a 3D scene. 
 * [Yocto/GL](https://github.com/xelatihy/yocto-gl) - A collection of small C++17 libraries for building physically-based graphics algorithms.
-* [Aurora](https://forums.autodesk.com/t5/engineering-hub-blog/aurora-a-real-time-path-tracing-renderer-that-enables-fast/ba-p/11322421) - A real-time path tracing renderer that enables fast product visualizations.
 
 ### Photogrammetry
 
