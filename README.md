@@ -376,7 +376,7 @@ Any contribution is welcome!
 
 * [CGRU](http://cgru.info/) is a CG tools pack that includes AFANASY, a free open-source render farm manager.
 * [Coalition](http://coalition.readthedocs.io/en/latest/) from Mercenaries Engineering (developers of Guerilla Render).
-* [Flamenco](https://www.flamenco.io/) from the Blender Foundation.
+* [Flamenco](https://flamenco.blender.org/) from the Blender Foundation.
 * [OpenCue](https://opencue.io) ([repo](https://github.com/AcademySoftwareFoundation/OpenCue)) An open-source render management system from Sony Imageworks.
 * [Pandora](https://prism-pipeline.com/pandora/) Open-Source Renderfarm-Manager.
 * [Plow](https://github.com/chadmv/plow) by Chad Vernon.
