@@ -189,10 +189,14 @@ Any contribution is welcome!
 
 ### Video
 
+* [Bino](https://github.com/ThreeDeeJay/bino/tree/main) - 3D video player with support for 180°/360° video and Virtual Reality.
 * [CasparCG](https://github.com/CasparCG) - A Windows and Linux software used to play out professional graphics, audio, and video to multiple outputs as a layer-based real-time compositor.
+* [Cinelerra](https://www.cinelerra-gg.org/) - Cinelerra GG Infinity is a free and open source video editing software for Linux.
 * [Dailies](https://github.com/vfxpaco85/dailies/) - Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production.
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+* [Flowblade](https://github.com/jliljebl/flowblade/) - Video Editor for Linux.
+* [Gyroflow](https://github.com/gyroflow/gyroflow/) - Video stabilization using gyroscope data.
 * [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows.
 * [Jitsi](https://github.com/jitsi) - Secure, Simple, and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 * [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt.
@@ -203,6 +207,7 @@ Any contribution is welcome!
 * [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 * [OpenShot](https://github.com/OpenShot/openshot-qt) - Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Open-source version of RV, a digital review tool for film, TV, and games.
+* [Pitivi](https://www.pitivi.org/) - Beautiful and powerful video editor based on GStreamer Editing Services.
 * [qctools](http://bavc.github.io/qctools/) - A free and open-source software tool that helps users analyze and understand their digitized video files through the use of audiovisual analytics and filtering.
 * [Shotcut](https://www.shotcutapp.com/) - A free, open-source, cross-platform video editor.
 * [tlRender](https://github.com/darbyjohnston/tlRender) - timeline render, is an early stage project for rendering editorial timelines.
