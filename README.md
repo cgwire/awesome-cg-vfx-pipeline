@@ -70,6 +70,7 @@ Any contribution is welcome!
 * [Allusion](https://allusion-app.github.io) - Allusion is a tool to help you organize your **Visual Library**. It is a complementary tool to PureRef or another Board tool, like [PureRef](https://www.pureref.com/) or [Kuadro](http://www.kruelgames.com/tools/kuadro/) - no open source software - or [BeeRef](#2d).
 * [BeeRef](https://github.com/rbreu/beeref) - A simple Reference Image Viewer.
 * [Cascade Image Editor](https://github.com/ttddee/Cascade) - A node-based image editor with GPU-acceleration.
+* [Friction](https://github.com/friction2d/friction) - Friction is a powerful and versatile motion graphics application that allows you to create vector and raster animations for web and video.
 * [Gimel Studio](https://github.com/GimelStudio/GimelStudio) - Cross-platform, non-destructive, node based 2D image graphics editor.
 * [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI.
 * [Inkscape](https://inkscape.org/) - Professional quality vector graphics software.
