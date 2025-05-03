@@ -75,18 +75,22 @@ Any contribution is welcome!
 * [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI.
 * [Inkscape](https://inkscape.org/) - Professional quality vector graphics software.
 * [Krita](https://krita.org) - A professional painting program.
-* [Materia](https://github.com/Metric/Materia) - An open-source alternative to Substance Designer written in C#.
+* [Materia](https://github.com/Metric/Materia) - An open-source alternative to Substance Designer written in C#. *(The project was archived)*.
 * [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters focusing on painting rather than image manipulation or post-processing.
-* [Opentoonz](https://opentoonz.github.io/) - Animation production software.
-* [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story.
-* [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor.
-* [Synfig](https://www.synfig.org/) - 2D animation software.
 * [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that lets you create textures by connecting nodes in a graph.
 * [The Gimp](https://www.gimp.org) - A cross-platform image editor.
 * [VArtiste](https://gitlab.com/zach-geek/vartiste) - WebXR/VR painting, drawing, and image editing app.
 * [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) - A procedural terrain generation and procedural modeling toolkit.
 * [G'MIC](https://gmic.eu/) - A full-featured open-source framework for digital image processing.
 * [Graphite](https://graphite.rs/) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
+
+#### Animation
+* [Opentoonz](https://opentoonz.github.io/) - Animation production software.
+* [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story.
+* [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor.
+* [Synfig](https://www.synfig.org/) - 2D animation software.
+* [Tahoma2D](https://tahoma2d.org//) - 2D and Stop Motion Animation Software. [Source on GitHub](https://github.com/tahoma2d/tahoma2d).
+
 
 ### 3D
 
