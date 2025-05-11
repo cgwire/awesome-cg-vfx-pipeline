@@ -218,6 +218,7 @@ Any contribution is welcome!
 * [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 * [OpenShot](https://github.com/OpenShot/openshot-qt) - Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Open-source version of RV, a digital review tool for film, TV, and games.
+* [Shutterencoder](https://www.shutterencoder.com/) is one of the best video converter software, it handles images and audio too!
 * [Pitivi](https://www.pitivi.org/) - Beautiful and powerful video editor based on GStreamer Editing Services.
 * [qctools](http://bavc.github.io/qctools/) - A free and open-source software tool that helps users analyze and understand their digitized video files through the use of audiovisual analytics and filtering.
 * [Shotcut](https://www.shotcutapp.com/) - A free, open-source, cross-platform video editor.
