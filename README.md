@@ -113,6 +113,7 @@ Any contribution is welcome!
 * [MeshLab](https://www.meshlab.net/) - System for processing and editing 3D triangular meshes.
 * [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks.
 * [Nodi](https://github.com/Nodi3d/nodi) - Nodi is an online node-based geometry design tool, it's a web tool.
+* [Talos VFX](https://github.com/rockbite/talos) Node based, open source VFX Editor with powerful interface and a ready to use libGDX runtime.
 * [Penzil](https://github.com/jacopocolo/Penzil) - A web application to sketch in 3d made in three.js and Vue.
 * [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox implementing concepts of graph-based visual programming in a simple interface.
 * [SuperSplat](https://github.com/playcanvas/supersplat) - A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
