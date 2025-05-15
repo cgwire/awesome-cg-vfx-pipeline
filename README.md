@@ -214,6 +214,7 @@ Any contribution is welcome!
 * [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media.
 * [mrViewer2](https://github.com/ggarra13/mrv2) - The Professional Flipbook, Video and Audio Player.
 * [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics.
+* [Nitro](https://github.com/BugelNiels/nitro) Powerful and flexible node editor that facilitates building complex combinations of various image processing techniques.
 * [OBS](https://github.com/obsproject/obs-studio) - software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
 * [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 * [OpenShot](https://github.com/OpenShot/openshot-qt) - Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
