@@ -106,7 +106,8 @@ Any contribution is welcome!
 * [F3D](https://f3d-app.github.io/f3d/) - Fast and minimalist 3D viewer with animation, thumbnails, and many file formats support.
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork represents a compilation of features and fixes.
 * [FreeCAD](https://www.freecad.org/) - Parametric 3D CAD and BIM modeler with FEM support.
-* [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes. 
+* [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.
+* [Effekseer](https://effekseer.github.io/en/)is a tool that allows easy creation of beautiful particle effects for games and movies.
 * [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - RealTime 3D Strange Attractors scout on GPU.
 * [Mandelbulb3D](https://github.com/thargor6/mb3d) - A program designed for the Windows platform for generating 3D views of different fractals.
 * [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) - Mandelbulber creatively generates three-dimensional fractals.
