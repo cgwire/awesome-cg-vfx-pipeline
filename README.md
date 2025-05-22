@@ -196,8 +196,8 @@ Any contribution is welcome!
 
 ### 3D Scanning & Point Cloud Tools
 
-- [CloudCompare](https://www.danielgm.net/cc/) - A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data.
-- [OpenScanTools](https://openscantools.com/) - A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows.
+- [CloudCompare](https://www.danielgm.net/cc/) - A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, and other advanced operations.
+- [OpenScanTools](https://openscantools.com/) - A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.
 
 ### Photography
 
