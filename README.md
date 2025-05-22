@@ -19,6 +19,7 @@ Any contribution is welcome!
     - [Audio](#audio)
     - [Rendering Engines](#rendering-engines)
     - [Photogrammetry](#photogrammetry)
+    - [3D Scanning and Point cloud tools](#3D-Scanning-&-Point-Cloud-Tools)
     - [Photography](#photography)
     - [Video](#video)
     - [UV/Unwrap library](#uvunwrap-library)
