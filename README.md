@@ -193,6 +193,11 @@ Any contribution is welcome!
   * [fSpy-USD](https://github.com/Vochsel/fspy-USD) - Unofficial fSpy to USD converter.
 * [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists targeted for the Multiple View Geometry community.
 
+### 3D Scanning & Point Cloud Tools
+
+- [CloudCompare](https://www.danielgm.net/cc/) - A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data.
+- [OpenScanTools](https://github.com/OpenScanTools/OpenScanTools) - A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows.
+
 ### Photography
 
 * [Darktable](https://www.darktable.org/) - Photography workflow application and raw developer.
