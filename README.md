@@ -19,6 +19,7 @@ Any contribution is welcome!
     - [Audio](#audio)
     - [Rendering Engines](#rendering-engines)
     - [Photogrammetry](#photogrammetry)
+    - [3D Scanning and Point cloud tools](#3D-Scanning--Point-Cloud-Tools)
     - [Photography](#photography)
     - [Video](#video)
     - [UV/Unwrap library](#uvunwrap-library)
@@ -192,6 +193,11 @@ Any contribution is welcome!
   * [fSync](https://github.com/MatsValgaeren/fSync) - Unofficial fSpy/Maya bridge which also creates projection shaders.
   * [fSpy-USD](https://github.com/Vochsel/fspy-USD) - Unofficial fSpy to USD converter.
 * [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists targeted for the Multiple View Geometry community.
+
+### 3D Scanning & Point Cloud Tools
+
+- [CloudCompare](https://www.danielgm.net/cc/) - A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, and other advanced operations.
+- [OpenScanTools](https://openscantools.com/) - A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.
 
 ### Photography
 
