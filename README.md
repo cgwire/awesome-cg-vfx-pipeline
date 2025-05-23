@@ -19,6 +19,7 @@ Any contribution is welcome!
     - [Audio](#audio)
     - [Rendering Engines](#rendering-engines)
     - [Photogrammetry](#photogrammetry)
+    - [3D Scanning and Point cloud tools](#3D-Scanning--Point-Cloud-Tools)
     - [Photography](#photography)
     - [Video](#video)
     - [UV/Unwrap library](#uvunwrap-library)
@@ -106,7 +107,8 @@ Any contribution is welcome!
 * [F3D](https://f3d-app.github.io/f3d/) - Fast and minimalist 3D viewer with animation, thumbnails, and many file formats support.
 * [FragM](https://github.com/3Dickulus/FragM) - Mikael Hvidtfeldt Christensen's Fragmentarium fork represents a compilation of features and fixes.
 * [FreeCAD](https://www.freecad.org/) - Parametric 3D CAD and BIM modeler with FEM support.
-* [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes. 
+* [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.
+* [Effekseer](https://effekseer.github.io/en/)is a tool that allows easy creation of beautiful particle effects for games and movies.
 * [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - RealTime 3D Strange Attractors scout on GPU.
 * [Mandelbulb3D](https://github.com/thargor6/mb3d) - A program designed for the Windows platform for generating 3D views of different fractals.
 * [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) - Mandelbulber creatively generates three-dimensional fractals.
@@ -114,6 +116,7 @@ Any contribution is welcome!
 * [Möbius Modeller](http://design-automation.net/software/mobius/index.html) -  End-user visual programming in the browser for automating complex tasks.
 * [Nodi](https://github.com/Nodi3d/nodi) - Nodi is an online node-based geometry design tool, it's a web tool.
 * [Cables](https://cables.gl/) is your model kit for creating beautiful content with results in real time.
+* [Talos VFX](https://github.com/rockbite/talos) Node based, open source VFX Editor with powerful interface and a ready to use libGDX runtime.
 * [Penzil](https://github.com/jacopocolo/Penzil) - A web application to sketch in 3d made in three.js and Vue.
 * [Possumwood](https://github.com/martin-pr/possumwood) - A graph-based procedural sandbox implementing concepts of graph-based visual programming in a simple interface.
 * [SuperSplat](https://github.com/playcanvas/supersplat) - A browser-based tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats.
@@ -136,6 +139,7 @@ Any contribution is welcome!
 * [Filament](https://github.com/google/filament) - PBR engine, available with all platforms (desktop, mobile).
 * [Fusee](https://github.com/FUSEEProjectTeam/Fusee/) - A multiplatform 3D C# real-time engine with a strong emphasis on content transformation and manipulation.
 * [Godot](https://godotengine.org/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5).
+* [Torque3d](https://torque3d.org/torque3d/) is a powerful, C++ engine, built on literal decades of proven torque technology.
 * [Harfang 3D](https://github.com/harfang3d/harfang3d) - C++ 3D visualization library also usable in Python, Lua, and Go (Windows, Linux).
 * [Neo Axis Engine](https://github.com/NeoAxis/NeoAxisEngine) - NeoAxis Engine is an integrated development environment with built-in 3D and 2D game engine.
 * [Ogre](https://www.ogre3d.org/) - Open source graphical rendering engine.
@@ -146,6 +150,7 @@ Any contribution is welcome!
 * [Three.js](https://threejs.org/) - WebGL engine.
   * [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Based on Three.js, this framework is dedicated to generating a 3D Map experience on a web service.
 * [TOOLL3](https://tooll.io/) - Graph-based procedural real-time motion graphics for live performance or rendering.
+* [Coollab](https://coollab-art.com/A) node-based software to create visual effects and generative-art.
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5).
 * [UPBGE](https://github.com/UPBGE/upbge) - Integrated game engine in Blender.
 * [Vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine.
@@ -192,6 +197,11 @@ Any contribution is welcome!
   * [fSync](https://github.com/MatsValgaeren/fSync) - Unofficial fSpy/Maya bridge which also creates projection shaders.
   * [fSpy-USD](https://github.com/Vochsel/fspy-USD) - Unofficial fSpy to USD converter.
 * [openMVG](https://openmvg.readthedocs.io/en/latest/) - A library for computer-vision scientists targeted for the Multiple View Geometry community.
+
+### 3D Scanning & Point Cloud Tools
+
+- [CloudCompare](https://www.danielgm.net/cc/) - A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, and other advanced operations.
+- [OpenScanTools](https://openscantools.com/) - A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.
 
 ### Photography
 
