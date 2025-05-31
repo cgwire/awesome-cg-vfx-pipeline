@@ -228,6 +228,7 @@ Any contribution is welcome!
 * [OBS](https://github.com/obsproject/obs-studio) - software designed for capturing, compositing, encoding, recording, and streaming video content efficiently.
 * [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 * [OpenShot](https://github.com/OpenShot/openshot-qt) - Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
+* [MediaEditor](https://github.com/opencodewin/MediaEditor) - A lightweight, cross-platform and open-source software for non-linear editing.
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Open-source version of RV, a digital review tool for film, TV, and games.
 * [Shutterencoder](https://www.shutterencoder.com/) is one of the best video converter software, it handles images and audio too!
 * [Pitivi](https://www.pitivi.org/) - Beautiful and powerful video editor based on GStreamer Editing Services.
