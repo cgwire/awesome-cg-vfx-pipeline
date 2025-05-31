@@ -222,6 +222,7 @@ Any contribution is welcome!
 * [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows.
 * [Jitsi](https://github.com/jitsi) - Secure, Simple, and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 * [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt.
+* [LosslessCut](https://mifi.no/losslesscut/) - The Swiss Army Knife of Lossless Video/Audio Editing.
 * [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media.
 * [mrViewer2](https://github.com/ggarra13/mrv2) - The Professional Flipbook, Video and Audio Player.
 * [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics.
