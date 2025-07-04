@@ -76,6 +76,7 @@ Any contribution is welcome!
 * [Imogen](https://github.com/CedricGuillemet/Imogen) - GPU Texture generator using dear imgui for UI.
 * [Inkscape](https://inkscape.org/) - Professional quality vector graphics software.
 * [Krita](https://krita.org) - A professional painting program.
+* [DrawPile](https://drawpile.net/) - is a collaborative drawing program that lets multiple people draw, sketch, paint and animate on the same canvas simultaneously.
 * [Materia](https://github.com/Metric/Materia) - An open-source alternative to Substance Designer written in C#. *(The project was archived)*.
 * [MyPaint](https://github.com/mypaint/mypaint) - Graphics editor for digital painters focusing on painting rather than image manipulation or post-processing.
 * [TexGraph](https://galloscript.itch.io/texgraph) - A procedural texture creation tool that lets you create textures by connecting nodes in a graph.
