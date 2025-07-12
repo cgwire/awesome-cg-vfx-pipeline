@@ -258,6 +258,7 @@ Any contribution is welcome!
 * [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - A completely free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation.
 * [trigger](https://github.com/masqu3rad3/trigger) - Operational code-driven rigging tool for Autodesk Maya.
 * [xComp](https://github.com/gugenstudio/xComp) - Image Render comparing.
+* [FreeMoCap](https://freemocap.org/) - free-and-open-source motion capture system.
 
 ### Low-code platforms
 
