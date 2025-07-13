@@ -155,6 +155,7 @@ Any contribution is welcome!
 * [Unreal Engine](https://www.unrealengine.com/) - C++ based 2D/3D realtime engine (PC, console, mobile, HMTL5).
 * [UPBGE](https://github.com/UPBGE/upbge) - Integrated game engine in Blender.
 * [Vengi](https://mgerhardy.github.io/engine/) - A C++ voxel game engine.
+* [StratusGFX](https://github.com/KTStephano/StratusGFX) - Free and open source Realtime 3D rendering engine.
 
 ### Audio
 
