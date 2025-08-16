@@ -85,6 +85,7 @@ Any contribution is welcome!
 * [TerraForge3D](https://jaysmito101.github.io/TerraForge3D/) - A procedural terrain generation and procedural modeling toolkit.
 * [G'MIC](https://gmic.eu/) - A full-featured open-source framework for digital image processing.
 * [Graphite](https://graphite.rs/) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
+* [PixiEditor](https://pixieditor.net/) - Universal 2D Graphics Editor one to rule them all (procedural graphics with Node Graph, Image Editing, Vectors, Pixel Art, Animations).
 
 #### Animation
 * [Opentoonz](https://opentoonz.github.io/) - Animation production software.
