@@ -129,6 +129,7 @@ Any contribution is welcome!
 * [Plasticity](https://github.com/nkallen/plasticity) - A 3d modelling software for concept artists.
 * [Threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
 * [Material Maker](https://rodzilla.itch.io/material-maker) - A procedural materials authoring tool based on the Godot Engine.
+* [Mesh2Motion](https://mesh2motion.org/) - FREE & open-source web application to animate your 3D models. Supports humanoid, four-legged, and bird creatures.
 
 ### 3D realtime engines
 
