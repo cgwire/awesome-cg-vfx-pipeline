@@ -86,6 +86,7 @@ Any contribution is welcome!
 * [G'MIC](https://gmic.eu/) - A full-featured open-source framework for digital image processing.
 * [Graphite](https://graphite.rs/) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 * [PixiEditor](https://pixieditor.net/) - Universal 2D Graphics Editor one to rule them all (procedural graphics with Node Graph, Image Editing, Vectors, Pixel Art, Animations).
+* [Pinta](https://www.pinta-project.com/) - open-source program for drawing and image editing.
 
 #### Animation
 * [Opentoonz](https://opentoonz.github.io/) - Animation production software.
