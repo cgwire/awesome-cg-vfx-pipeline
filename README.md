@@ -215,6 +215,7 @@ Any contribution is welcome!
 * [Darktable](https://www.darktable.org/) - Photography workflow application and raw developer.
 * [dcraw](https://www.dechifro.org/dcraw/) - A tool that decodes any raw image from any digital camera on any computer running any operating system.
 * [RawTherapee](https://github.com/Beep6581/RawTherapee) - free, cross-platform raw image processing program.
+* [RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 
 ### Video
 
