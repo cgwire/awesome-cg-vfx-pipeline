@@ -267,6 +267,7 @@ Any contribution is welcome!
 * [trigger](https://github.com/masqu3rad3/trigger) - Operational code-driven rigging tool for Autodesk Maya.
 * [xComp](https://github.com/gugenstudio/xComp) - Image Render comparing.
 * [FreeMoCap](https://freemocap.org/) - free-and-open-source motion capture system.
+* [EasyMocap](https://github.com/zju3dv/EasyMocap?tab=readme-ov-file) - is an open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
 * [Converseen](https://converseen.fasterland.net/) - batch image processor(convert, resize, rotate, and flip) can handle more than 100+ image formats.
 
 ### Low-code platforms
