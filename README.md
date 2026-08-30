@@ -212,6 +212,7 @@ Any contribution is welcome!
 - [CloudCompare](https://www.danielgm.net/cc/) - A 3D point cloud (and triangular mesh) processing software. Open-source and designed for visualizing and editing LiDAR and photogrammetry data. Good for alignment, meshing, cleanup, segmentation, and other advanced operations.
 - [OpenScanTools](https://openscantools.com/) - A collection of open-source tools for photogrammetry, depth-sensing, and 3D reconstruction workflows. Nice rendering options for xray style.
 - [Brush](https://github.com/ArthurBrussee/brush) - is a 3D reconstruction engine using Gaussian splatting.
+- [LichtFeld-Studio](https://lichtfeld.io/) - Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.
 
 ### Photography
 
