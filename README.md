@@ -243,6 +243,7 @@ Any contribution is welcome!
 * [Olive](https://www.olivevideoeditor.org/) - Non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 * [OpenShot](https://github.com/OpenShot/openshot-qt) - Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Open-source version of RV, a digital review tool for film, TV, and games.
+* [RenderKit](https://github.com/Ahmed-Hindy/renderkit) - VFX-focused image-sequence-to-video converter with OpenImageIO, OpenColorIO, quality controls, CLI, and UI.
 * [Shutterencoder](https://www.shutterencoder.com/) is one of the best video converter software, it handles images and audio too!
 * [Pitivi](https://www.pitivi.org/) - Beautiful and powerful video editor based on GStreamer Editing Services.
 * [qctools](http://bavc.github.io/qctools/) - A free and open-source software tool that helps users analyze and understand their digitized video files through the use of audiovisual analytics and filtering.
@@ -263,9 +264,11 @@ Any contribution is welcome!
 * [Capsule](https://github.com/Takanu/Capsule) - Blender addon to export, manage and automate to share between Blender and Unreal/Unity or other real-time engine. 
 * [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Python library to generate a stylized rendering from an image.
 * [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) - Create textures from Glsl fragment shaders on Blender (2.8)
+* [Houdini Denoise Utils](https://github.com/Ahmed-Hindy/h_denoise_utils) - GUI and CLI denoising utility built around Intel Open Image Denoise and NVIDIA OptiX.
 * [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [Prisma](https://github.com/patriciogonzalezvivo/prisma) - Computational photography pipeline tool that performs multiple inferences (masks, depth, motionvectors) from any image or video.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for Unreal Engine 4.
+* [Universal Scene Converter](https://github.com/Ahmed-Hindy/universal-scene-converter) - CLI and desktop tool for converting 3D assets between OpenUSD, FBX, OBJ, STL, and glTF.
 * [LYNX](https://github.com/LucaScheller/VFX-LYNX) - Free & OpenSource VFX Pipeline Tools.
 * [qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini.
 * [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - A completely free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation.
@@ -462,6 +465,7 @@ Any contribution is welcome!
 
 ## Content validation
 
+* [USD Scene Audit](https://github.com/Ahmed-Hindy/usd-scene-audit) - Command-line OpenUSD scene checks for geometry, naming, hierarchy, materials, and authored asset references.
 * [Pyblish](http://pyblish.com/) - A Python framework that brings test-driven development to visual effects and
  triple-A game creation.
   * [Blender Pyblish](https://github.com/jasperges/pyblish-blender) - Blender Addon to integrate the Pyblish framework 
