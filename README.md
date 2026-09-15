@@ -264,14 +264,18 @@ Any contribution is welcome!
 * [Capsule](https://github.com/Takanu/Capsule) - Blender addon to export, manage and automate to share between Blender and Unreal/Unity or other real-time engine. 
 * [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Python library to generate a stylized rendering from an image.
 * [Glsl Texture](https://github.com/patriciogonzalezvivo/glslTexture) - Create textures from Glsl fragment shaders on Blender (2.8)
+* [Houdini Asset Relinker](https://github.com/Ahmed-Hindy/houdini_asset_relinker) - Houdini tool to audit and relink external texture, geometry, USD, and HDA paths.
 * [Houdini Denoise Utils](https://github.com/Ahmed-Hindy/h_denoise_utils) - GUI and CLI denoising utility built around Intel Open Image Denoise and NVIDIA OptiX.
 * [OD CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Tool to easily copy/paste a geometry across 3D application like Blender <> 3DS Max <> Maya <> ... <> and more.
 * [Prisma](https://github.com/patriciogonzalezvivo/prisma) - Computational photography pipeline tool that performs multiple inferences (masks, depth, motionvectors) from any image or video.
 * [UE4 Env. project](https://github.com/UE4-OceanProject/Environment-Project) - An Environment Simulation project for Unreal Engine 4.
 * [Universal Scene Converter](https://github.com/Ahmed-Hindy/universal-scene-converter) - CLI and desktop tool for converting 3D assets between OpenUSD, FBX, OBJ, STL, and glTF.
+* [USD Optimize App](https://github.com/Ahmed-Hindy/usd-optimize-app) - CLI and GUI wrapper for OpenUSD scene optimization workflows.
 * [LYNX](https://github.com/LucaScheller/VFX-LYNX) - Free & OpenSource VFX Pipeline Tools.
+* [Materials Processor](https://github.com/Ahmed-Hindy/Materials-Processor) - Cross-DCC material ingestion and conversion tool for Houdini, Blender, Maya, and OpenUSD.
 * [qLib](https://github.com/qLab/qLib) - A procedural asset library for SideFX Houdini.
 * [SideFX Labs](https://github.com/sideeffects/SideFXLabs) - A completely free, open-source toolset geared towards assisting Houdini users with a variety of tasks commonly used for digital content creation.
+* [Substance Painter USD Creator](https://github.com/Ahmed-Hindy/Substance-Painter-Usd-Creator) - Substance Painter plugin that exports USD assets and renderer-ready material networks.
 * [trigger](https://github.com/masqu3rad3/trigger) - Operational code-driven rigging tool for Autodesk Maya.
 * [xComp](https://github.com/gugenstudio/xComp) - Image Render comparing.
 * [FreeMoCap](https://freemocap.org/) - free-and-open-source motion capture system.
