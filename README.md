@@ -87,6 +87,10 @@ Any contribution is welcome!
 * [Graphite](https://graphite.rs/) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based procedural workflow.
 * [PixiEditor](https://pixieditor.net/) - Universal 2D Graphics Editor one to rule them all (procedural graphics with Node Graph, Image Editing, Vectors, Pixel Art, Animations).
 * [Pinta](https://www.pinta-project.com/) - open-source program for drawing and image editing.
+* [FilterJS](https://github.com/CosmoMyzrailGorynych/FilterJS) - A node-based procedural texture generator, written in node.js and powered by WebGL.
+* [Mixture](https://github.com/alelievr/Mixture) - A node-based tool crafted in Unity to generate all kinds of textures in realtime.
+* [NeoTextureEdit](https://neotextureedit.sourceforge.net/) - An easy to use graph-based procedural seamless texture editor.
+* [TextureLab](https://github.com/njbrown/texturelab) - Cross-platform, GPU-accelerated, node-based procedural texture generator.
 
 #### Animation
 * [Opentoonz](https://opentoonz.github.io/) - Animation production software.
@@ -134,6 +138,9 @@ Any contribution is welcome!
 * [Material Maker](https://rodzilla.itch.io/material-maker) - A procedural materials authoring tool based on the Godot Engine.
 * [Mesh2Motion](https://mesh2motion.org/) - FREE & open-source web application to animate your 3D models. Supports humanoid, four-legged, and bird creatures.
 * [CozyClay](https://cozyclay.org) - Open-source browser-based 3D staging and previz studio. Block a scene, pose characters, author camera moves and cuts on a timeline, and preview generated motion. Handles like the Unity Editor.
+* [Hesiod](https://github.com/ottolink-dev/Hesiod) - A desktop application for node-based procedural terrain generation.
+* [Jahshaka](https://www.jahshaka.com/) - 3D virtual reality authoring, publishing and playback platform. [Source on GitHub](https://github.com/jahshaka/Studio).
+* [Protongraph](https://github.com/protongraph/protongraph) - A node-based software for procedural 3D content creation.
 
 ### 3D realtime engines
 
@@ -228,10 +235,12 @@ Any contribution is welcome!
 * [Cinelerra](https://www.cinelerra-gg.org/) - Cinelerra GG Infinity is a free and open source video editing software for Linux.
 * [Dailies](https://github.com/vfxpaco85/dailies/) - Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production.
+* [dwencode](https://github.com/DreamWall-Animation/dwencode) - FFmpeg Python wrapper to encode image sequences to movies with overlay text, and to concatenate videos side-by-side or stacked for comparison.
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [Flowblade](https://github.com/jliljebl/flowblade/) - Video Editor for Linux.
 * [Gyroflow](https://github.com/gyroflow/gyroflow/) - Video stabilization using gyroscope data.
 * [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework that links together a wide variety of media processing systems to complete complex workflows.
+* [HandBrake](https://handbrake.fr/) - A tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 * [Jitsi](https://github.com/jitsi) - Secure, Simple, and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 * [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt.
 * [LosslessCut](https://mifi.no/losslesscut/) - The Swiss Army Knife of Lossless Video/Audio Editing.
@@ -281,6 +290,11 @@ Any contribution is welcome!
 * [FreeMoCap](https://freemocap.org/) - free-and-open-source motion capture system.
 * [EasyMocap](https://github.com/zju3dv/EasyMocap?tab=readme-ov-file) - is an open-source toolbox for markerless human motion capture and novel view synthesis from RGB videos.
 * [Converseen](https://converseen.fasterland.net/) - batch image processor(convert, resize, rotate, and flip) can handle more than 100+ image formats.
+* [DwPicker](https://github.com/DreamWall-Animation/dwpicker) - Animation picker for Autodesk Maya.
+* [HDRView](https://github.com/wkjarosz/hdrview) - A research-oriented image viewer with an emphasis on examining and comparing high-dynamic range (HDR) images.
+* [ImageViewer](https://github.com/kopaka1822/ImageViewer) - HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and tonemapper.
+* [PlumberManager](https://github.com/hasielhassan/PlumberManager) - A helper tool to design CG pipeline interactive diagrams and data flow documentation.
+* [Upscayl](https://upscayl.org/) - Open-source AI image upscaler for Linux, macOS and Windows.
 
 ### Low-code platforms
 
@@ -402,6 +416,7 @@ Any contribution is welcome!
 * [pfstools](http://pfstools.sourceforge.net/) - A set of command line programs for reading, writing, and manipulating high-dynamic range (HDR) images and video frames.
 * [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - Example-based texture synthesis written in Rust.
 * [OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO) - Interoperability standard for tools and content management systems used in media production.
+* [QOI](https://qoiformat.org/) ([repo](https://github.com/phoboslab/qoi)) - The "Quite OK Image Format" for fast, lossless image compression.
 
 ### USD
 
