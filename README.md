@@ -141,6 +141,7 @@ Any contribution is welcome!
 * [Hesiod](https://github.com/ottolink-dev/Hesiod) - A desktop application for node-based procedural terrain generation.
 * [Jahshaka](https://www.jahshaka.com/) - 3D virtual reality authoring, publishing and playback platform. [Source on GitHub](https://github.com/jahshaka/Studio).
 * [Protongraph](https://github.com/protongraph/protongraph) - A node-based software for procedural 3D content creation.
+* [SculptForge](https://github.com/islandmed/SculptForge) - Digital sculpting with SubTools, subdivision levels, sculpt layers, dynamic topology, quad retopology and normal/displacement map baking. Exports OBJ, FBX, GLB and USD, with GoZ and a Blender bridge.
 
 ### 3D realtime engines
 
