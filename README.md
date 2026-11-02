@@ -336,6 +336,7 @@ Any contribution is welcome!
 * [CGCmake](https://github.com/chadmv/cgcmake) - CMake modules for CG apps.
 * [Cortex](https://github.com/ImageEngine/cortex) - Libraries for VFX software development.
 * [Cross3D](https://github.com/blurstudio/cross3d) - Scene and node management abstraction.
+* [DCC-MCP Agent Plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) - Agent Skills for AI-assisted workflows in DCC applications and development of DCC-MCP adapters.
 * [ExoCortex for Max 2018](https://github.com/unit-image/ExocortexCrate) - ExoCortex ported to Max 2018.
 * [mGui](https://github.com/theodox/mGui) - Portable pure-python GUI library for Maya.
 * [minq](https://github.com/theodox/minq) - Maya query language for speeding up common scene operations.
