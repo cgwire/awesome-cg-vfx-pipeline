@@ -255,6 +255,7 @@ Any contribution is welcome!
 * [OpenShot](https://github.com/OpenShot/openshot-qt) - Award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high-quality video editing and animation solutions to the world.
 * [OpenReview](https://github.com/maruthuvfx/OpenReview) - Open-source, studio-grade VFX sequence playback, HDR color inspection, multi-source compositing comparison, and collaborative dailies review.
 * [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - Open-source version of RV, a digital review tool for film, TV, and games.
+* [re-play](https://github.com/coreetgraph/re-play) - Modern player and review tool for VFX and animation (Windows, Mac, Linux). Plays EXR/DPX/ProRes, image sequences and 3D files, understands your project structure to find shots and versions, connects to production and asset managers (Kitsu, ShotGrid, Prism; ftrack and AYON coming soon) and can work with an AI through MCP. Free, Apache 2.0 (source code not published yet).
 * [RenderKit](https://github.com/Ahmed-Hindy/renderkit) - VFX-focused image-sequence-to-video converter with OpenImageIO, OpenColorIO, quality controls, CLI, and UI.
 * [Shutterencoder](https://www.shutterencoder.com/) is one of the best video converter software, it handles images and audio too!
 * [Pitivi](https://www.pitivi.org/) - Beautiful and powerful video editor based on GStreamer Editing Services.
