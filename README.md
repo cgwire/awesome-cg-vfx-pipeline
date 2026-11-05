@@ -511,6 +511,7 @@ Any contribution is welcome!
 
 * [AFX](https://github.com/AuthorityFX/afx-nuke-plugins) - Everyday compositing for Nuke
 * [Cmt](https://github.com/chadmv/cmt) - Various Maya tools
+* [Comfy Pro Alpha Generator](https://github.com/rik-python/ComfyUI-Comfy-Pro-Alpha-Generator) - ComfyUI node for AI rotoscoping: click one person, get a native 4K alpha matte with hair-level edges (SAM3 + LTX-2.5 alpha-gen, EXR in/out).
 * [FTrack Hooks](https://github.com/tokejepsen/ftrack-hooks) Set of plugins for FTrack
 * [OnionSkinRenderer](https://github.com/Viele/onionSkinRenderer) - Onion Skin Renderer for Maya
 * [Palladio](https://github.com/Esri/palladio) - CityEngine Plugin for Houdini
