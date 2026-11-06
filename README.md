@@ -246,6 +246,7 @@ Any contribution is welcome!
 * [Kdenlive](https://www.kdenlive.org) - Video editing software based on the MLT Framework, KDE and Qt.
 * [Lumit](https://github.com/luminalmvm/Lumit) - A native motion-graphics and compositing editor.
 * [LosslessCut](https://mifi.no/losslesscut/) - The Swiss Army Knife of Lossless Video/Audio Editing.
+* [Mago Studio](https://github.com/MagoStudio/MagoStudio) - Open-source desktop video editor that transforms existing footage and generates new shots with AI models running locally on your own GPU through ComfyUI.
 * [MediaPipe](https://mediapipe.dev/) - Cross-platform, customizable ML solutions for live and streaming media.
 * [mrViewer2](https://github.com/ggarra13/mrv2) - The Professional Flipbook, Video and Audio Player.
 * [Natron](https://natron.fr) - Open Source Compositing Software For VFX and Motion Graphics.
