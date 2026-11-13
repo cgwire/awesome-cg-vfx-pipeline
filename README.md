@@ -237,6 +237,7 @@ Any contribution is welcome!
 * [Dailies](https://github.com/vfxpaco85/dailies/) - Wraps ffmpeg, Nuke, or RV to process video files and image sequences. Integrates with Shotgun, Ftrack, Kitsu.
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional review software for VFX, animation, and film production.
 * [dwencode](https://github.com/DreamWall-Animation/dwencode) - FFmpeg Python wrapper to encode image sequences to movies with overlay text, and to concatenate videos side-by-side or stacked for comparison.
+* [EXR Converter](https://github.com/derek-rein/exr-converter) - Desktop app and CLI for EXR to video and video to EXR conversion, built for VFX dailies, review exports, and plate round-trips. OpenColorIO throughout, camera RAW support (R3D, BRAW, ARRIRAW, ProRes RAW, CinemaDNG), slates and burn-ins, and anamorphic pixel aspect handling. Windows, macOS, and Linux. MIT.
 * [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
 * [Flowblade](https://github.com/jliljebl/flowblade/) - Video Editor for Linux.
 * [Gyroflow](https://github.com/gyroflow/gyroflow/) - Video stabilization using gyroscope data.
